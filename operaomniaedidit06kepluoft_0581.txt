@@ -1,0 +1,75 @@
+, Excerpta' ex Tabulis Rudolphinis. 567
+
+Jam sit KP = 46ο 18¹ 51¹¹ ΔΑΚΒ = ΙΙ, AB. KL vel
+= 19110. Sin 46⁰ 18¹ 51¹¹
+= 13819¹¹ = 3⁰ 50¹ 19¹¹
+Sector KBP = 460 18¹ 51¹¹
+
+Sector KPA- ·— W(anomalia media.)
+
+66) p. 422 Si anomalia eccentri x = 47⁰ 42¹ 20¹¹, erit ex praemissis
+ΟΗ = cos, 47⁰ 42¹ 20¹¹ ,0,09265 = 006234’8
+ads aas} Ξ attii?
+
+cos. GAL = Η- 0‘76559 ==== cos. 43⁰ 53¹ 30¹¹. (Keplero prodeunt
+Ἴ 54¹ 12¹¹, quia ponit cos. x = 0,67277 pro 0,67294.)
+
+CA .- 1062348
+67) p. 426. Verba ‹Antilogarithmus» et «Mesologarithmus» Keplerus in Tab.'Rud.
+- sic explieat: Breviter indicandum est calculatori, quod aliis in libris docetur prolixius,¹
+legarithmum esse numerum formae, non logisticae cum titulis-seu apicibus, sed sim⁴
+
+plicis et vulgaris, quo indicatur proportio, quam habet sinus cujusque arcus circuli
+
+ 
+
+⁴ ad sinum totum seu semidiametrum‚ antilogarithmum vero exprimere proportionem
+
+sinus complementi cujusque arcus, quem Gunterus Anglus· Co-Sinum appellat.
+Nomen antilogarithmi desumtum est ex novissima ordinatione canonis si-
+¹uuum, a G. J. Rhetico Valentino Othone in Opere Palatino, ab Adriano Romano,
+· christophoro Clavio, Ι andspergio, Pitisco aliisque usurpata, in qua unum in conspec-
+tum veniunt arcus quisque et complementum eJ'us ad quadrantem, ille quidem 111
+fronte et margine sinistro iste vero in calce et margine dextro Qua ratione fit, ut in
+eadem linea exhibeantur sinus arcus ad sinistram et sinus complementi ad dextram,
+id quod plurimas hactenus commoditates praestitit in computationibus geometricis.
+Haec ordinatio canonis facem praetulit J oanni Nepero, Barom Merch1ston1o
+legarithmorum inventori, ut videret, tribus legarithmis in quaque linea 6 omnino ca-
+nonis numerorum vices obiri posse? Posito enim logarithmo arcus ad sinistram, lo-
+’ garithmo complementi e regione ad dextram, primum iidem legarithmi, privativo signo
+induti, proportiones exprimunt etiam secantum, quos habent arcus contrapositi, deinde
+subtractione facta duorum logarithmorum eJusdem lineae, minoris a majori, differentia
+cum signo positivo proportionem exhibet tangentis arcus sinistri, cum signo priva-
+tivo, tangentis arcus dextri. Hac de causa Neperus et post eum Ursinus huic medio
+numero nomen differentialis indiderunt. Mihi vocem istam cum mesoloyarithmi voce
+permutare. placuit, ut quae vel primis literis rem suam citra ambiguitatem significat3
+logarjthmo vero, qui est in alterutro latere e regione cujusque arcus scrupulorum,
+·untiloyarithmi nomen dedi, quippe contra positi: ut sic logarithmus unusquislibet
+
+arcus cujusque sit idem et antilogarithmus arcus contrapositi, qui cum illo implet ’
+
+‘imi-llaec& ordinatio legarithmorum legitima est et naturalis in libris geometricis dic-
+
+torum auctorum, quam in iis nequaquam temerandam aut cum alia permutandam
+censeo. —
+
+68)p. 429. Euclidis Optica et Gatoptrica, graece edita eademque latine reddita per J. Ponam,
+Regium mathematicum Parisiis 1557, graecum textum hunc habet.P1-op.57:tov ὄμματος
+παραφερομενου, τα :tophet των ὁρωμενων καταλειπεσθαι ὃοξεις prop 581101 αὑξανομενα των
+
+- μογεθων ἔγγιον bouet τῳ ὀμματι προσαγεσθαι. Versio Penas haec est: prop. 57. oculo cele-
+
+riter moto res spectatae procul positae relinqui videntur3 prop. 58: magnitudines auctae
+propius ad oculum accedere existimantur.
+
+ln Editione Euclidis operum Basiliensis (1558) hae propositiones sic vertuntur. «oculo
+
+1181111810, quae longius spectantur, destitui videntur Auctae magnitudines propius oculo
+
+produci putantur › Quare videtur Campani editio, quarn non ad manus babemus, similem his
+versionem habere.
+
+69) p. 432. Archimedes 111 libello de Arenae numero regem Gelonem allocutus di-
+dt: Optime nosti,1nundum a plerisque astrologis vocari sphaeram, cujus quidem centrum
+idem est atque Terrae Haec utique refellens Aristarchus Samius in positionibus edidit,
+

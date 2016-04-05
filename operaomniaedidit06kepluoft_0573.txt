@@ -1,0 +1,96 @@
+Excerpta ex Tabulis Rudolphinis. ι 559
+
+Ιο meridiano Fruebnrgi Warmiae, sub quo Copernicus observavit, constituendo,
+
+praeter supra dicta consului etiam intervalla itineraria. Numerantur 00110 Lubeca
+
+Dantiscum milliaria 8, itinere brevissimo secundum litus maris Baltici, quae sunt
+31⁴. Lube'ca vero Rostochio abest minutis 8, 1011100 0110110, 110 0100001 Dantisco 29¹
+vel 2'8‘. Inde vero Frueburgum indicibus mappis sunt 4¹. Invenio 10 01101110 meis
+
+-- alias etiam inter Rostochium et Stargardiam 15⁴ per eclipses, quae 1110 ex dictis fun-
+. (lamentis feci 11’, interim dum de promotione locorum orientalium, de qua paulo prius,
+
+‘amplius delibero.
+
+Sed modus esto hujus αἰτιολογιας; 0(1 praecepta transeamus Primus igitur et ’
+proprius catalogi usus est in temporis, quo futura computatur eclipsis aliqua‘ aut (ΥΘ
+cum 0101110, 1011110110οθ 0(1 meridianum cujusque 1001. Ε1 tunc tituli differentiae meri-
+
+* ‘dianorum adjuncti debent observari, addendae sc. tempori per calculum invento horae
+
+et minuta, quibus addita est litera A, subtrahendae, quas litera S sequitur, quia ori·
+
+· 01110100 plus, occidentales minus numerant Hac ratione fiet interdum, ut numerus
+‚horarum addendo super 24 excrescens, iis detractis, in diem sequentem sit conferen
+
+· 11110, aut si maj0r numerus subtrahi jubeatur a minore temporis Uraniburgici, diei
+
+3
+1
+
+l
+
+,antecedentis horae 24 adsciscendae sint ipsumque phaenomenon aliis. locis, alii diei
+
+mensis adscribendum. Si vero certum 1001 cujusque tempus offeratur, sub quo sit
+observata Luna, jubearisque vel propterhanc observationem, vel ob aliam eausam
+
+‘computare locum Lunae planetarumve ex, his tabulis 011 meridianum loci: priusquam
+
+α,111 aggrediaris opus, horas et minuta, loco cuilibet in catalogo apposita, contra quam
+jubent tituli, subtrahe vel adde a tempore oblato, ut id reducatur ad· meridianum
+Uraniburgicum seu Romanum. Praeceptum 001 facile et tritum, nec eget exemplo
+
+κ peculiari.
+
+Cape vero calculator etiam modum corrigendi has meridianorum differentias, si
+correctione opus habuerint aut si. te cura tangit augendi catalogi. Milliare Germa-
+uicum aestimatur communiter iter, quod duarum horarum intervallo pedes quilibet
+expeditus conficit. Eorumnmilliarium 15 insunt in uno gradu circuli magni, per super·
+ficiem Terrae ducti. Cum ergo duorum locorum offertur intervallum in milliaribus
+Germanicis, siquidem ea communia fuerint et via brevissima, non flexuosa longis am-
+bagibus: divide numerum milliarium per 15, ut redigantur in gradus et scrupula cir-
+culi magni: Deinde utriusque· -loci differentiam altitudinum poli alicunde tibi compara.
+Nam si uterque locus 10 eadem fuerit mappa particulari, facile differentia haec exqui-
+titur et sine periculo 0110110, 01101001 altitudines ipsae vitium habuerint. Sin autem
+1000 longius dissita fuerint 10 ortum vel occasum, parvum erit nocumentum etiam ab'
+0110101110 011000 differentiae hujus Itaque poteris uti 011. poli loci unius etiam ex
+1100 catalogo desumta, alterius vero loci longiuscule distantis alt poli ex quacunque
+charta vel traditione excerpta. Jam si intervallum non est magnum, expedit compen-
+dium sectari, quantumvis inartificiale. Antilog, diff. 011. poli aufer ab antilog.· inter-
+valli‘ 10 gradus reducti residuum ut antilog. ostendet arcum, a cujus log. aufer antilog.
+alt. poli majoris, restabit logarithmus, osteudens gradus et scrupula aequatoris, quae
+per 4 multiplicati dant minuta horaria differentiae locorum.
+
+Exemplum, quod his addit Keplerus, idem est quod in nostro textu. Calculus sic
+u' habet, adhibitis pro Keplerianis Briggii logarithmis:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Differ-entia alt. poli = 1⁰ 14¹, distantia locorum = 2⁰,
+
+cos. 2⁰ > log. cos, 2⁰ = 9539927354
+
+⁰0³· x = ωε, 10 14¹·10g. cos. 1⁰ 14¹ = 9’9998994
+
+x = 1⁰ 34¹ 30¹¹ ........ = 9 ,9998360
+
+, sin. 1⁰3·1‘30‘¹ log, sin 1⁰ 34¹l2¹ = 8,4391032
+
+sin. y = Sin 4¹8⁰16 3 log sin. 48⁰ 16‘ = 98728849
+
+y .- 2⁰ θ’ 40¹¹ ......... 8, 5662183
+Keplero prodeunt 2⁰ 39⁴, cum differentiam ‹antilogarithmorum2› 61 01 23 ponat =
+
+48 indeque eliciat arcum paralleli = 1⁰ 46¹.
+
+- Ratio hujus modi haec cst: qnia distantia locorum 01 alt. diff. parva est,tria11gu-
+lum, quod efficitur ducto areu parallelo aequaturi, quasi rectangulum consideratur, in quo
+

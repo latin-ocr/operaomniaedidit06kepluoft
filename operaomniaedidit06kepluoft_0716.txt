@@ -1,0 +1,69 @@
+702 Tabularum Rudolphinarum.
+
+totalem in horizonte, cujus ex Heptacosiadis sexagesimaria exscribe log. logisticam
+eique adde log. distantiae 2) a vertice ex canone quadrantis, qui idem est log. alti-
+tudinis 2) observatae3 summa, in *Heptacos quaesita, exhibet in columna sexagesi-
+maria parallaxin altitudinis, quam adde <logistice, si opus est) ad alt. visibilem seu
+observatam, et habebis veram. Contraria ratione tractares distantiam a vertice ob-
+
+servatam, ut pateat vera.
+
+Exemplum. Sit parallaxis tota horizontis 53⁴, ex anomalia coaequata 136⁰. 30¹.
+Ejus log. est privativus —· 4886. Sit alt. 3) 29⁰ 30‘, log. 138305 hinc ablatis 4886
+(quod est addere privativum), restat 8994, 3qni ut positivus in sexagesimaria sinistra
+quaesitus, ostendit 54¹ 50⁴¹ parallaxin, altitudinis. Vera igitur altitudo erit 30⁰ 24¹ 50¹2
+
+Nro. 133. Cujus rei conficiendae doctrinam utilissimam tradidi ante annos 21
+in Astr. parte Optica‚ nec 'ex eo quicquam inveni commodius. , Cum igitur plurimus
+sit hujus parallaxium doctrinae usus in astronomia, cum Reinlsoldi tabulae parallac-
+ticae ad climata diversa, magna Prutenicarum pars, usu sint intricatae et ‘difficiles
+ob necessitatem partis proportionalis, in tanta obliquarum ascensionum et nonagesimi
+eclipticae gradus varietate, cum in eclipsibus Q unici scrupuli, peccato, quod in Pru-
+tenicis parallaxium tabulis facillime committitur, rei summa vertatur, noctem an diem
+defectus Q sit praestaturus: hinc adeo consilium cepi, per 90 tabellas omnem nona-
+
+gesimi varietatem in aperto ponere, ut eo ex Rudolphinis depromto calculator de reli· ι
+
+quo rationem diducendi parallaxes Lunae, secundum praeceptum in Opticis traditum,
+facilem¹ habeat et expeditam.
+
+Primum igitur per anomaliam Lunae, ut proximo praeceptO, parallaxis horizontis
+totalis excerpatur. Deinde cavendum hoc calculatori diligenter, ut cum hactenus
+’ locum Lunae collegerit ad tempus aequale ad meridiem Uraniburgicam, jam porro in
+parallaxibus indagandis sciat sibi redeundum esse ad tempus apparens, accommodatum
+certo loci meridiano, pro quo parallaxes vult computare. Quare secundum doctrinam
+primi mobilis per locum Q verum ex tabula asc. rectarum excerpenda est asc. recta Q
+eique adjiciendae sunt horae et minuta temporis apparentis, prins per heptacosiada
+redactae in partes et scrupula ‘aequatoris, ut sic habeatur asc. recta medii coeli, cui
+si porro adjiciantur partes 90, consurget asc. obliqua gradus orientis. Tertio, cum
+alt. poli borealis deligenda est tabula una ex 90, in qua quaesita asc. obliqua horo-
+scopi ostendet et gradum eclipticas orientem, et angulum, quem ecliptica facit cum
+horizonte. Haec hactenus ex doctrina primi mobilis fuerunt repetenda. Quarto, cog-
+nito gradu oriente, scitur etiam nonagesimus ante illum supra Terram, 3 scilicet
+signis retro numeratis. . . . . . v. S. fol. 700.
+
+Praecepta a 134. in 185. referunt calculum eclipsium iisque inserviunt tabulae a
+fol. 89 in 102. Ad usum aurei num eri (v. s. p. 686.) praec. 134. haec monet:
+
+Si annus propositus currens numeratus fuerit a nato Christo retro, auser
+ejus completorum numerum a proxime majori capitum periodi magnae, quae
+
+· adjuncta est typo aurei numeri, sin porro seu post Christum, ejus numero
+
+ipsi adde minimum capitum ante Christum3 aut si tam est prolixus, ut supe-
+ret caput post Christum, aufer ab eo capitis illius completos, a residuo vel
+uno vel altero] abjice tam proxime minorem periodi magnae, quam cyclos
+decemnovennales integros seu annos 19, 38, 57, 76. Quod restabit minus
+uno cyclo, est anni propositi aureus numerus currens, si nihil restabit, 19.
+Cadit autem ‘anno primo periodi Calippicae 76 annorum (vel Judaicae 84)
+
+ante vel post meridiem diei 23. Martii novilunium medium horis totidem, quot ,
+
+inveniuntur annotatae ad periodum antecedentem subtractam. At annorum
+sequentium aurei possunt aberrare a noviluniis mediis horis summum 36 in
+utrumque latusss Praecipua commoditas aurei numeri consistit in' ec, quod
+idem indicat sedes novilun'iorum per omnes anni menses.
+
+Exemplum. 'Quaeritur aureus a. 3993 a. Chr. Aufer completos 3992 a 6904
+(proxime majus insertorum inter typum et cyclum magnum), relinquitur 2912. Hinc
+

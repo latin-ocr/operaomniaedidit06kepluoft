@@ -1,0 +1,72 @@
+Excerpta ex Tabulis Rudolphinis. 549
+
+- duas, unam declinationum communium, alteram angulorum eclipticae cum meridian03
+
+·, et declinationes quidem in signis borealibus septentrionales intelligendae sunt, in au-
+r stralibus meridianae3 anguli vero ex latere eclipticae, polum boreum spectante, propter
+
+certum usum distinguuntur ipsius eclipticae arcubus3 formantur enim in semicirculo
+’ eclipticae ascendente ab arcubus sequentibus sinistris, intuenti meridiem, in descen·
+
+denteab arcubus antecedentibus dextris, tanquam polo boreo utrobique magis pro· ” ’
+· pmqu.
+
+Est igitur regula excerpendi haec: si sit excerpenda puncti eclipticae dati as·
+censio recta et cetera, quaere >signum datum in aliqua trium· frontium vel calcium,
+gradus vero in illo margine, in quem a signo invento patet ingressus, a dextris in
+dextrum sursum, a sinistris in sinistrum deorsum, et in concursu lineae gradus in-
+.' venti cum columella signi invenies asc. rectae tempora integra, in columella vero la-
+terali scrupulorum communium appendicem primorum et secundorum: ita habetur asc.
+recta graduum eclipticae integrorum. In eadem vero linea occurrunt declinatio et
+Ἰ angulus, quodque in sua columna integrum in partibus primis et secundis,
+
+, Si vero gradibus integris eclipticae adhaeserint scrupula, pervr illa sumenda est ,
+’.ζ de differentiis asc. rectarum pars proportionalis adminiculo praeceptorum heptacosia-
+· 'dis (h. e. tabulae, qnae ad modum «chiliadis Logarithmorum» computata in Tab. Rud. com-
+
+.' plectitur 740 logarithmos, ad computum astronomicum aptos. Confer vol. 111. p. 719.,s.).
+’ Sed pro iis, qui sunt assueti logisticae veteri, apposita est ad latus cujusque columellae
+- in intercolumnio peculiari differentia binarum vicinarum ascensionum, declinationum
+
+. vel angulorum minusculis characteribus titulo superiori incrementi in* 10¹. Haec igi-
+
+· tur intercolumnii differentia multiplicata in scrupula, gradibus integris eclipticae arcuum
+·¹ adhaerentia, et a facto absecta cyphra ultima, prodit numerus secundorum, quae (re-
+“ dacta ad prima, si excurreriut) addenda sunt ad asc. rectam, per integros gradus e'x-
+’. ,cer-ptam. Etsi in declinationum et anguli intercolumniis, cum signum in calce quae-
+”’ rendum est, ex incrementis decrementa fiunt et subtrahenda sunt.⁴ f
+Sed in asc. rectis praestat, ut ii, quos piget ad logisticos legarithmos confu-
+·f gere, hoc utantur compendio: scrupula sc. gradibus integris adhaerentia multiplicent
+non in incrementa ipsa, sed in eorum vel defectum a 600“ ,vel excessum supra 600‘1
+· et a facto absecta figura ultima, quod formatur illic subtrahant, hic addant scrupulis
+’ multiplicatis3 residuum denique illud, vel hoc compositum, tanquam partem propor-
+tionalem justam addant ad integrorum graduum ascensionem rectam. ,
+Tabula, qu‘us formam et nsum in praemissis explicat Keplerus, eandem fere formam
+
+habet cum tabula, quam Epitomae addidit, hoc tantum excepto‘quod in columna, quae in- ’
+
+scripta est «Scrupula communia», minutis addita sint secunda, sic etiam declinationes ad
+’ secunda extensae sint, quae in tabula. Epitomes desiderantum itidem omissa su'nt «incre-
+, menta in 10¹.» Loco tabulae Epitomes addidimus illam ex Rudolphinis‚ tabulam vero
+ascensionis obliquae, quae in prima editione Epitomes sequitur illam, cum horis occasus
+vel ortus Solis et angulo inter eclipticam et horizontem (Linziensem) in editionem nostram
+transtulimus.
+
+In tab. Rud. hoc subjunctum est praemissis «exemplumm Quaerenda sit asc. recta,
+declinatio et angulus, respondens puncto eclipticae 0⁰ 7‘ 12‘¹ )(. Cum 0⁰ )( excer-
+puntur asc. rectae 332⁰ ex columella, cui subjectum est signum Χ, unumex ascen-
+<lenti semicircu103 ex columella vero scrup. comm. excerpuntur 6‘17“‚ ex intercolum-
+nio incrementum 572st Si id multiplicetur in 7¹ 12⁰, conficiuntur 411& deleta vero
+figuroeultima fiunt 412, h. e. 6⁴ 52¹¹ pars proportionalis. (Eadem compendiosius¹ habe-
+tursic: incremento desunt 28¹¹ ad implenda 600“‚ haec in 775 multiplicata fiunt 201, unde
+absecta ultima, fiunt 20‘¹‚ quae aufer a 7¹ 12“‚ restat δ’ 52” pars prop. quae prius.)
+Adde igitur illam ad 332ο 6‘ 170, fit quaesita asc. recta 332⁰ 13‘ 9“.
+
+Α Cum eodem 0⁰ )( excerpitur declinatio 11Ο 30’ 43¹¹3 intercolumnii decrementum
+’'est1212‘3 quo in 7¹ 12⁰ multiplicato, fiunt 1526, et reJecta ultima 453⁰, h. e. 2‘ 33st
+tubtrahenda, ut sit justa decl. 11ο 28’ 10”, estque meridionalis, ut signum.
+
+Sic angulus ad 0⁰ )( 69⁰ 20¹ 360, decrem. 113, quod ductum in 7‘ 12¹¹ dat
+813, et absecta ultima 81⁰, h. e. 1‘ 21¹¹, ut sit angulus ,iustus 699 19‘ 15⁴¹ et is ad
+sinistram, quippe formatus ab arcu sequenti semicirculi ascendentis.⁴
+

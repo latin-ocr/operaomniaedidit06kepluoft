@@ -1,0 +1,78 @@
+Liber Sextus· Pars Secunda. ,449
+
+in Jove mediocris, in Marte maxima3 in singulis minor in aphelio, major in
+
+perihelio, et (concessa inaequali translatione apsidum) non omnibus seculis
+eadem.
+
+Quid est iudea: in Copemicana forma astronomiae et calculo motus
+
+’ planetarum Ρ Quia non potest fieri, ut 'parallaxes orbis· ad semidiametrum orbis
+' referamuS,· ut fit in astronomia veteri, quare loco scrupulorum proportionalium
+’ duplicium excessusque parallaxeos orbis, seu diversitatis diametri in astronomia
+veteri, introductus est numerusindicanS, ¹quae sit intervallorum⁴ Solis et pla-
+
+netae Tellurisque (in schemate 85. TS, ΤΡ) >summae proportio ad diffe-
+rentiam.v ²
+
+, Quomodo inuenitur? Differentia distantiarum planetae et Telluris a Sole,
+prolongata quinque cyphriS, dividitur in earum summam. Sed pro quotiente Α
+commode potest usurpari logarithmus ejus, nt fit quidem in Tabulis Rudolphi.
+
+Doce invenire anyulum elonyationis a Sole visibilis locumque visibilem ’
+y 'sub ecliptica. Tangens semissis anguli anomaliae commutationis multiplicatus
+
+³ . in indicem facit tangentem arcus addendi ad illum semissem in superioribus,
+¹ subtrahendi in inferioribuS, ut constituatur angulus elongationis a Sole. ⁷⁵) Si
+
+' pro tangente adhibeatur semissis illius mesologarithmus, additione simplici
+ἶ hujus ad logarithmum indicis prodit mesologarithmus arcus ejusdem, illic ad-
+
+* - dendi‚ hic subtrahendi.
+³ Quodsi locus planetae eccentricus fuit subtractus a loco Solis vero, jam
+
+ἶ etiam angulus elongationis ab eodem est subtrahendus3 si v'ero Solis locus
+
+'suit ab eccentrico planetae loco subtractus, hic J'am angulus elongationis loco ·
+¹ -Solis erit addenduS, ut visibilis planetae locus in ecliptica prodeat.
+
+.“ llI. De magnitudinis planetarum<incrementis.
+
+Proba, Terra ci'rca Solem eunte, necessarium esse, ut planetae i'n Solii-⁴ v
+
+’ opposito ‚ceteris paribus ‘videantur maJ'oreS, versus coniunctionem Solis mi-
+nores. Demonstrat Euclides Opticorum prop. 561 oculo prope spectatumac-
+
+cedente, id augeri putari. Jam vero accedit oculus ad planetam, quamdiu ·
+
+⁴ Tellus, oculi domicilium, contendit ad locum-interpositionis inter Solem et
+planetam. Ergo planeta interim videbitur augeri et vicissim, 'Terra locum .
+
+>.' praetergressa, rursum diminui. In schemate 85. Q planeta, T Terra, interposita
+
+ 
+
+inter Q et S Solem, erit intervallum planet-ae et Terrae-TQ. Moveantur corpera in
+
+Α consequentia, planeta ex Q in P, Terra per majorem partem circuli ex T in Β, ut. ·
+
+¹ 8 Sol et P planeta videantur conjuncti, eritque intervallum planetae et Terrae BP.
+
+, Ut igitur TQ ad BP, sic vicissim diameter planetae in P ad eandem in Q. Quan-
+³ tae vero appareant diametri superiorum per tubum dioptricum, dictum est
+
+libro IV. sol. 329.
+
+IV. ne latitudine. ·
+
+Ubi sunt nodi, ubi limites superiorum, et quis eorum motus? Ptolemaeus
+invenit boreum limitem eccentrici Saturni in 30 ὲ, Jovis in 1⁰ τὲ, Martis
+, in fine ὓς hodie limes Saturni venit in 21⁰ ἐξ, Jovis in 7⁰ Q, Martis in
+ξ 19⁰ Q. Igitur etsi limites respectu verni aequinoctii, quod principium habetur
+' eclipticam, moveantur in consequentia, ‘respectu tamcn fixarum omnes moventur
+Α in antecedentia3 quemadmodum ct limites Lunae. Nodi sunt in locIS eclip-
+, ticae praecise quadratis, ascendens quidem in quadrato priore.
+
+Quomodo et quantum inclinantur eccenorici'ad eclipticam? Cum nodi
+Kepleri open. v1. 29
+

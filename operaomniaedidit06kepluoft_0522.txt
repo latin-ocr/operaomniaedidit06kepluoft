@@ -1,0 +1,67 @@
+508 ⁴ Epitomes Astronomiae
+
+rentis loci, hic inter verum Lunae locum et parallelum eclipticas per visibi-
+lem locum ductum.
+
+’ Ut si polus eclipticae sit P, et SI parallelus eclipticae, proximus illi, vel etiam
+ipsa ecliptica, per S visum locum transiens, PR, PS circuli latitudinum, ille per verum
+locum R, iste per visibilem S, erit SI parallaxis longitudinis inter PRI et PS, at RI
+erit parallaxis latitudinis inter R et SI. .
+
+Quomodo computatur utraque? Ex cognita parallaxi maxima altitudinis
+inshorizonte, eujus definitio praemissa est in explicatione eclipsium lunarium.
+Tunc enim secundum doctrinam primi mobilis, traditam libro ΙΙΙ. fol. 240,
+exquiritur punctum eclipticae oriens et nonagesimus ab eo gradus seu altis-
+simus totius eclipticae' ad propositum momentum et distantia dati veri loci
+sideris ab illo, quaeritur et angulus illius puncti orientis, seu altitudo hujus
+nonagesimi. His datis si conjiciantur in unam summam tres logarithmi
+-1) anguli orientiS‚ ·2) elongationis sideris a nonagesimo, 3) parallaxeos hori-
+zontaliS, acervabitur logarithmus parallaxeos longitudinis. Ita si conjeceris in
+unam summam 1) antilogarithmum anguli orientiS, 2) logarithmum paral-
+laxeos horizontalis, conficies logarithmum parallaxeos latitudinis. Fundamenta
+. hujus computationis sunt in Astr. Parte Optica, a fol. 312 in 320. (V01.H p.
+326- 331 .)
+
+Ubi nulla est lonqitudinis parallaxis, ubi vicissim maxima? In nona-
+gesimo quidem est longitudinis. nulla, at non semper in horizonte est longitu-
+dinis maxima. Nam si oriatur Sagittarius vel Capricornus, decrescente angulo
+orientis, crescit ejus logarithmus idque sensibiliter; si autem tunc simul etiam
+Luna versus occasum eat, augens elongationem a nonagesimo, -logarithmus
+hujus elongationis minuitur pene nihilo, superat igitur prius illud augmentum
+redundatque in logarithmum parallaxeos longitudinis, itaque minuitur haec,
+Luna versus horizontem descendente in signis septentrionalibus. Vicissim
+igitur in iisdem Luna versante et ab horizonte assurgente, augetur initio ex
+causis contrariis, Maxima igitur longitudinis parallaxis in signis meridionali-
+bus vest sub horizonte, in punctis aequinoctialibus in ipso horizonte, at in sep-
+tentrionalibus supra horizontem, et tunc demum, ubi distantiae sideris a nona· -
+gesimo logarithmorum differentia aequaverit differentiam logarithmorum anguli
+orientis.
+
+Quid observandum circa Solis parallaxes? Etsi ea negligi non debet,
+nonobstante, quod non superet unum minutum, non est tamen seorsim trac-
+tanda3 sufficit enim maximam Solis horizontalem subtrahere a maxima Lunae .
+horizontali‚ ut constituatur excessus lunariS‚ quem dicimus parallaxin Lunae
+
+a Sole. Nihil enim refert ad eclipsium Solis cognitionem, quo coeli loco intra Ἰ
+
+unum minutum videatur Sol, sed quantum de Sole tegat Luna.
+Numquid etiam ad planetas pertinet consideratio parallaxium diurnarum?
+Nihil admodum: Saturnus enim, decuplo fere altior Sole, parallaxin facit vix
+
+8 secundorum, ‘Jupiter fortasse 15 secundorum, quando plurimum. Mercurius >
+
+et VenUS, quando Terrae plurimum appropinquant, sunt vicini Solis radiis
+coque non observabileS, nec addit Mercurius assem alterum solidum ad paral·-
+laxin Solis, Venus ver0, cum proxime accedit, 4 scrupula, quadruplum scilicet
+
+solaris circiter acquirit in parallaxin, idque in ipsa conjunctione cum Sole. ξ
+
+Restat solus planeta Mars, qui interdum Soli oppositus circiter duas quintas
+
+intervalli solaris a Terra abest3 tunc igitur parallaxin facere potest >*majorem
+
+solari, scilicet 2‘ 304 circiter, vix observabilem ob⁸radiorum'‘explicationem.
+Quas partes in eclipticae semicirculo apparente facit nonayesimus?
+
+ 
+

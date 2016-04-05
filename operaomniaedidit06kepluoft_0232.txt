@@ -1,0 +1,85 @@
+2 l 8 Epitomes Astronomiae
+
+48⁰2 16‘. Idem autem accideret, si‘ esset S stella immobilis et‘V vertex mobilis, primum
+
+enim, si semicirculus PVL, habens verticem V, transeat per stellam S, distabit stella ·
+
+a vertice per VS, deinde sit vertex in H, ejusque semicirculus PHL et oppositus PVL
+transeat per stellam, ergo stellae distantia a vertice erit HS. Ablato VS vel aequali
+
+HI ab HS, manet SI, ut prius.
+Quomodo altitudo aequatoris habetur? Altitudo poli et altitudo aequa-
+
+toris compositae faciunt integrum quadrantem. Quare ablata poli altitudine
+
+a quadrante, relinquitur altitudo aequaturis.
+
+In schemate PQ est altitudo poli, ΑΗ altitudo
+aequatoris: quia igitur HQ. linea horizontis, transit
+per centrum sphaerae, HVQ erit semicirculus,
+sed PA est quadrans, quia aequatur est medius
+inter polos: ablato igitur PA quadrante a QH,
+semicirculo, arcus reliqui ΡΟ, et ΑΗ conficient
+etiam quadrantem.
+
+Quomodo yeoqraphi solent appellare poli
+altitu-dinem? Geographis est latitudo loci:
+quanto enim-arcu attollitur polus supra hori-
+zontem, tanto arcu distat locus ab aequatore.
+
+Quid est latitudo loci? Est arcus meri-
+diani terrestris, interceptus inter locum et
+
+aequatorem terrestrem.
+
+Proba, proportionales esse arcus poli altitudinem et latitudinem Ioci.
+Ab aequatore ad polum ejus est quadrans, a vertice ad horizontem est iti-
+
+ 
+
+dem quadrans in circulo meridiano: sunt igitur hi arcus aequales. Commu- ’
+
+nem aufer arcum a vertice ad polum, ergo residua sunt aequalia, illic ab
+
+aequatore ad verticem, hic a polo ad horizontem. Jam vero arcus coelestis 1²}
+J et terrestris meridianorum, abscissi duabus ex centro rectis, perpendiculo et ’
+
+axe, sunt proportionales.
+
+In schemate priori PA et VQ sunt quadrantes et aequales, communem aufer VP: ⁸}
+
+erunt AV et'PQ aequales, sic etiam in Terra NL et OD, sed NL est latitudo loci et
+,η
+
+PQ altitudo poli.
+
+Quid appellant ynomonici declinationem plani? Arcum circuli hori·
+
+zontis, interceptum inter verticalem primarium et circulum plani declinantia.
+
+Quid est illis inclinatio plani inclinati? Est arcus verticalis primarii, ’-
+
+interceptus inter meridianum et circulum plani inclinati.
+
+Quid est inclinatio plani deinclinati? Est arcus verticalis ad deinclinati
+circulum recti, interceptus inter illum et verticem.
+
+Quid incumbit ynomonicis circa deinclinatum? Ut illud primo omnium
+referatur ad inclinata, quaesita altitudine poli, sub qua quodque deinclinatum
+puli silrgffiidciiggr inclinato computari possit, et angulo inclinationis super illa
+po 1 a .
+
+Quomodo hoc fleri potest? Formatur rectangulum (tiiangulum) inter hori·
+
+zontem, meridianum et circulum deinclinati3 datur in eo latus in horizonte,
+
+quod est complementum declinationis plani, ⁴datur et angulus inter circulum η
+
+deinclinati et horizontem, qui est complementum inclinationis. Angulus vero
+
+inter horizontem et meridianum est rectus3 inde quaeritur latus in meridiano, ’
+
+quod sc. est inter horizontem et id punctum, ubi deinclinati circulus meri-
+dianum secat, ejusque sectionis angulum-hoc latus cum altitudine poli tui loci
+comparatum, detegit quaesitam altitudinem poli.
+

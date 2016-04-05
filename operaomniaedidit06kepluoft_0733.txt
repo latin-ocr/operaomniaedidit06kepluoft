@@ -1,0 +1,66 @@
+Praecepta. ‚ 7 19
+
+cujusque domus circulum. Via inartificialis quidem, at inhaeret soli asc. -ob-
+liquae et ipsi' circulo domus: elevationis poli super circulum domus antiloga-
+rithmum proxime inventum adde log.. asc. obliquae, quae propria est illi
+domui3 summam serva. Deinde ingredere filum ejusdem elev. poli (in tabula
+supra fol. 679. descripta) et conjectura-facta, qui gradus praeterpropter oriatur,
+ejus arcus eclipticae log. adde logarithmo anguli eidem adscripti-3 tuuc, si
+summa constituitur eadem, quam prius asservasti, verus ille erit gradus
+oriem, sin minuS, conjectura est repetenda, quod fit facile, quia anguli tarde
+mutantur. -
+
+De directionibus secundum Regiomontanum. Praec. 204.
+Deducit hic auctor promissores ad circulum positionis per significatorem ducti.
+Hoc ut fieri possit, alt. poli super hunc circulum prius inquiri debet, qua
+’ constituta facile deinceps et asc. obl. significatoris super hunc circulum inve-
+nitur. Datam autem oportet esse declinationem et asc. rectam significatoris
+et hujus comparatione cum A. R. M. C. et distantiam ejus aequatoriam a
+meridiano. Tunc fit triangulum inter P polum, S significatorem et H hori-
+zontis concursum cum circulis positionis cumque meridiano. Dantur PH, PS
+et SPH3 ex his computatur PSH. Log. PSH adde log. PS, creabitur log.
+quaesitae alt. poli super circulum positionis.
+
+Praec. 205. Significatoris asc obl. super hunc suum circulum posi-
+
+tionis invenitur per aliquos logarithmos3 ad log. PSH adiecto log. decli-
+
+nationis, a summa auferatur antilog. alt. poli super circulum propositum,
+restabit log. diff. asc., quae addita vel ablata ab asc. recta dat asc. obl.
+quaesitam. . >
+
+Prae c. 206. Promissoris asc. obl. super circulum positionis significa-
+toris facile inquiritur, si primum indagetur punctum cooriens ipsi super illum
+circulum seu in illa poli alt., vel alias vel ponendo ipsum, qui quaeritur, et
+positionem verificando. Si tamen promittens locus est in ipsa ecliptica, ejus
+angulus orientis ex tabula potest excerpi, et tunc log. anguli orientis addatur
+logarithmo arcus eclipticae ab aequinoctio, a summa auferatur log. elevatio-
+nis aequatoris super illum circulum, relinquet logarithmum lateris aequatoris
+respondentiS, quod determinat asc. obliquam jussam. Differ-entia vero asc.
+obliquarum significatoria et promissoris super hunc circulum est arcus di-
+rectionis. · .
+
+De directionibus secundum ‘Keplerum Chaldaei rationabile
+putaverunt, promissores deducere ad significatores per gradus aequales eclip-
+ticae, alii per diurnos Solis mediOS, alii per veros, alii per eorum asc.„rectas.
+Ptolemaeus rationabile putavit, promissorem deducere ad consimilem signifif-
+catoris situm per arcuum cujusque diurnorum partes similes, expenso arcu
+aequatoris, qui cum eorum quolibet decurreret. Regiomontanus rationabile
+putavit, ut ante dictum, promissorem deducere ad eundem circulum positioniS,
+in quo fuit significator, licet non semper hic ad eandem partem circuli, quam
+obtinet ille, possit appellere. -
+
+Experientiam velle judicem inter hos modos statuere, oscitantium est aut,
+si monentem etiam spernunt, credulorum et imbecillis judicii hominum. Im-
+
+, possibile n. est, ad tam minuta venire experiundO, etiamsi nexum arctissimum
+
+supponamus cursus rerum humanarum< curn solis omnium causarum directio-
+
+, nibus, nedum si concesseris, causas intercurrere etiam alias. Igitur et Kep-
+
+ 
+
+lerus, autecessorum exemplis se muniens nec attenta experientia rationabile
+putat, significatores promovere in consequentia signorum versus promissores
+

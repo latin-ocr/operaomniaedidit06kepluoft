@@ -1,0 +1,137 @@
+544 In Epitomen Notae Editor-is.
+
+cos. SP == cos. V . 8111.Ϊ7Ρ . sin. VS -1- cos. vl> . cos. VS
+vol, adhibita reductione, quae 1. c. litera (Α) signata est, et adhibitis angulis et lateribus,'
+quibus Keplerus in „exemplo“ suo usus cst:
+
+sin. ΒΡ = cos, 1000 sin. 42⁰. sin. 300 ,4- cos. 42⁰. cos. 300
+
+ 
+
+log. eos. 1000 = 9,9396709 10g. cos. 490 = 9,8710735
+log. sin. 490 = 9‚8255109 · log. eos. 300 = 9,9375306
+108. sin· 30⁰ = 9‚6989⁷00 N. ’08086041 - 1 = o‚c4358
+
+ 
+
+N. 0‚76‘41511 —- 2 = 0,05809 Ἰ
+ἓέῗᾶἓὶξνὸυε-θεὲὂθρὃθ = 0,58549 = sin. 35⁰ 50¹. (0‚05809 subtrahendum, quia cos.⁴ 1000
+
+24) p. 223. cont-inuans hic „regulam prosthaphacreticam“‚ quam in priori exemplo
+inchoaverat, data ponit Keplerus latera PS = 350 50¹, vP = 420 et VS = 300. Gal-
+culus hic redit ad formulam:
+
+— sin. 350 50’ - cos. 42⁰. cos, 300. sin. 350 50’ = 0,58549
+008· SVP -·· W ² 608. 420. 608. 300 = 0.64358
+
+[- SVP :z- 1000 (quia denominator fractionis negativus).1 . , —- 0,05809(7) ⁰
+s ι... (sin. 4523: {2263} Ξ- 3ζέἓὲἒὲὲέ Ξῖ
+
+log. cos, 80⁰ W 1
+
+ 
+
+25) p. 223. Duobus exemplis hic explicatur modus procedendi, ut ,datis altitudine Ι*
+
+stellae, ejus declinatione et altitudine aequatoris‚ computetur angulus ad polum, primo data
+decl. australi, secundo eadem septentrionali. ’
+
+Ut ratio chleri melius appareat, proponimus eam utroque exemplo.
+
+1) sit (ng. 36) Qs declinatio stellae = 70 30¹ 170, erit 98 = 900 -4- 70 30’ 17¹¹ · 31
+
+--·: 970 30¹ 17⁴¹, ΑΗ ,τ- 38⁰ 28¹ = VP, Gs alt. stellae = 230' 45¹, qum-e VS = VG
+..GS = 900 - 230 45’. = 660 15’ : quaeritur in Δ VPS quantitas anguli VPS.
+
+Calculus ‚‚prosthaphaereticus“, quo Keplerus utitur, ad hanc redit formam:
+
+cos. VPS =
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+cos.(97⁰30¹17“— 38098’)“- ¹s2[cos.(97⁰30‘1⁷¹⁴ †·38⁰28‘)T1-'cos.(97··3o-⁷i³1¹¹—-38⁰·2s‘ >j
+Hoc tantum notamus, pro voco cosinus semper uti Keplcrum voce sinus complementi
+angulorum. Hanc* formam in hodie usitatam commutantes et logarithmis usi, sic pro-
+
+cedimus· cos VPS Ξ 608. 660 15‘ - 608. 380 28’. 608. 970 30’ 17”
+7 “ .
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+; 608.,660 15’ = 0,40275
+
+sifi. 380 98’. gin. 970 30⁴ 170 0 10225
+log. cos. 380981 = 9,8937452 103. sin, 380 98’ = 9‚7938317 W ι
+
+log. cos. 97030‘ 1⁷¹‘= 9,1159695 log. sin. 97⁰ 30‘ 17¹⁴ = 93962633„
+
+Summa = 00097147 - 1 samma = 07900055 ἐ 1
+Numerus = 010996 log. 0,5o501 = 07033000 - 1
+
+09139045 - 1 = log. cos. 350 9’. Dm. 09139045 - 1
+
+ 
+
+ 
+
+(addendum,
+qnia cos. 970
+
+ 
+
+9) Sit vi> = 36099, vs = vc — so = 900 - 46ο 95’ = 430 35¹, sp = Pit
+
+— SE π 900 - 210 15’ = 680 45‘
+608. VPS =
+
+ 
+
+ 
+
+ 
+
+sin. 680 45¹. sin. 360 99’. 029185 “
+log. cos. 680 45‘ = 05599338 log- sin. 680 45¹ = 9,9694196 043959
+los. cos. 360 99’ == 390592217 1013. sin. 360 99’ -- 07730185 ’ ’
+04651585 - 1 07494381 - 1
+Numerus 0,29185 log. 043959 = 06360069 - 1
+
+. Dm. 08935681 - 1 =10g.00s.3s⁰30¹. ’⁴7
+
+96) p. 994. Datis PR = 510 32¹, sv = 890 30’ ot cs = 930 459 prodit vp ,
+
+z 90⁰ —- 51⁰ 32¹ = 380 98’, 98 = 900 -4- 930 45‘ = 1130 45‘. ·
+cos, 380 28¹ -— cos. 1130 45¹. cos. 82⁰ 30¹
+
+Cos, VSP = Sin· 113⁰ 45¹· Sin, 82⁰ 30¹ ‘
+VSP = 220 58’.
+
+27) p, 224. Ad inveniendum angulum, quem formant verticalis et declinationis cir-⁴ ,’
+culi ad stellam, per azimum, sic operandum cst. Datur azimuth (GR, GH, angulus GVH) ἶ
+
+cos. 660 45’ - ¹J2 [cos (970 30170 -l— 380 28⁴) -†- cos. (970301 17¹⁴ —, 380 980] j
+
+negativus) ‚
+
+608. 43⁰ 35‘ — cos. 680 45’. 608. 360 22’ 608. 430 35’ = 0,72437 ’.ἴ
+
+ 
+

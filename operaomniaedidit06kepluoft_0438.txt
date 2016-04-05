@@ -1,0 +1,72 @@
+424 Epitomes Astronomiae
+
+lariS, ex B centro ducta in rectam per A, esset longissima, est vero* illa sinus
+
+anguli BMA, partis opticae, qualium ΒΜ est sinus totus. Nam in EA supe· Ᾰ
+riorem jam cadit ex B brevior perpendicularis, quam' est BA. Sed quia ·
+
+orbita planetae est elliptica, maxima igitur pars aequationis opticae est inter
+
+M et D, sic inter N et T. Primumpnim ipse angulus BMA major est an· ·
+
+gulo ADB, quia triangulum utrumque est rectangulum basi eadem, et vero
+
+DB altitudo major est altitudine MA, brevior scilicet diameter quacunque .
+ordinatim applicata. Deinde factis E, I signis in medio arcuum DM et TN ’
+
+vel circiter, anguli ΑΕΒ, ΑΙΒ sunt iterum majores ipsisAMB, ANB. Est .
+enim omnium ex centro B in orbitam brevissima BD, ceterae quo remotio· ’
+
+rea, hoc longiores, longior igitur ΒΜ quam BE sensibiliter3 at non sensibili· ·
+
+ter longior perpendicularis ex B in AM, quam quae ex B in ΑΕ. Major ³·
+
+igitur est proportio ΜΒ ad BA quam ΕΒ ad perpendicularem suam. Itaque
+major etiam angulus BEA quam BMA. Ergo bisecta BA in G ductaque Ι·
+,perpendiculari EGI, erit maxima optica aequatio circa E, I. Sed maxima
+
+physica fuit circa D, Τ, maxima igitur composita cadet medio loco inter
+DE et TI. ’
+
+Docuisii computare ex proposita anomalia eccentri anomaliam mediam
+et anomaliam coaequatam ,· at crebrior usus exiyit, data media, quippe ex ·'
+
+dato tempore, invenire reliquas5 doce et hoc. Hic via directa nulla est, sed 2
+adhibenda est ei, qui sine tabulis hoc vult computare, regula positionum ,
+ponendo scilicet anomaliam eccentri (in schemate penultimo) PK tantam ⁷
+vel tantam, eique sic sumtae computando suam anomaliam mediam PKA. Ἴ
+Nam si ea tanta prodit, quanta proposita fuit, bene erit posita anomalia ec·
+centri PK. At si non tanta prodit, ex eo quod prodit emendanda erit po- .
+sitio laborque repetendus.
+
+Posses exemplo docere methodum commodam , ne inassuetus nimium ’
+erret vayis positionibus? Resumatur igitur superius exemplum et sit jam ι
+data anomalia media seu arca PKA 50⁰ 9‘ 10⁰, manifestum est, si sciretur
+area trianguli KBA, 'residuam aream KBI‘ habituram eundem numerum gra—
+duum cum arcu suo PK, ac proinde ablato valore ipsius KBA a PKA, re· ι
+lictum iri anomaliam eccentri PK. Cum igitur PKA major sit quam PKB,
+erit arcus PK sinus minor quam sinus 50⁰ 9¹ 10⁰, minor igitur quam 76775. ‚
+Sit hic sinus in prima positione 70000 , propter facilitatem multiplicationis.. .
+
+Ductus igitur hic in valorem DBA trianguli, qui fuit in superiori exemplo 119100,
+abjectis 5 creat BKA 8337¹⁴ seu 2⁰ 18‘ 571¹, quae adde ad sinus 70000 arcum 440 25⁴„
+
+fiet area PKA 460 44’; haec nimio parva est, deficit enim per 3⁰ 25¹, cum debuerit ³
+
+prodire 500 9’, quanta est data. Maj0r igitur ponatur sinus in positione secunda, ad·
+dito defectu 30 25‘ ad arcum prius positum 440 25’, ut fiat PC circiter 470 50’, cujus
+sinus est proxime 74000, quem rursus eligo propter facilitatem calculi. Hic in 11910
+multiplicatus facit BKA jam per 7¹ 561¹ auctius, scilicet 2⁰ 26¹ 53¹¹, quod adde ad PK
+secundo positum, scilicet‘ad PKB 470 44’ 6”, creatur PKA 50010‘ 59” et abundamus
+supra debitum 500 9’ 10” per 1‘ 49‘2 Itaque intelligimus, hunc excessum parvulum ,
+auferendum a secunda positione ipsius PK fietque anomalia eccentri quaesita seu PK
+470 42¹ 17¹¹. Id licet comprobare. Est enim sinus hujus arcus 73979, qui de 11910‘¹ ’
+
+vindicat 20 26⁴ 50¹¹ pro KBA, itaque hoc addito creatur 500 9’ 7”, quod insensibiliter
+abest a debito 500 9’ 1Ο”.
+
+De deflexione planetarum ab ecliptica.
+
+Quid iqitur intelliyitur sub nomine orbitae? Proprie quidem illa linea,
+quam planeta vere circa Solem describit centro sui corporis Ut in schemate 82.
+

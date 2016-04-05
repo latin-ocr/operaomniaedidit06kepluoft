@@ -1,0 +1,86 @@
+b· ⁹ Excerpta 'e‘x Tabulis Rudolphinis. 547
+
+f' , vel 0⁰ V ad occasum: ita constitutus erit angulus verticalis ‘cum ecliptica. Hujus
+· log. additus antilog. altitudinis puncti aequinoctialis jam elicito, dat antilog. anguli
+⁷ orientis, qui una cum ejusdem logarithmo utilis est ad parallaxes. Hic vero log.
+. anguli orientis ablatus a log. altitudinis puncti aequinoctialis, relinquit log. lateris
+eclipticae requisiti, quod simul cum angulo eclipticae et verticalis, prius adhibito,
+‘— vel excedit quadrantem vel ab eo deficit. Prodest autem, adsuescere certis typis,
+* quorum unum tradam in exemplo.
+
+Sit asc. obliqua 3460 48¹, ergo 0⁰ ἑὲ est supra horizontem et ad occasum,
+ἶ quaerendumque est latus eclipticae ab occasu usque in 0⁰... ..m Ei vero respondet
+J latus aequatoris 13⁰ 12, quantum sc est ab 166⁰ 48¹ (descensione obliqua.) ad 180⁰
+'³- seu 0⁰ -ὓπ (Kepleri calculum hoc tantum mutavimus, ut pro suis legarithmis illos
+,ζ’ Briggii posuerimuS).
+
+Latus aequatoris 13⁰ 12’ (α); log. sin. 13⁰ 12’ == 9,3586027 (0)
+§s Ait. aequatoris 39. 6 (b);10g sin 39. 6 =9,7998062(d)‚10g.00s. 9,8898877(e)
+
+ 
+
+*ξ log. sin alt. puncti aequin. - -9'31'584089 (1), log. cos. f. 9‚9954486 (9)
+
+Ξ Angulus verticalis per 0⁰„ Λ cum aequat 51⁰ 39¹ (i) ........ 9, 8944391 (h)
+23. 31“Ι2 (k) adde, quia 0⁰4²- ad occasum
+
+i} Angulus verticalis cum ecliptica 75.10¹s2(l);19g.sin.75⁰ 10‘ 30¹¹ = Z{{{{{}2((w223
+
+ 
+
+log. sin ang. orientis 16. 56. (o): 9‚4642790 . . . . 9,9807456 (n) ᾗ
+
+Latus eclipticae 29⁰ 38¹ (q) 9,6941299 (p)
+Ergo occidit Οο 22’ ¹1p,or.it1r 0⁰ 22 )(.
+
+Datur a per asc. obliquam, cum quo excerpitur c; datur et b, cum quo excerpi-
+tur ἀ et ες jam c et d additi faciunt f. Hic vero per suum arcum dat et 9. In ca-
+. 'noue Neperi vel Ursini (Briggii) non est opus arcu, stat enim 9 e regione ipsius f.
+;Δ1;’ ιιι his (Rudolph.) tabulis excerptio utriusque, tam logarithmi‚ quam ant loo· (cos ),
+non est multo difficilior Quilibet enim logarithmus ostendit arcum suum quadrante
+“minorem in fronte et sinistro margine, et is translatus in calcem et dextrum marginem
+,Ξ (tetendit respondentem antilogarithmum3 id fit crebro ιιι eadem apertura libri, aut
+ν’· summum 3 foliis replicatis. Porro subtracto 9 ab e relinquitui h3 per hunc excer-
+{nitur i. Datur vero k perpetuo idem, et additi hac vice i et k, dant Z, cum quo ex-
+terpitur m: quod ad 9 additum facit η, qui vel per suum arcum, vel in Neperi et ·
+Ursini canonibus per se ipsum e regione, dat o Ex hujus abstractione ab f remanet -
+
+ 
+
+’9, cum quo excerpitur q quaesitus. O vero servit parallaxi longitudinis, n parallaxi -
+
+Ῐιρῐιιᾱιιιιε indagandae, ut patebit suo loco.
+
+Huc pertinent et sequentia praecepta, quae infra servient indagandis articulis ap·
+
+- &tionum et occultationum tam planetarum, quam stellarum fixarum: 1) Data stellae
+gitudine et latitudine sub data elev atione poli, invenire punctum eclipticae ei moriens,
+
+η mediante angulo orientis. (Si lat. sept„ cooritur aliquod antecedens locum longitudinis,
+ψ dn meridionalis, aliquod sequens. Ejus anguli log. ablatus a log. latitudinis relinquit
+l lug. arcus horizontis3 ab hujus arcus antilog. aufer antilog latitudinis, restabit an-
+· tilog. arcu‘s eclipticae, qui in primo casu ablatus a loco longitudinis, in secundo ad-
+· atus, dat punctum cooriens praeter propter). 2) Data profunditate loci Solis sub
+,horizonta inquirere distantiam ejus loci ecliptici a puncto oriente vel occidente, me-
+ssnnte angulo orientis (A log. profunditatis Solis datae aufer log. anguli or. vel occ.
+puncti eclipticae dati: relinquetur log. distantiae Solis a puncto oriente vel occidente.)
+
+35) p. 242. Caput XII Tabularum Rudolphinarum, „De ascensionibus rectis,
+mediationibus coeli, declinationibus et angulis eclipticae cum meri-
+diano‚“ haec affert, ad has Epitomes tabulas pertinentia· Haec tria jam dudum in
+Epitoma Astr. Cop. sic junctim in una tabula exhibere coepi, quod haec conjunctio
+in doctrina primi motus magnum usum habeat. Et vero ad doctrinam eclipsium omni-
+bns istis opus habemus, non minus quam in ascensionibus ad aequandum tempus,
+declinationibus ad obliquitatem ecliptic.a0 Ut nihil dicam de fixarum ortu et occasu,
+quae materia partem unam doctrinae sphaericae complectitur.
+
+De his igitur rebus necessaria est admonitiO, me usum esse obliquitate eclip-
+
+35*
+
+,νήι-
+
+...ge Ἃ· Δὸ-συ „. '-
+
+ζὴ ε,;,;“ ξ’ μ’.
+

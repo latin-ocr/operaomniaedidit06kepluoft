@@ -1,0 +1,80 @@
+472 , Epitomes Astronomiae
+
+“ vel VT, altitudinem trianguli CBA, sic area iuius ad aream hujus. Sed TV est dif-
+
+ferentia altitudinum VL et LT, ergo et area CBA est differentia arearum CLA et BLZ.
+
+Doce computare particulam exsortem. Eadem est ratio computandi, quae
+fuit supra libro V. rectanguli quadrantis, Ducitur scilicet altitudo CB illic
+in totam basin CA, hic in dimidiam. Ut autem compendiose sciamus valo-
+rem cujusque areolae, prodeuntis in gradibus et scrupulis, qualium tota eccen-
+trici area valet 360⁰, oportet computare omnium maximum, scilicet ad angu-
+lum CAB 450 eJusque valorem.
+
+, Ducta igitur ΑΕ eccentricitate 4362 in se ipsam, creatur duplum rectanguli ma-'
+ximi, scilicet 19027044, ergo rectangulum CBZA, cum est maximum, est 9513522.
+
+Quodsi area circuli valet 360⁰, haec areola valebit 0⁰ 6¹ 49¹3 exsors vero particula
+dimidium hujus, scilicet 3¹ 25“ vel 2Οἴ)”.Ἰ Jam libro V. inventa est proportio rect·
+
+angulorum quadrantis (et sic etiam horum triangulorum) inter se mutuo in numeris, .
+qualium maximum est 1000. Si ergo 1000 valet 2051‘, facile computatur, quantum ,Α
+
+valeat quodlibet minorum. .
+Propter hanc exilitatem particula exsors vel negligi potest in solidum,
+
+vel etiam inter variationeS, de quibus infra, excerpi: est enim fere uncia va· ,
+
+riationis respondentis.
+Quare nomen ei dedisti particulae exsortisP et quae ratio παπαί, ut
+
+aequatio menstrua prodeat? Quia cum ipsissimum triangulum aequatorium‚ '
+verbi causa CLA, constituatur per socium BLZ et per hanc particulam seu·
+
+areolam CBA, illud quidem BLZ sinui suo LT cedit in sortem debitam de
+maximo hujus mensis ΒΝΖ, haec vero areola CBA extra sortem in uno semi-
+circulo menstruo decedit triangulo BLZ, extra sortem in altero ei accedit,
+
+eadem sc. quantitate per totos PFQ, QDP semicirculos, sive parvus·suerit·
+
+sinus sortiens LT sive magnus. Quodsi suerit punctum orbitae Lunae pro-
+positum in semicirculo, qui perigaeum intercipit, cujus triangulum super BZ,
+
+puta BHZ, fuerit minus ipso CBA subtrahendO, tunc ipsum BHZ subtrahitur ¹
+vicissim a CBA, et residuum est area trianguli aequatorii quaesiti accipit-f
+
+que·denominationem ex semicirculo GDH, habente apogaeum D.
+Quibus aliis nominibus nuncupatur haec aequatio menstrua temporanea?
+Tycho Brahe appellavit prosthaphaeresin eccentricitatis, Copernicus prostha-
+
+phaeresin secundi epicycli‚ Ptolemaeus προσνευσιν epicycli‚ quasi annutum,.'
+Arabes ex illo diversitatem aspectus epicycli: quilibet voce utitur accommom
+
+data ad suam formam hypotheseOS‚ qua supponit geometricum et opticum
+aliquid, cum mihi sit ex causis mere physicis.
+
+Quanta est haec aequatio menstrua, eum est maxima vel plena? Tycha⁴
+
+Brahe statuit eam aequalem semissi aequationis maximae in copulis, quod est
+
+secundum me parti aequationis physicae in soluta, sc. 2⁰ 30¹, quod valde,
+commodum accidit schematibuS‚ ut sit utrique eadem basis trianguli ΑΕ, sicut ·
+
+antea in ejus definitione supposuimus. Ptolemaeus vero facit eam paulo ma·
+
+Jorem, scilicet 2⁰ 41¹, ut dictum libro IV. fol. 390, quae quantitas admodum¹
+servit connexioni speculativae hujus aequationis cum sequenti variationis ner
+
+gotio: hoc igitur in dubio'maneat‚ donec observationes sufficienter decidant·
+In 'usu sequamur Tychonem interim.
+
+Quodnam est discrimen harum aequationum menstruarum a prioribus
+
+anomaliae solutae? In primariis planetis et in anomalia soluta partes aequa-‚1
+
+tionum physicae in aequali distantia punctorum orbitae ab apogaeo tamenta
+
+quam retro sunt aequales, ln anomalia vero menstrua, praeterquam in mense
+
+plen0, semper alias, duorum punctorum orbitae, aequalibus angulis ad Terram ,²
+

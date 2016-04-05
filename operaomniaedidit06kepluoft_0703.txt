@@ -1,0 +1,70 @@
+Praecepta. 689
+
+Luna, quando locus ejus extra copulas computatur, usus ejus erit necessarius
+ei, qui ex ipsis fundamentis hypotheseos computare volet.
+
+Praec. 85. De excerpenda aequatione eccentrica ejusque
+partibus. Etsi non indigemus hac ad calculum motus‘planeta'rum, si tamen
+de ea quaeretur, ut cum aliarum tabularum aequationibus comparetur, -ea .
+facillime excerpitur ad gradus integros anomaliae eccentri3 subtrahecoaequa-
+tam cujusque lineae ab anomalia eccentri, restabit aequationis pars opti'ca, cui
+adde partem physicam ,ex sua cella ejusdem lineae, *componitur aequatio tota.
+Si vero-anomaliae, quarum quaeruntur aequationes, non praecise reperiantur
+in suis lineiS‚ exquirendae sunt aequationes duarum cellarum proxime datam
+circumstantium, ex quibus datae anomaliae sua aequatio est admetienda *pro--
+portionaliter. In schemate 99. (v. S. fol. 564.) assumta. anomalia eccentri AB,
+pars aeq. opticae est angulus OFS‚ pars physica area CFS, ‘quae- non 'plane ·
+aequipollet angulo CFQ, etsi ei appropinquat, jam major ·e0‚ jam minor.
+Itaque tota aequatio est angulus QFS fere. -’- ’
+
+In columellis tertiis tabularum bini in singulis cellis occurrunt numeri
+simplices, quorum superior, majusculo charactere, exprimit intervallum vel
+distantiam ipsam planetarum a centro Solis etSolis a Terra, in Luna deest
+haec columella, quia distantia Lunae a Terra praeterquam ad parallaxes non
+sit cognitu necessaria et parallaxes Lunae habentur ex ejus tabulis simplicius
+et minori opera. Alter cujusque cellae numerUS, inferior ,et minusculo cha-2
+γ ractere expressus, est legarithmus, h. e. proportio, quam habet id planetae⁴
+intervallum ad ⁴numerum 100000‚ qui indicat intervallum seu distantiam* Solis ,
+a Terra mediocrem. Horum numerorum uterque, tam intervallum quam ejus
+
+Ι 10 garithmus, est accommodatus ad anomalias in eadem linea expressas.
+
+Praec. 86. Itaque si una trium anomaliarum, quae ad excerpendum
+intervallum vel ejus logarithmum datur, non expresse reperiatur in sua cella,
+numerus etiam intervalli erit inter duos circumstantium cellarum medius, ejus-
+que logarithmus inter duos expressos medius, .
+
+’ Praec. 87. Ut logarithmus intervallorum facili labore accommodetur
+
+v ad anomaliam mediam, non exacte in cella repertam, appositi sunt ad latus colu-
+
+· tam 0⁰ 58¹ 56¹¹ s1t
+
+mellae tertiae numeri minusculi, inter binos logarithmos cellarum medii, exprimen-
+tes, quantum denis scrupulis primis anomaliae mediae debeatur ad correctionem
+non ipsius intervalli, ad cujus stant latus, sed ejus logarithmi, ut qui et ipse
+minusculis numeris expressus est. Hic igitur numerus lateralis, ut parVUS, facile
+mente ducitur in scrupula prima de differentia anomaliae mediae datae et ea
+proxime minoris ex tabula, ut praecisa a facto figura ultima, constituatur porti0,
+subtrahenda a logarithmo cellae in planetis et Sole superioribus, vel ei addenda '
+
+in inferioribus, quia series logarithmorum in descensu illic decrescit, hic crescit.
+
+His, quibus Keplerus explicat tabulas aequationum earumque usum, haec addenda .
+sunt. Quam dicit „partem aequationis physicae“, producitur multiplicata eccentricitate (e)
+
+in sinum anomaliae eccentri (x) indeque oritur anomalia media = x -ξ- ε. sin. x. „Inter— ,
+
+columnium“ servit ad excerpendae partes proportionales constituiturque ratione anomaliae
+coaequatae et mediae, sic ut v. c. pars prop. inter anomaliam mediam 1⁰ 1⁴ δ” et coaequa-
+
+25:333 = 57⁴ 53¹¹, illa inter 2⁰ 2¹ 10¹⁴ et 1. 57. 51 = {32:333}
+
+> = 57‘ 53¹¹ et sic porro. Forma autem tabularum haec est.
+
+ 
+
+ 
+
+xepleri open. vl. 44
+

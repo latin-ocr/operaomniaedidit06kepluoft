@@ -1,0 +1,106 @@
+554 Ι . ⁴In Epitomen Notae Editoris. .
+
+-Kepleri numeros ex parte falsos* correximus, exceptis ‘tangente anguli '17⁰ 0¹, pro quo
+assumsitntangentem 170 10’, 01 postea pro tangente 7,0 22’ tangentem 7⁰ ⁶20¹.
+
+45) Ρ. 296. 14⁰ 40¹ ΠΡ = 164⁰ 40¹ = AB in triangulo ABG figurae 38.
+- cot. AD = cot. 164⁰ 40¹. coe. 230 31’ 30”, et ⁴
+tg. ,BG = sin. 164. 40. tg. 23. 31. 30.
+- , cos. ABG = cos. 1640 40¹. sin. 23⁰ 31‘ 30¹¹.
+AD = 1630 21’, BC = 6⁰ 34‘, ABG ¹= 670 21’.
+Addatur ad latitudinem Arcturi anno 1600 = 31⁰ 3‘ supra. inventus arcus 60 34‘,
+
+prodit' arcus 370 37’ trianguli rectanguli‚ in quo insuper cognitus est alter angulorum acu-
+torum 3 670 21’, quare ut annot. praecedente
+
+sin. s z sin. 370 37¹. siu. 670 21’ = sin. 34⁰ 17¹
+tang. c = tg. 37⁰ 37⁴. cos. 67⁰ 21⁴ Ξ4 tg. 16⁰ 32¹
+
+(Keplero prodeunt pro 340 17‘ falso 34⁰ 30¹, quia factum sinuum 61036 et 92287 per lap-
+sum calculi 56640 >pro 56330 posuit.) ‘
+
+r,
+Asc. recta Arcturi = 1030 21‘ -1-’160 32¹ v= 1790 53¹. ξ
+Differentia asc. invenitur, ut supra (annot. 44), per alt. poli (36⁰) et arcum s (34⁰ ⁷
+
+17¹) sic: sin. x = tg. 360. tg. 34⁰ 17⁶, diff. asc.. = 290 42’ (Κ. 290 57’)
+,· Asc, obliqua --, 1790 53¹ — 290 42’ = 150⁰ 11⁴ <g
+Dese. obliqua = 179⁰ 53¹ ,4- 290 42’ =, 209. 35.- Angulos ad puncta eclipticas 5,
+coorientia et cooccidentia, (5⁰ 11‘ ΠΡ, 140 32‘ 1η) exhibent tabulae 740 58¹ et 350, demersio
+
+= = {221 ssitz
+, 140 39‘. Numerum 21528 falso assumit Keplerus sinum-140 39¹,
+
+46) p. 298. Sit (Fig. 45), P polus Terrae, S et I Lincium et Gratiam, SI arcus cir-
+culi magni = 20, SP = 41⁰ 44⁴, IP = 420 58’, quaeritur quantitas anguli SPI„
+G „S'PI — cos, 20 - cos. 41⁰ 44¹. coS. 420 58‘ ’
+⁰⁵· ““ ’“ sin. 41⁰ 4ἶῖ sin. 42⁰ 58¹ .
+’ Keplerus complementum quidem 480 16‘ recte prodit 41⁰ 44¹, sed statim ‘initio sui
+calculi ponit pro 44¹ falso 46⁴, et hinc adhibens falsum hunc angulum, computat SPI =
+20 221123 quivero, si accuratius sumas sinus, item ut supra 20 20’ prodit. Calculus sequen-4
+tis problematis item ad formam, quam modo posuimus, redit.
+
+CapiteXVI.Tab Rud. De reductione temporum in diversis locis nume-
+ratorum ad'meridianum harum Tabularum et de Catalogo locorum,haec Ι
+refert Keplerus de causis, quibus motus hunc locum inseruerit, illum omiserit,=et qua ratione ς’
+investigaverit locorum longitudines et latitudines: ‚Ut tanto l'atior et popularior esse posset ἒ
+usus·harum tabularum, catalogum inserere visum ⁴est locorum 500 et quod excurrit· Ι l
+In eorum delectu rationes varias sum secutus„ Cum enim tabulae denominatae sint a ἕ
+
+‘'a''
+gl·-
+
+= siu. 120 26’, neque uero, qualis Keplero prodit, ι
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= cos. 20 20¹ 30⁰
+
+Rudolpho Caesare, familiae Austriaeae‚ cum ipse Germanus sim natione, Austria‘-
+cus incolatu, plurimum indulsi regnis et provinciis Austriacis reliquaeque Germaniae.
+Nec Italiam leviter attingi passa est locorum celebritas· Igitur habita ratione divi-
+sionis provinciarum,'plurimum quidem modernae, nonnullibi tamen et antiquae, ex sinu-m .
+gulis delegi sedes, et aulas principum, academias, episcopatus, conventus forenses, Ι
+emporia, mercatus frequentiores, munitiones celebres, promontoria, portus, loca eventibus ’
+nobilitata3 mathematicorum etiam, qui sideribus observandis operam‘dederunt, habitatio-'-
+nes, obscurioris ceteroqui nominis. Si qua in-hoc censu sunt a· me praeterita juris‘ i
+aut aequi aut potioris, id imputent vicinis aliis, quae omitti non potuerunt. Fortas-j' ³4
+sis etiam loca quaedam provinciis non suis sed vicinis adscripta invenies, quae memor,
+
+-ὲ, ’5
+
+oues-*na-
+
+‘ 1.
+
+riae defectui peto condonari. Non equidem *hic jura cernuntur territoriorum, sed ι 32]
+
+notioni subvenitur exterorum. ⁶ ’ ⁴
+
+Major mathematicis cura numerorum incumbit, de cujus negotii difficultate do-' 1
+
+cumeptuin unum calci catalogi ad supplendum locum subjectum est ²¹⁶). Duo sunt nur 5³
+. ι,
+
+’0) Documentum, quod hic dicit, hoc est: ,Quantum sit incertitudinis, quantum labo-2· ’ἰ
+ris in examinandis locorum longitudinibus, lubet unico exemplo docere, ex media' :fl
+Europa petito. Inter Romam et Noribergam Regiomontani aetate censebantur 36‘ ἕξ
+
+’ 1
+'l
+
+’4
+
+,fij
+
+1
+ι
+

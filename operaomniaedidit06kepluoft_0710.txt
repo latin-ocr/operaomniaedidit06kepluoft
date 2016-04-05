@@ -1,0 +1,74 @@
+696 . , Tabularum Rudolphinarum
+
+logarithmorum‚ subtrahatur angulus primae (quae est prosthaph. orbis) ab angulo
+secundae, residuum erit complem. anguli commutationis requisitae.
+
+Exemplum cum uno superiorum. s
+
+Sit indagandus angulus commutationis (ς stationarium exhibens, quando is habet
+compl. an. eccentri 1690 32’. Praesumatur autem, anomaliam Q tantam futuram, ut
+arcus diurnus ei respondens cum arcu diurno (ς 001181111181 proportionem 10405. Erit
+autem tunc anomalia Q 53⁰ 12‘ ejusque proportio distantiae a Terra 1092. (ς vero
+a Q distantiae curtatae 32520. Itaque proportio intervallorum temporaneorum erit 31428,
+
+Quia igitur (ς respectu Solis sit superior, ad ipsum spectabunt lineae oA et
+AD earumque angulus (CAD) erit major recto quantitate arcus eccentrici semidiurni
+d, qui hoc loco eccentrici est 34¹ c.‚ ergo summa duorum reliquorum ad visoriam
+erit 890 43’. Ad Solem vero, qui respectu d est inferior, spectabunt secunda (ΑΕ)
+81 quarta (AB), et cum arcus eccentrici Solis diurnus sit per hanc anomaliam 58¹ c.‚
+erit ergo harum linearum angulus (ΕΑΒ) 900 29’, 81 8111111118 reliquorum 890 31’. Cum
+igitur distantiarum proportio pertineat ad primam (CA) et secundam (ΑΕ), sitque jam
+31428, eJusque‚ ut logarithmi, arcus sit 46⁰ 55¹, positio prima anguli (intervalli ὁ
+011111 visoria) debebit esse minor. (Haec sequuntur variae positiones anguli G, donec
+manuscriptum redit ad textum et exhibet G correctum 240 31’.)
+
+Deinde pergit manuscriptum: Alia faciliori via commutationis angulos illos addis· ⁸
+
+cere ,in quibus, stante unaqualibet proportione intervallorum, fiunt stationes, idque
+praeter propter. '
+
+Praeceptum 105. Methodo ,iam tradita construxi tabellam in singulis planetis pro
+. angulo isto, 111 quus margine sinistro sunt numeri, indicantes proportiones intervallorum
+temporum. Itaque per praec. 104 constituta sithaec vera 'proportio-intervallorum ad tem-
+pus datum, curtatorum, ubi erit necesse. Haec quaesita inter margines e regione adscrip-
+tum exhibebit angulum commutationis quaesitum. Ut quia proportio intervallorum fuit
+31428, quaesita haec, 31000 quidem ut minor exhibet 170⁰ δ’, 32000 vero, ut proxime
+maJ’or, dat 1690 30¹. Ergo ipsa proposita dabit 170⁰ 0¹ c. Non est enim accuratus
+iste modus; quippe cum eidem proportioni intervallorum non exacte competat eadem
+proportio arcuum ex utroque latere, quod tamen in constructione tabularum brevitatis
+
+causa fuitsssupponendum, sc. distantia et arcus diurnus eccentri Q ubique mediocris.
+
+Lunae motus et aequationes concernunt praecepta sequentia usque ad 133, quae
+maxima ex parte annotationibus ad Epitomen praemissa sunt (Gap, XXV. fol. 580 ss.,
+Gap. XXVI. fol. 584 ss., Gap. XXVII. fol. 588 s.)‚ iisque inserviunt tabulae scrupulorum
+menstruorum eorumque logarithmorum, particulae exsortia et variationis (fol. 82 8.),
+
+tabula aequationis luminis, compositae ex aequationis menstruae portione competente
+reducta, particula exsorte et variatione Tychonica (fol 84. 85), tabula latitudinis
+Lunae simplicis una eum reductione loci orbitae 3) ad eclipticam (sol. 86. 87.) 81
+
+Canon sexagenarius motuum mediorum Lunae (fol. 88.). ·
+In manuscriptis Pulk. Keplerus sequentia ad cap. XXV. praefatur, quae postea mutato
+
+consilio ex parte ad cap. XX. retulit.
+
+Introductio in praeceptum sequens de· computando loco Lunae,
+seu explicatio theoriae Lunae. Etsi 11011 cogitavi, partem tabularum facere
+explicationem hypothesium, quia jam dudum de hac re egi 111 Epit. Astr. Cop. 81 quia,
+quod amplius dici vel potest vel debet ad instructionem studiosorum, id in aliud opus
+reservandum videtur: magnis tamen causis tandem victus, hoc institutum circa Lunam
+tenere non potui.
+
+Primum enim magua est perplexitas in aequatione triplici motus longitudinis
+huJus sideris, quarum duae solae Ptolemaeo et Copernico erant notae, tertiam Tycho
+Braheus‚ tabularum harum primus auctor et nuncupator, invenit et superaddidit.
+Quodsi hae tres aequationes per causas suas explicentur, ex 5 omnino elementis con-
+stare deprehenduntur, quae omnia ad moderandum calculum applicanda exque sui's
+hypothesibus depromenda sunt, ne quis hujus varietatis tam operosae culpam in prae-
+
+celpltiones meas conferat, perinde ac si nulla sit in antecessorum praeceptis difficultas,
+11 8 re ipsa varietas,
+
+Secunda causa longius a sua repetenda est origine. Nota est ex Ptolemaeo ’
+

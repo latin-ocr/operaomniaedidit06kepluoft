@@ -1,0 +1,68 @@
+234 Epitomes Astronomiae
+
+obliquarum ascensionum, sic reciae ascensiones ad solam ¹rectam sphaeram,
+ad eos sc„ qui sub aequatore habitant, pertinet? Imo rectas ascensiones
+oportet inqui-rere in omni positione sphaerae, primum quia *iis opus habemus
+ad investigationem obliquarum, quae sine rectis non innotescunt, deinde prop-
+ter se ipsas: quia quantum in unica sphaera recta cum quolibet eclipticae arcu
+ascendit, tantundem etiam cum illo meridianum transit in omni sphaera. Cum
+enim ecliptica inaequaliter etiam meridianum transeat aequalibus sui partibus,
+necesse est etiam hos transitus inaequales metiamur aequabili volutione aequa·-
+toris per meridianos locorum coelestes.
+
+Quomodo quaeritur ascensio reeta cujusque arcus eclipticas calculo yeo- ¹
+metrico? Eodem utimur triangulo ABG (flg.38), quo prius, cum declinatio
+quaereretur, quia circulus declinationum BC repraesentat etiam horizontem·
+
+rectum, ut quorum uterque per polos sphaerae ducitur. In hoc igitur trian- ⁷
+
+gulo dantur tria: angulus C inter Ac aequatorem et BC circulum declinatio·
+num, rectus, angulus BAC inter aequatos-em et eclipticam, et AB arcus eclip-
+ticae propositus, latus sc. recto oppositum, quod incipit a sectione vernali et
+terminatur in punctum expressum numeris graduum et nominibus signorum.
+
+Interdum ex abundanti datur et quartum, scilicet BC, declinatio illius puncti
+eclipticas: non poterit igitur nos fugere AC, arcus aequatoris, terminatus inter ,
+punctum aequinoctiale vicinum A et circulum declinationis BC, 'qui arcus AC ‘¹
+
+est arcus eclipticae AB ascensio recta.
+
+'Processus per angulum sectionis seu declinationem maximam est talis:
+
+Declinatio maxima — DE — 23. 31. 30.
+Ejus complementum GD 66. 28. 30. sinus 91688
+Sit positus 13⁰ tet, unde ad 0⁰ V sectionem vicinam sunt 47⁰, tangens 107237
+Multiplicetur abJectis¹ 5 ultimis prodit 98323, tangens arcus 44ο 31’ δ”.
+
+Itaque sicut hac vice 47⁰ ablati a fine eclipticas vel 30⁰ )( relinquunt 13⁰ π,
+
+sic etiam 44⁰ 31¹ 6“‚ ablati a fine aequatoris seu temp. 360, relinquunt ascensionem ν
+rectam 13⁰ zzz: temp. 315. 28. 54. ⁸
+
+Quomodo vicissim dato arcu aequatoris investiqatur arcus eclipticas Α
+cum illo coascendens in, sphaera recta seu coelum medians in omni sphaera ’
+
+non parallelo? Per processum contrarium, qui sic habet:
+
+Arcus Ac aequat. sit 44⁰ 31‘ δ”. Tangene 983320.
+Continua 5 cyphris. Sinus GD compl. declinationis maximae 91683 (divide).
+Quotiens 107236 est tangens AB 47⁰ arcus eclipticas coascendentis.
+
+Insigniores et memoratu faciles rectanum ascensionum
+regulae.
+
+1. Compara ascensiones rectas cum descensionibus. Ascensio recta eet
+aequalis descensioni ejusdem puncti: quia horizontis uterque semicirculus secat
+aequatoren'i angulo recto manetque idem arcus eclipticae idemque angulus
+inter aequatorem et eclipticam: tribus igitur manentibus in triangulo, oportet
+et reliqua tria manere, quae inter est arcus aequatoris‚ qui illic ascensio, hic
+descensio recta est.
+
+2. Compara oppositarum aequalium partium et semicirculorum as·-
+censiones. Sunt etiam harum ascensiones inter sese aequales utcunque in-
+ceptae, quia angulus sectionis vernae angulo sectionis autumnalis aequalis est,
+cetera ut prius. Aut igitur ab aequinoctialibus incipiunt, et patet propositio
+per se , aut non ab aequinoctialibus, tunc, quod superest ad vicina utrinque
+aequinoctia, utrinque est idem: ablatis igitur aequalibus ab aequalibus, relin-· ’
+quantur aequalia; aut si semicirculi sunt, ii secantur per puncta aequinoctialia, j
+

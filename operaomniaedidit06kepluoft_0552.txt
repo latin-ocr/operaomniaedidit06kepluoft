@@ -1,0 +1,105 @@
+5 33 In Epitomen Notae Editoris.
+
+5·1oe.7
+
+22 non 0000011615,
+
+8) p. 134. Eri-orem hic commisit Keplerus calculi, cum
+
+ 
+
+see 16243 quare semidiameter non 807, sed 012 mu. prodit.
+
+9) p. 137. Kaestnerus in collectione Dissertationum etc. „quas Societati Regiae
+scientiarum Giittingensi annis 1756-1766 exhibuit“ (Altenburgi 1771) hunc Kepleri 1000111
+examinat dissertatione IX. (4. Dec. 1762), quam inscripsit: De quaestione, quot sphaerae
+aequales circa datam mediam poni possint, ut omnes illam et circumpositarum sibi vicinae
+se mutuo tangant. Huic inquisitioni haec praemittit, quibus Kepleri verba illustrantur:
+
+systema 11100131οτ1οω, 001 Sol noster praeest, globi ad modum, cujus medium Sol occupet, ·
+
+potest concipi, 11. 0. cogitari potest sphaera Soli fere concentrica, ambitu suo planetarum
+et cometarum omnium orbitas continens. Jam si fixae Soles sint et planetas regant, potest
+eirca quamvis fixam similis illi, quam dixi, sphaera cogitari. Igitur, quae proxime circum
+
+systema nostrum jacent fixarum systemata, globi velut erunt nostri globum tangentes; illos, “
+
+qui tangunt, aequales ponemus, omues autem 50 mutuo tangere existimabimus, quoniam
+quibus interstitiis alter ab 011010 0101001 01 cui fini hoc vacuum inter se relinquerent, nulla
+divinatione possumus adsequi, tangentium vero se mutuo ordinem optime animo complecti-
+mur. Quaestio igitur eo pertinet: quot possint fixarum systemata proxime circa nostrum
+collocari? ι
+
+In sequentibus demonstrat Kaestnerus, circa da'tum globum poni posse illum et se
+mutuo tangentes ad summum 12, 1110ᾰί0, quem omues tangunt, paulo majores, inter se
+aequales3 h. 0. circa systema nostrum solare 12 ad summum systemata poni posse. Hos
+globos omnes simul cum medio complectetur major sphaera, circa quam aliae 12 ponentur,
+illa paulo majores in ea ratione, in qua tangentes priores media 000 01001 10030100. Ε1
+510 sine fine pergi posse, siquidem nestrum systema solare in medio reliquorum omnium
+statuamus. ,
+
+ln demonstratione sua progressus ostendit Kaestnerus, mediae sphaerae tangentes
+inter se aequales sphaeras circumponi posse nonnisi 4 aut 8 001 ad summum 12 et in
+sphaera media formari triangula sphaerica 4 vel 8 vel 20, quae in sphaera efficiantur pla-
+nis lateralibus solidorum regularium tetraedri, octaedri et icosaedri. Ad ea, quae Keplerus
+paulo infra respondit ad quaestionem: σαν hic uteris icosaedri fiyura? haec annotat Kaest-
+nerus: Ex his patet, quod viderit Keplerus icosaedri vim quandam esse ad confirmanda ea,
+'quae de fixarum per spatia coelestia dispersione dixerat, et quod magnis ingeniis, iuter quae
+eminet Kepleri, saepius accidit, partem veri suspicatus sit, sed 0110 paululum modo 1005οὅ-
+(11010 adhibeat quam ego, dum in angulis ejus centra sphaerarum collocat, 11οο 1100010 con-
+tactus, contentus, proxime saltem aequales esse angulorum mutuas et a centro distantias.
+Quod autem geometricum est in quaestione solumque sciri potest, id omne reliquit iuvesti-
+
+gaudum.
+
+10) p. 150. In priori exemplo dantur in triangulo AOD: ΑΟ = 860, DAO = 90⁰, ’
+
+ 
+
+ΑΟ. sin. OAD· lug. AO = 29344985
+
+ΑΒΘ = 88⁰ 1⁴, quare OD = sin. ADO ⁸103. sin. ADO -τ 9,9997398
+
+10gmffff= log. seam. . '2
+
+Quare ΟΜ = 0,51. Ad secundum exemplum haec monenda sunt. Iu Optica (Vol. 11.
+
+p. 200- ss.) Keplerus ostendit, refractiones rationes habere ex inclinationibus et earum secan· .-
+
+tibus compositas. Quare 'data inclinatione radii 89⁰ 20¹, ejusque refractione 40‘, iuvenitur
+
+retractio radii, cujus inclinatio est 60⁰, hac proportione: 89¹l3 . sec. 89¹s3: 60. sec. 60 = 40 z ι,- 1
+
+40. 60. sec. 60⁰ — 40. 180. cos. 89⁰ 20· log. 40 == 1‚6020600
+
+ 
+
+ 
+
+hinc x π 89 'l3. sec. 89ο 2Ο’ — 268. cos. 60⁰. ' ¹⁰3· ¹8⁰ =²v2552725
+⁷, 10g. cos. 89⁰ 20¹ = s,0657763 — 10
+1,9231oss
+
+log. 208 3202011140
+
+’ 103. cos. 60⁰ 306900700- 10 ,
+
+48 2‚1271048
+x = 062513 · Ξ -...-.. ’ 1,9231088
+’ < 76773 ’ 03900040- ι’
+
+Respicientes Keplleri calculum, notamus, secantem 8594561 110 10 89⁰ 20⁴ multipli- fl·
+
+catam esse, ut pro hac quantitate assumti sint 90ο 01 0 facto ²l3 de 8594561 subtractum.
+
+11) p. 151. Posito angulo ADO = 89ο 30‘, DAO = 90⁰ et OA = 1. erit OD τε.
+=·. ’1,000088, quare DM = 0,000038. (Cum sit Ao = 860 milliaribus = ι
+
+1
+sin. 890301
+860 >< 32 stadiiS, erit DM paulo plus 0110 stadio.)
+
+ 
+
+ 
+

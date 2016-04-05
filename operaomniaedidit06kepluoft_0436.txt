@@ -1,0 +1,72 @@
+422 ’ · Δ Epitomes Astronomiae
+
+de tribus, coaequata minima; post semicirculum vero media dicta est quan-
+titate minima, coaequata maxima.
+
+IV. De angulo ad Solem.
+
+Doce computare anomaliam coaequatam seu anqulum ad Solem. Varii
+sunt modi, sed compendiosissimus est, qui utitur intervallo planetae et Solis·
+Nam illo etiam ad alios usus indigemus.
+
+Sunt autem huJus modi casus tres3 aut enim est planeta supra diacen-
+tron, aut infra dihe1i0n‚ aut' inter diacentron et dihelion.
+
+1. Sit igitur initio planeta supra diacentron DBT, puta in G, et anomalia ec·
+centri PK 47ο 42‘ 20¹¹ et sit per ejus complementi ΚΒ sinum LB 67277 investigata
+
+planetae libratio 6233, eaque addita ad BP, sit constitutum Ac. intervallum planetae
+⁴et Solis justum, 106233, in dimensione, qualium BP est 100000. Idem igitur LB sinus
+
+, complementi apponatur ad BA eccentricitatem 9265, ut habeatur trianguli GAL rect· =
+
+anguli latus alterum LA 76542. Divisa igitur LA, appositis 5 cyphris, per CA, quo·
+
+tiens 72051 ut sinus ostendit arcum 46⁰ 5⁴ 48⁴1, qui est angulus LCA‚ cnjus comple- ν
+mentum 43⁰ 54⁴ 12¹¹ est angulus quaesitus LAC vel PAC.⁶⁴··) Si logarithmum dimidiati ¹
+² divisoris abstuleris a logarithmo dimidiati dividendi, relinquitur logarithmus ejusdem
+⁴ sive sinuS, sive arcus.
+
+2. Sit secundo planeta infra dihelion MAN, puta in S, et anomalia eccentri PW .
+eiusque, excessus supra quadrantem DW. Quemadmodum igitur supra libratio, per
+BZ sinum illius arcus quaesita, fuit a radio subtrahenda, nt existeret intervallum justum
+AS, sic etiam eccentricitas BA subtrahenda nunc est a BZ sinu, ut relinquatur ΔΖ, ·.
+
+· latus trianguli rectanguli alterum. Rursum igitur diviso numero lateris AZ, per 5 cy· ’ζ
+
+,Ριιιιιε prolongato, per latus AS, prodit sinus anguli ASZ, cui aequalis est MAS, ex· ,
+cessus ipsius quaesiti PAS super rectum PAM· seu quadrantem.
+
+3. Sit tertio planeta inter DBT 'et MAN, ut si sit anomalia eccentri PX eJusque
+excessus supra quadrantem DX sinus BY, quo libratio quidem subtractoris computa-
+tur, cum sit tensus in'fra B, at cum ipse sit minor eccentricitate 13 A, ips e jam ab
+hac auferendus est, ut restet YA Cum hoc igitur et cum intervallo justo agendum,
+ut in primo casu
+
+Quid appellas locum planetae eccentricum? Punctum illud in zodiac03
+in quod incidit recta ex centro Solis per corpus planetae. educta
+
+Quid est aequatio vel proslhaphaeresis, et quae causa nominis? Est
+differentia numeri graduum et minutorum anomaliae mediae a gradibus el
+minutis anomaliae coaequatae, vel secundum astronomiae· sormam veterem,
+est angulus in centro Solis ejusque mensura, arcus circuli magni sub fixis, ‘
+interceptus inter lineas medii et lineas eccentrici motus planetae. Hic cum
+
+ἶ sit auferendus in uno semicirculo, addendus in altero ad mediam, ut flate
+
+coaequata, ex eo composita voce προσθαφαιρεσις est dicta3 aequatio vero,
+inde, quia ejus additione vel subtractione ex anomalia coaequata, quae in·- “
+aequales sortitur arcus et ιθιιιροιι in portiones aequaleS‚ fit anomalia media ‚
+
+- , aequabilis,
+
+Quod· appellas nomen vel titulum aequationis? Duo vocabula vel
+, eorum indices syllabas vel literas A (Add.) S (ὃυὶιιμ) s
+
+· Quot sunt partes aequationis, et quae cujusque mensura? Duae sun't
+partes, altera physica, altera optica dictae. Illa enim est ob inaequalitatem,
+quae vere planetario motui accidit ob causas physicae, haec vero ob inae-
+. qualitatem tantummodo apparentem vel quasi apparentem, hoc est propter
+majorem vel minorem remotionem arcus verae orbitae a Sole. Utraque quo-
+dammodo in eodem triangulo discernitur, quod hinc aequatorium dicitur
+

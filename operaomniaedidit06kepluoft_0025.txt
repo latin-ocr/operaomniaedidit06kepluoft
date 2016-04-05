@@ -1,0 +1,61 @@
+ 
+
+Prooemium Editoris. 11
+
+Pars altera. De terminis astronomicis et calcu10, ex orbita eccentriea
+orientibus Retinetur vox „eccentricus“ pro ellipsi, linea apsidum pro lon-
+giori diametro ellipsis3 differentia inter distantiam (longitudinem) mediam et
+quamcunque aliam (a centro Solis) dicitur libratio planetae. Arcus elliptici ¹
+quantitas definitur quantitate arcus circuli circumscripti, intercepti inter aphe-
+lium et perpendicularem in lineam apsidum (sinus arcuum circuli sive „ordi-
+natim applicatae“ ad axem ellipsis).- Definitio „anomaliae“ mediae, eccen-
+trici, coaequatae: anomalia media est spatium temporis, quod planeta consu-
+mit in quolibet arcu suae orbitae, ab apside incepto, redactum in⁴ gradus et
+minuta; anomalia (sc. motus) eccentri est arcus circuli eccentrici inter lineam
+apsidum et perpendicularem illi per corpus planetae3 anomalia coaequata est
+arcus circuli magni in latitudine zodiaci, per continuationem plani orbitae
+planetariae designati, ab apside ad locum planetae, vel angulUS, quem lineae
+ab his punctis ad Solem ductae formant, his additur ratio, qua hic angulus
+computatur. Locus eccentricus est punctum in zodiacn, in quod incidit recta
+ex Sole per planetam ducta. Aequatio vel prosthaphaeresis est differentia
+anomaliae mediae et coaequatae, in gradibus et minutis proposita3 aequatio-
+nis sunt partes duae, altera ab inaequalitate, quae vere planetae motui acci-
+dit, ob causas physicas —- physica —·, altera ab inaequalitate apparente,
+propter diversam distantiam a Sole -— optica. —- Finem libri quinti facit
+Keplerusx, explicans inclinationem orbitae planetariae ad eclipticam, et motum ·
+apsidum et nodorum. ⁴
+
+Liber seoetus. De apparentibus motibus planetarum. Pars prima.- De
+motu Solis, Hunc motum apparentem inaequalem esse, testantur observatio-
+ncs3 causa hujus inaequalitatisest inaequalis Terrae a Sole distantia, quod
+ad Oculum potest ostendi, cum Solis diameter aestate appareat minor, quam
+hieme: linea ergo perpendicularis per centrum Solis ad lineam apsidum dividit
+orbitam Terrae in partes inaequaleS, et Terra in majori parte diutius versa-
+tur, quam in minore, cum ob id ipsum, quia major est, tum quia Terra remo-
+tior est a Sole, fonte motus. Terra movetur circa Solem in eandem plagam,
+in quam et ceteri planetae, quae orientis plaga dicitur, diebus 365 h. 6. 9¹·
+26⁰ 43¹l2⁰¹ sub fixis (secundum Ty'chonem). Eccentricitas Telluris eTycho-
+nis computo ponitur = 1795 (18003 cfr. Progymn. I. 821), qualium media
+distantia Terrae a Sole = 100000. Ex rationibus harmonicis eccentricitas
+
+ 
+
+ 
+
+Keplero paulo maj0r prodit: -Ξ- z ἐξ) = ἓΞ-Ξὲς J} : ῗ-Ξ-Ξ-ἓ) = Ξῗὲὲς Ψὲῗὲἓ
+= ἓ-ἓς medium arithmeticum inter 54 et 56 est 55, quare eccentricitas pro-
+
+dit proportione 55 : 1 = 1 : 0,01818. Tycho hanc eccentricitatem compu-
+tavit ex Solis observationibus et differentia longitudinum aestatis et hiemis3
+subtilior est ratio per Solis diametrum, hieme majorem quam aestate, certis-
+sima veto ex ternis observationibus cujuslibet planetae (cfr. Vol. ΙΙΙ. p.276ff.).
+Ecccntricitatem Terrae constantem esse valde probabile est, contra aphelium
+in consequentia signorum aequabilissime transfertur. His praemissis ea, quac
+libro V. de aequationibus ct anomaliis planetarum dicta sunt, ad Solem ap-
+plicantur et numeris certis demonstrantur.
+
+Pars secunda. De planctis superloribuS. Ad demonstrandos motus ho-
+rum planetarum (sicut etiam inferiorum) una tantum „theoria“ opus cst, quia
+illorum motus sunt simillimi, et vjsus fallaciae, quae in corum unoquolibet
+contingunt, cx Terrae orbita omnibus communi oriuntur. Motus horum pla-
+

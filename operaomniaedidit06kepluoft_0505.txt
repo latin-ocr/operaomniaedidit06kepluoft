@@ -1,0 +1,73 @@
+Liber Sextus. Pars Quinta. , 491
+signa habet , Gradus
+3 Quadratus 90
+
+Tridecilis 108
+ξ Trinus 120
+
+Sesquadrus 135
+
+Biquintilis 144
+5 Quincunx 150
+6 Oppositus 180 180 180 .
+
+Qui aspectus quibus inter se planetis conveniunt? Soli cum Mercuiio
+praeter conjunctionem nullus convenit, quia hic ab illo nequit οΧοιιιΜιοιο usque
+ad 30⁰, quae est mensura aspectus minimi, id est semisexti. Soli cum Venere
+possunt intercedere conjunctiO, semisextuS, docilis et octili8‚ practerea nullus3
+Veneri vero cum Mercurio praeter hos quatuor etiam sextilis et quintilis. (3ο-
+teri planetae bini quique omnes promiscue faciunt aspectus.
+
+Quomodo scimuS, quando bini planetae faciunt aliquem ex his aspec-
+tibus? Si prius per planetarum latitudinem, quas habent ad diem aspectui
+vicinum, quantitas cujusque aspectus jam expressa ιοάιιοειωι· ad eclipticam.
+
+Die reyulas de hac reductione yenerales 1) Quadratus aspectus pla-
+
+· ⁷ netae cujuscunque cum Sole vel cum ali0, qui caret latitudine, non habet
+
+opus reductione, quantamcunque ipse habeat latitudinem. 2) Aspectui qua-
+drante minori, si diversae fuerint configuratorum latitudines in plaga vel etiam χ
+in quantitate evidenter, minor arcus eclipticae respondet, majori maj0r. 3) Si
+latitudines propemodum aequales fuerint et plagae ejusdem, tunc omnibus
+aspectibus promiscue respondent arcus eclipticae majores·
+
+s 'Doce methodum aspectus computandi, quando latitudinem habent pla-
+netae. Casus sunt tres: aut enim unus solus habet latitudinem, et2tunc, si
+aspectus est minor quadrante, antilogarithmo ejus, sin maim-quadrante, com-
+plementi ad semicirculum antilogarithmo adimitur antilogarithmus latitudinis3
+residuum, quaesitum ut antilogarithmuS‚ ostendit arcum eclipticae responden-
+tem illic aspectui, hic ejus complemento ad semicirculum.
+
+Ut si aspectus sit minor quadrante, ut aspectus 30⁰, antilogarithmus 14384
+Unius latitud. 100, antilogarithmus 1531
+
+Residuuffi‘ffes'ssffiaesitum
+ut antilogarithmus, ostendit respondentem arcum eclipticae 28⁰ 26⁴.
+
+lta si aspectus sit major quadrante, ut aspectus 144⁰
+Complementi 36 antilogarithmus 21193
+Unius latitudo 10. antilogarithmus 1531
+
+Residuum 19662, quaesitum
+ut antilogarithmus, ostendit respondentem complemento arcum eclipticae 34⁰ 46³, qui ablatus
+<10 180⁰ relinquit arcum 145⁰ 14‘ respondentem ipsi aspectui 144⁰.
+
+ 
+
+Ergo cum planctae distant in ecliptica, illic quidem per 28⁰ 26‘, hic per
+145⁰ 14‘, tunc in suo peculiari circulo faciunt aspectum, illic semisextum 30⁰,
+hic biquintilem 144⁰.
+
+Aut ambo habent latitudines aequales inter se easque vel diversarum
+plagarum vel ejusdcm: tunc bisecto aspectu quaeritur, ut in primo casu, re-
+ductio competens dimidio, si plagae latitudinum diversae, vel complemento
+dimidii, si plaga eadem.
+
+Sit aspectus 72⁰, latitudines unius 5⁰ bor, alterius 5⁰ austr. Ergo dimidii 36⁰
+antilogarithmus 2019ss diminuatur antilogarithmo latitudinis 5⁰, 381. Residuum 19812
+ut antilogarithmus ostendit 34⁰ 523¹, eujus duplum 69⁰ 46¹ est distantia ecliptica pla-
+
+netarum, facientium quintilem. Sint vcro plagae ejusdem utraque latitudO, ergo di-
+midii aspectus 36⁰ complementum 540, antilogarithmus 53139, hinc aufer ut prius
+

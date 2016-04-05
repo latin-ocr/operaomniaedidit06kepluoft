@@ -1,0 +1,93 @@
+592 In Epitomen Notae Editoris.
+
+5) Datis in triangulo sphaerico obliquangulo tribus lateribus (600, complementum
+2⁰ 20¹ ct compl. 40 35¹) quaeritur angulus lateri 600 oppositus, quem metitur arcus eclip-
+
+ticae quaesitus.
+cos. 600 -- sin 20 2Ο’ . sin. 4⁰ 35¹
+
+cos. 20 20’ . cos 4⁰ 35¹,
+
+log. sin. 20 20‘ = 8,6097341 · 0 — · log. cos. 20 20’ = 9,9996398
+103. sin. 4. 35 = 8‚9025955 ⁰⁰⁵· ⁰⁰ - ⁰25 103. cos. 4⁰ 35‘ = 9,9986090
+
+0,5123296 - 3 = iog. 0‚00325 0 9932483 ,- 1
+11ῑῇζο 49575 log. Ο, 49675- - Ο, 6961379 - 1
+
+x=60⁰5¹ ,meos Χ.
+
+6) Itidem datis lateribus (720, complementis 4⁰ et 1000) prior formula, quia 1000
+major recto, in hanc convertitur·
+
+cos. x ==
+
+ 
+
+ 
+
+ 
+
+cos.7 720 -1- sin. 4⁰ . cos. 100⁰
+
+ 
+
+⁰⁰⁸⁴ x ς cos. 40 . sin. 1000
+Iog. sin. 4⁰ = 8,8435845 log. cosa 4⁰ = 9,9989408
+log. cos, 100⁰ :t 9,2396702 cos. '72⁰ = 0, 309017 log. sin. 100ο -- 9, 9933515
+0,0832547 — 2 = log. O, 012113 Ο, 9922923 -— 1
+
+ 
+
+0 321130 log. O, 32113·- -- Ο, 5066809 ·-· 1
+1— ⁶- 70⁰ 56¹ . . 9, 5143886 =log. cos, 1
+
+ 
+
+ 
+
+87) p. 498. Cum sit SA ΙΙ VB, est CA. · OB = SA t VB3 hinc
+
+&Tg-Q. SA —- VB=CB:VBet1ndeCB—SA-⁰—glg.
+
+ 
+
+88) p. 498. Huic ,‚“‚praecepto quod verbum de verbo exprimit Keplerus in Ta-
+bulis Rud„ in illis haec addit: Haec demonstrativa umbrae semidiameter crebro major
+
+invenitur 'illa quam Tycho exhibet in Progymnasmatis, conformatam ex observatio-
+nibus eclipsium Lunae3 sed illae fallaces sunt ob concursum causarum physicarum,
+quae inconstantes sunt. Itaque umbrae latitudo, quam Tycho tradit, si ad demon-
+strationum diagrammata numerosque contra naturam suam pertrahatur, theoremata
+llla Hipparchi pulcherrima et aestimationis immensae (ut quae umbram coelo pro
+scalis injiciunt) penitus evertit. Fatetur id Longomontanus, Tychonis in hac prag·
+matia minister, ingenue, methodum hanc dicens irritam fieri frustraque fuisse veteres.
+Parcius, inquam ego, haec artificibus objicienda fuerant. Nam et ego diu multum-
+que versatus in consideratione eclipsium, etsi sum expertus aliqua nocumenta a causis(
+Χ physicis, at ea non tanta fuerunt per omnes eclipses constanter, ut universam astro-
+nomiam everterent. ³
+Cum ergo rationes archetypicae conformationis trium corporum propinque ad-
+modum ad potissimas et certiores eclipses alluderent, praecipue ad principia et fines 1ι
+(nam insidiosiores sunt immersiones totales emersionesque), nihil dubitavi, umbram ex
+parallaxibus diametrisque, et archetypicis et observatis, conformare, sepositis enormi
+bus apparitionibus et culpa in causarum physicarum inconstantiam conjecta. ¹
+
+Horroccii dictum, quo maxima laude effert Kepleri theoriam lunarem, exhibuimus·
+praefatione ad »Hipparchum«, ex quo libro multa huc transtulit Keplerus, quare non ,ι
+
+supgrzguum videtur monere, ut comparet lector ea, quae nostra editio affert vol ΙΙΙ.
+p ss
+
+89) p. 501. Logarithmos logisticos hos dicit Kephrus, qui in »chiliade« adscripti¹ ³
+sunt columnae quintae, quae inscripta est: »Partes sexagenariae« (in Tab. Rud. hane
+columnam inscripsit: Sexagesima scrupula in tabula »Heptacosias logaritbmorum logistico- ¹¹.
+rum« inscripta), Vol. 111.p. 719 s. attulimus ea, quae ad computationem harum »par- Ἴ
+
+tium« intelligendam necessaria visa sunt
+
+ 
+
+Calculum Kepleri, quem in sequentibus proponit, haec illustrant: Horarius Luna& λ’(
+= 29¹ 46¹¹ (29¹ 56¹ ’); Solis = 2· 33¹¹, differentia (» »horarius Lunae a Sole«) τε·- 27‘13¹¹
+(27. 23). Distantia centrorum Lunae et umbrae initio deliquii = 58¹ 53¹¹ 3 58¹ 53¹¹ :¹27 13· '¹ ξ·
+(27 23) = 2 11· ‚residuum (11νί010010- — 4¹ 27¹¹ (4¹ 1'7‘ ¹). Arcus 4¹ 27‘ ¹ (4¹ 1'7‘ ¹) in tem-3}
+

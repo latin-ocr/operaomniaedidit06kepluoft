@@ -1,0 +1,75 @@
+236 Epitomes Astronomiae
+
+quas habes. observationes? Angulus hic, ut jam de horizonte recto dictum,
+est acutuS, et tanto minor, quanto propior punctis aequinoctialibus, nunquam
+tamen aequat complementum declinationis maximae3 in ipso vero solsti-
+
+tiali puncto est rectus. Ultra solstitiale punctum obtusus efficitur respectu .
+
+antecedentis remotioris aequinoctii, acutus ut prius respectu sequentis pro-
+pioriS.
+
+Si a solstitiali vicino puncto numeretur in aequatore arcus aequalis pro-
+posito arcui eclipticae ab aequinoctiali inceptu, et ab ejus termino ducatur cir-
+
+culus declinationis, ejus arcus inter polum sphaerae et eclipticam metitur an· -
+
+guium, quem meridianus facit cum puncto eclipticae primo proposito.
+
+Ut si proposito B puncto mig. 38), sumeretur EQ aequalis ipsi AB, ducto GQ,
+
+arcus GP erit mensura anguli ABG. Vicissim proposito P punct0, sumatur EC aequa-
+lis ipsi AP; ducto GC, arcus GB metitur angulum APQ.
+
+Quomodo computatur hic anyulus? 1. Si fuerit ad manus tabula decli· ⁴·
+
+nationum et tabula ascensionum rectarum, quaere complementum arcus eclip-
+ticae, a viciniori aequinoctio incepti, inter ascensiones rectas, tunc e regione
+in columna declinationum invenies complementum anguli quaesiti.
+
+2) Sin autem calculo placet uti, processus erit iste.
+
+ 
+
+Arcus eclipticae a vicino aequinoctio 30⁰
+complementum 60⁰ sinus 86603
+Declinatio maxima 23. 31. 30. tangens 43533
+34826 4
+Multiplica absectis 5 ultimis. 2612 0
+261 2
+1 2
+Ateus 20⁰ 39¹ 25⁰ tangens ........ 377011
+
+ 
+
+⁸ Complem. 69. 20. 35. est angulus quaesitus. ³²)
+
+Quid est ascensio recta stellae vel puncti in sphaera, quae est extra eclip-
+ticam? Est arcus aequatoriS, interceptus inter principium Arietis et circulum
+declinationis stellae vel puncti et in consequentia numeratus De hac vero
+plura infra, parte doctrinae sphaericae quinta.
+
+Quid est comiatum ascensioni rectae stellae? Longitudo loci in Terra.
+
+Quid est loci lonyitudo? Est arcus aequatoris terrestris (vel etiam paral-
+leli per locum ducti), interceptus inter primum meridianum terrestrem et inter
+meridianum loci, et in consequentia numeratuS. De hac infra parte quinta.
+
+Dc ascensionibus obliquis punctorum et arcuum eclipticam,
+
+Quomodo investiyantur ascensiones obliquae? Opus est cognita propositi
+
+puncti declinatione, ascensione recta et differentia ascensionali, quae ex decli·
+natione innotescit. Nam hac differentia ascensionali ad ascensionem rectam
+addita vel inde ablata constituitur ejus puncti ascensio obliqua.
+
+Quid est differentia ascensionalis et quomodo investiqatur? Collocato
+puncto proposito in horizonte ortivo, formatur rectangulum ab horizonte, aequa-
+tore et circulo declinationis puncti propositi3 in quo triangulo tria dantur:
+latus in circulo declinationis, id est declinatio puncti, angulus sectionis aequa-
+toris et horizontis, quem metitur altitudo aequatoris, et angulus inter aequa-
+torem et circulum declinationis, qui rectus est3 non poterit igitur effugere et
+quartum, sc. latus in aequatore seu differentia ascensionalis
+
+Processus: Sit 0⁰ Gem. vel Οο Aquar. punctum propositum
+

@@ -1,0 +1,67 @@
+’ Libe'r Quintus. Pars Altera. 423
+
+Connexis enirn terminis eccentricitatis A, B cum corpore planetae C, pars aequa-
+tionis physica quidem mensuram invenit in area BAC (vel per aequipollentiam in
+area BAK)‚ optica vero pars aequationis aequalis esset angulo BCA, si is computare-
+
+. tut; quo semper exiguo minor est angulus BKA, cnjus esset facilior computatio.
+
+Quis est usus hujus aequationis, ctiam titulorum ejus? In hac astro-
+nomiae forma renovata totius aequationis ex utroque elemento compositae
+usus· est non necessarius nec valde magnus. Non enim per hane aequationem
+
+¹ constituuntur anomaliae, sed eontra, per comparationem anomaliae coaequatae
+(qu'am prius computamus) cum anomalia media elicimus aequationem, si
+quando ea volumus uti. --
+
+In tabulis vero ponuntur tres anomaliae distinctae: primo enim anomalia
+eccentri ponitur ad sinistram, secundum gradus integros ab l ad 180 ordine,
+i idque propterea, quia ab hac data fit initium computandi reliquas ipsamque
+; etiam distantiam seu intervallum planetae et Solis3 secundo huic anomaliae
+'eccentri subjicitur in eadem columna pars aequationis physica seu valor areae
+· trianguli aequatorii in gradibuS, minutis et secundis; ex qua conclusione ano-
+maliae eccentri cnm parte aequationis physica in eandem cellulam intelligi-
+'4 mus, additas invicem constituere anomaliam mediam respondentem. Tertio
+, adlatus hujus in peculiari columna ponitur anomalia coaequata, respondens
+
+arcui. Si quis Jam vult scire aequationem compositam, is anomaliam coae-
+ἕ, quatum a juxta posita media, seu a summa anomaliae eccentri et partis
+i aequationis physicae subtrahat, remanebitque aequatio quaesita, quae in semi-
+, circulo quidem descendente habet titulum subtractoriae, in ascendente adJectoriae.
+Ρ Dic tamen, quomodo partes hae aequationis inter se mutuo compa-
+ratae habeant ad invicem Quo minor est eccentricitaS‚ hoc magis ,accedunt
+Α ad aequalitatem inter se3. in superiori tamen semicirculo, supra diacentron,
+’ paulo minor est pars optica parte physica, in inferiori, infra diacentron,
+paulo major. , ·
+Ut in adJ'ecto schemate, si A Sol, PAR mg, 81.
+¹ linea apsidum, ei ad rectos DBT, MAN, supe-
+* fior semicirculus vel quasi DPT, inferior ΒΗΤ.
+Sint triangula aequaturia in superiori BOA, BFA,
+in inferiori ΒΕΑ, BQA. Cum igitur areae trian-
+gulorum sint mensura partis aequationis physi-
+cae, anguli vero ad C, F, S, Q partis opticae:
+areae certe superiores sunt de area totius cir-
+
+culi (360) portiones maj0res, inferiores vero mi-
+
+nores, quam earum anguli de quatuor rectis seu
+360. centris enim C, S, diastematibus CB, SB
+semidiametris, scribantur arcus BL, BH, termi-
+nati in CA et SA continuatam, qui arcus me-
+flentur angulos C et S, aeque valent vero iisdem
+arcubus et areae CBL, SBH. Si igitur hae areae
+essent partes aequationum opticae, aequales es-
+sent ambae unius aequationis partes. At non CBL, sed major area CBA est mensura
+partis physicae, sic non SBH, sed minorat-ea SBA in inferiori. Superat igitur pars
+physica superius, pars optica inferius.
+
+Ubi est aequatio composita maxima? Partium quidem prior, physica,
+ost maxima in D, T, terminis diacentri, quia nullius trianguli altitudo maj0r
+esse potest ipsa BD vel ΒΤ, quae est in circulo semidiameter, etiamque in
+ellipsi longissima ordinatim applicatorum. Posterior pars optica, si orbita
+circulus esset, maxima soret in M, N, terminis diheliae3 ibi enim perpendicu-
+
+ 
+
+ 
+

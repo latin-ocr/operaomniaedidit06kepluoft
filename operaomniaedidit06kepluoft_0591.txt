@@ -1,0 +1,83 @@
+ἱ Excerpta ex Tabulis Rudolphinis. 577
+
+- Sit punctum A, ad id duo anguli obtusiusculi (Fig. 100. p. 575) CAD et ΕΑΒ,
+notae uterque quantitatis, et latus prioris AD intercedat inter latera posterioris AB,
+ΑΕ; vicissim latus posterioris ΑΕ intercedat inter latera prioris AD, AC; latera vero
+angulis obtusis subtensa CD et ΕΒ constituant unam rectam CB. Sit denique nota
+proportio binorum laterum a dextra parte, sc. AC, ΑΕ, nota et proportio binorum a
+sinistra, scil. AB, AD. Oportet indagare, quanti sint anguli C, E, D, B, et quanti
+CAE et reliqui ad A. ·
+
+Quia igitur CAD, EAB sunt obtusi, ducta ex A perpendicularis in BG cadet
+intra bina et bina latera, sit haec AF: quae si ponatur esse sinus totus, in ea dimen-
+sione quatuor latera circa obtusos totidem erunt secantes angulorum, quos latera fa·
+ciunt cum AF perpendiculari. Cum autem hi, anguli sint complementa angulorum
+C, E, D, B quaesitorum, illarum igitur linearum logarithmi erunt iidem cum horum
+quaesitorum angulorum logarithmis3 linearum· quidem privativi sunt, quippe sinu toto
+maiorum, istorum vero positivi, quia horum sinus sunt toto minores. Ergo proportio
+illarum linearum erit differentia logarithmorum‚ quos hahent anguli G, E, D, Β. Et
+
+*⁸ cum AF ca'dat inter bina et bina latera, patet, quod laterum ex una parte breviorum
+proportio sit minor, ut AB, AD, ex altera parte longiorum proportio major, ut AC,
+. ΔΕ. Amplius memineris, quod lineae, quae privativum habet logarithmum, brevioris
+minor sit logarithmus‚ longioris maJ'or. ”
+
+Ex his fundamentis praeceptum nascitur tale. Per proportionem minorem
+(AD, AB), ut logarithmum, excerpe arcum. Cum igitur angulus AOD, quaesitorum
+1111118, sit certo minor complemento hujus arcus ad quadrantem, pone hunc esse
+
+-notum, pone, inquam, minus aliquid illo complemento.' Ablata igitur positione hac
+
+a summa angulorum C, D (qui cum CAD noto faciunt duos rectos), residuum erit
+
+⁵ -tanquam angulus D. Hujus ergo logarithmum adde ad proportionem minorem, summa,
+
+, ut logarithmus, exhibebit veluti angulum Β. Ηο0 vero ablato a summa duorum B, Ε,
+
+(relinquetur quasi angulus E. Hujus igitur logarithmum adde proportioni majori:
+
+· summa, ut logarithmuS, exhibebit angulum C correctiorem, quam erat initio positus.
+
+Ab hoc igitur angulo G, jam correctiori, tanquam a nova positione repetitus proces-
+
+nus exibit in correctionem secundam positionis. Bis vero correcta positione, statim
+
+ἵ . upparebit analogia, quae ducet ad minutissima corrigenda. Correcto angulo C et cum
+Ἴ [ob etiam E, D, B, per subtractionem C ab E habetur et angulus OAE.
+
+μ’ Ita positione unius de quatuor angulis, qui quaerebantur, compendiosissime Ι
+
+venitur ad certitudinem omnium quatuor. quod citra logarithmorum operam fortassis
+¹ ’μὴ impossibile fuisset aut laboris immensi. ·
+· Etsi vero usus praecepti hujus in his tabulis specialis est in stationibus inda·
+,2 fiendis, ut praefatus sum, censui tamen, proponendum hoc loco generaliter, quia usus
+2* §ius etiam in aliis computationibus esse poterit, et quia exemplum ipsum, abutendi
+ἰ bgarithmis ad operationes tales inartificiales, de pluribus aliis affinibus deque loga-
+y rithmorum ad eas aptitudine monebit.
+
+ε’ 74) p. 448. Gap. XXII. Tab. Rud. „De prosthaphaeresibus orbis annui“ praecepto 96.
+³ tuetur: Excerpere vel computare prosth. seu parallaxin orbis, et in flneadditur: Hanc
+
+&ommuniter parallaxin seu prosthaphaeresin orbis magni appellant Copernicus et Pru-
+3 §laicae et brevitatis causa prosthaphaeresin orbis simpliciter. Tycho Braheus inter-
+›· llum appellavit prosthaphaeresin eccentri non plane proprie, sed eo respectu, quod
+ι Quum alicujus concentrici‚ in quo fertur eccentricus‚ ejusque linea apsidum, cum
+² ὶβιο 8010 circumiens in annuo orbe, causetur hanc prosthaphaeresin. Maginus in
+suppl. Ephem. appellat aequationem orbis vel argumenti planetae ex Alphonsinis.
+⁴ Ptolemaeus prosthaphaeresin epicycli dixit. ’
+
+Capite X. Tab. Rud. Keplerus, „Tabulam anguli potissimum pro prosthaphaeresibus
+Ἰ, orbis in 5 1118110111ιι explicans, haec refert: Desideratur a tabulis astronomicis conspec-
+
+ἰ m 'aliquis varietatum prosthaphaeresium orbis, ut prosthaphaeresin vero proximam,
+ξ ln quantum hoc patitur mira planetarum varietas, excerpere et tanquam positionem
+t
+l
+
+ 
+
+felicem deinceps per logarithmos excolere et limare possint calculatores.
+His de causis construxi jam ante multos annos tabulam anguli prolixam ad
+
+ι 3 Keplerl Opera. v1. 37
+

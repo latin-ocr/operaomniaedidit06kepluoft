@@ -1,0 +1,66 @@
+602 In Epitomen Notae Editoris. ,
+
+gnmentum obliquitatis 1560 9⁴, cujus antilog. 8926 adde semidiametri circelli formae IV.
+47⁴ 10⁴⁴ legarithmo 429035, summa 437961 dat prosthaph. 43⁴ 6⁴¹ , subtrahendam obliq. Α
+mediae 240 17⁴ 40⁴⁴ ; restat obliquitas tanquam per librationem in circelli diametro 230
+34⁴ 34⁴⁴. Sed quia statuitur non librari, sed circumire 1ιι circello, ejus diametri log. eun-
+dem adde log. argumenti 90549‚ summa 519584 asservanda ad sequentia, sed quae jam ,
+ex tab. correctionis exhibet 7⁴⁴, ita fit correcta hujus modi obliquitas 230 34’ 41”.
+
+2) Ab aggregato 519584 subtrahe log. 230 34’ 32’ ⁴ (obl. incorrectae) 91640, restat
+427944. Ad hoc residuum adde obliq. mediae antilog. 9273, summa 437217 exhibet 4'3‘ 27⁴⁴.
+prosthaph. aequin. quaesitam. Et quia argumentum obliquitatis est ex primo semicirculo,
+
+,91560 9’, quare haec prosthaphaeresis aequinoctiorum est addenda.
+
+94) p. 525. Praeceptum 188. Tab. Rud. hoc e'st: >Quo die cujusque anni ante
+vel post Christum continyat aequinoctium ’ἔα Supra cap. XXX. in descriptione tabulae
+subsidiariae motuum Solis didicisti obiter, computare diem aequinoctii veri; sed sup-
+positum erat, puncta aequinoctialia sub fixis aequaliter retro repere, quia praecessio· .
+nis hujus inaequalitas incerta est, certe tanta non est, quantam Copernicus tradidit.
+Vide Progymn. Tychonis. Tom. 1. Nunc hoc capite, cum ex forma obliquitatis quin·
+tuplice totuplex etiam enascatur prosthaphaeresis aequinoctiorum, praeceptum igitur Ι
+computandi diem et horam aequinoctii tradendum est generale, cujus certitudo aesti-
+manda est ex ipso dogmate cujusque formae.
+
+Ex tabulis motuum mediorum Solis ad annos datos completos collige motum
+Solis medium et locum apogaei vel ejus loco anomaliam annuam. Tunc motui medio
+adde tot mensium, dierum et horarum motum medium, quoad vel circulus fuerit com-
+pletus, pro aequinoctio verno, vel insuper semicirculus, pro autumnali. Ita constitu- ‘
+tum erit tempus aequinoctii medii. Tunc per anomaliam Solis vel collectam vel for-
+mandam per apogaeum et motum medium excerpatur prosthaphaeresis Ε) cum suo
+titulo, per candem et diurnus et horarius Solis ex subsidiariis. Quodsi nulla ponitur
+fieri prosthaphaeresis aequinoctiorum, sola aequatio Solis dividatur per diurnum et.
+horarium, ita prodibunt dies, horae et minuta, addenda ad tempus aequinoctii medii,
+si subtrahendaerat aequatio, subtrahenda, si haec addi deberet, ut habeatur tempus
+aequinoctii veri. Sin autem statuitur aliqua prosthaphaeresis aequinoctiorum, quae-³
+ratur illa secundum unam ex quinque formis, quae placuerit, omnes enim dubiae sunt.
+Hac prosthaphaercsi constituta, pensatio fieri debet in motu Solis, ut quod prestha-
+phaeresis ista demsit, vicissim mutatio motus medii reponat nostro tempore. Cumque
+pensatio in IV. et V. formis suam habeat epocham (in calce subscriptam), haec quidem
+semper est subtrahenda, pensatio semper add, prosthaphaeresis ut et aequatio Solis nuno
+subtr. nunc add. Itaque quatuor ista si fuerint ejusdem tituli, conjungantur in uuam
+summam, sin diversorum, minora ejusdem tituli a majoribus subtrahantur, residuum
+insigniatur titulo maioris. sic tandem vel summae vel residui hujus fiat divisio per- 2
+diurnum vel horarium Solis et quotientis applicatio ad tempus aequinoctii medii titulo Ι
+divisi contraria, ut prius.
+
+Exemplo esto aequinoctium Hipparchi, anno 147 ante Christum observatum3 colligi· Ἰ
+mus eo anno ineunte apogaeum in 5⁰ 49⁴ 45⁴¹ Π, Solis medius in 9 7. 28 31. Februa-³ i
+rius anni communis addit 1. 28. 9, 11. et fiunt 11. 5. 37. 42. Dies 24 addunt 23. 39. 20, Ξ
+’ fiuntque 11. 29. 17. 2, residuus ad impletionem circuli est motus horarum 17. 26. 24.
+Hinc ad apogaeum complementum anomaliae numeratur 650 50⁴, quod dat aequationem
+10 5’ 52” addendam, invenitur autem eodem anno 147 prosth. aequinoctiorum 10¹ 36¹¹
+subtrahenda. Vicissim quia annus 147 ante Christum distat ab epocha creationis 3853 annis,
+per hoc intervallum colligitur pensatio primae formae 11( addenda sine epoclia. Compositis igi-
+tur addendis et subtracto, quod est subtrahendum, residuus est 10 52’18”, qui divisui
+· per diurnum Θ 58⁴10‘,⁴ facit d. 1. h. 1. 22. 2Ο”, subtrahenda tempori aequinoctii medii,
+ut flat verum aequinoctium anno 147, currente die 23. Martii, horis a meridie Uranibutq
+gico 19. 6. 24, secundum hanc primam formam prosth. aequinoctiorum, differens ab (ιο,
+quod sine prosthaphaeresi computamus, minimo, nam ut id sic fleret tempore Hipparchi]¹
+et nostro, pensatio huic formae ut et ceteris sua cuique est adjuncta.
+
+-Cautela Hoc autem praecepto dies aequinoctiorum, ut eos Ptolemaeus perhibet:³
+a se esse observatos, non repraesentantur omnimode. Quicquid igitur hic differant
+vel modi inter se vel a praecessione aequabili, nihil moveri debemus auctoritate Pto· q
+

@@ -1,0 +1,73 @@
+560 Ι ’ In Epitomen Notae Editor-is,
+
+dantur hypotenusa et altera cathetus3 inventa prima operatione altera catheto (x), dantur in
+’ alio triangulo itidem rectangulo hypotenusa et altera cathetorum, quaeritur angulus opposi-
+tus (y, ad polum), quem metitur, arcus aequaturis. -
+Si locorum intervallum paulo longius est, adhibenda est methodus, qnam textus ex-
+hibet. Exemplum in Tab. Rud. est diff. meridd. Augustae Vind. et Madriti, «quae cen-
+sentur mill. germ. 200 distantes; fides aestimationis sit penes viatores„ Calculum absolvit.
+legarithmis usus et formula, quae redit ad hanc:
+
+sin. 'g = Ἣε-ᾜ, in qua Α angulum ad polum, b et- c alt. aequa-
+toris et s dimidium summ-ae graduum datorum signat. Prodit Ᾰ = 15⁰ 18‘ = h. 1. 1¹.
+
+Tertium Tab. Rud. exemplum hoc est: Straborlibro XV. Geographiae Susis Perse· A
+polim-numerat stadia 4200. Ut autem semmua, quot stadia faciant hoc loco gradum
+circuli magni, notandum, quod idem auctor a ⁴promontorio Caramaniae australissimo‚
+quod fretum sinus Persici constituit, ad portas Caspias numeret 14400 stadia. Alt. ,
+poli illic est 250 30¹, hic 43⁰ 30⁴, intersunt 180 sub eodem quasi meridiano, quia Strabo ³
+longitudinem Persidis ducit a sept. in austrum. Si 18⁰ patent 14400 stadiis, uni com-
+petent 800 stadia, et si 800 stadia dant unum, 4200 dabuntb⁰ 15¹: tot sunt gradus
+
+Susis Persepolim. Calculus Kepleri prodit angulum A = 5⁰ 20¹, h. e. temp. 21¹. Ad‘' ⁴
+problema, ex catalogo locorum intervallum eorum itinerarium computandi, haec affert Kep- ·
+
+lorus exempla: 1) Noribergae est alt. poli 490 26‘, Jaroslaviae Polon. 490 45’; diff. alt.
+pol. est 0⁰ 19¹, diff. meridd. 46¹. Via priori contraria dat mill. germ. eommunia 111¹l4, '
+numerantur vero 130, itaque dudum hujus loci „additionem“ augere cogito. Quam-
+quam viatorum religiosorum aliqui rogati affirmarunt, se communiter horum milliarium
+in Polonia septena in dies singulos conficere, est ubi octona >et novena. 2) Dentisci
+
+‘ , alt. aeq. 35⁰ 37¹, Uraniburgi 34⁰ 152 meridd. diff. 28‘. Calculus prodit 64¹l4 milliaria.
+
+47)‘ p. 300. Cognitis in Δ 8112 Fig. 47) lateribus sp = 67⁰, 11> ἐ 50⁰ et an-
+gulo SPI = 940 (h. 6. 16’ = 67¹5. 150 . computatur latus SI formula:
+
+cos. SI = cos. 940. sin. 670. sin. 50⁰ -†-· cos, 670. cos. 50⁰ '.
+= cos.94⁰.¹l2[coS.(67⁰-50⁰) -cs.(67⁰÷5o⁰)]÷¹s2[co's.(670—500)†cs.(6⁷⁰÷500)] ’
+= Ι12 ἕως. 170 - cos, 117⁰) (cos, 940 - 1} -1- οοει. 170 , “
+= ¹!2 0.95630 -l—„0,45399) (—- 1‚06976) -1- Ο,95630)
+r = 1- 0,75434 -1- 0,95630 = Ο,20196 = cos. 780 21⁴
+Sic in pqsteriori exemplo prodit cos, SI '= coe. 610. sin. 1250. sin. 690-1- cos, 125⁰ cos. 690 1
+SI = 80⁰ 30¹ ”
+48)Ῥ. 314. Confer cum his, qnae Maestlinus scripsit Keplero de theologi naseu-3 ἱ
+refferi sententia de Solis loco in medio mundi: Tuum inventum atque Copernici hypothes 1
+ses theologos nostros etiam nonnihil offendunt, auctoritate tamen Principis, cui “ principale 1
+schema dedic-atum est (cfr. Vol. Ι. p. 74.), moti in medio relinquunt. D. D. Hareni-effe* 1 1
+rus semel atque iterum (jocose quidem, licet jocis seria etiam intermixta videantur) me ador-¹ 1
+tus et mecum disputaturum se essetestatus est, quam diu auctoritas Scripturae Sacrae esset ‘a
+perstitura. Idem haud ita pridem in publica vespertina concione, in explicatione cap. 1.. Ι.
+Geneseos inter alia dixit: «Deum summum creatorem non suspendisse Solem in medio mundis 11
+ut laternam in medio atrii.» 111
+
+49) p. 321. Huc referenda sunt ea, quae diximus in praefatione ad Vol. 1. hujus 11
+editionis de computatione radiorum globorum corporibus regularibus inscriptorum et.circum-‘· 11,
+scriptorum. Quae hoc loco de rationibus horum radiorum dicit Keplerus, his illustrentur. “
+
+Sit semidiameter orbis cubo circumscripti (R) = 1, erit illa. cubo inscripti (r) .-..=‘ 3.
+0‚57735‚ quare .R² z r2 = 1 : 0,33333 = 1 : 11;,; in tetraedro R : r = 1: 11;,; in ἀπο-’,11
+caedi-o: R ς r = 1 : o,79465 ’ ’
+
+R2 : μ’ = 1 2.0,63147; o,63147 > ³l⁵ < 2l3. >. 1-
+
+50) p. 327. Cfr. Vol. 111. 219, 474 ss„ ubi Tyehonis errorem Keplerus pluribus· 3'21'
+inquirit3 item praef. ad hoc opus p, 7. “ ,π ,ᾗ
+
+Horroccius recensitis parallaxibus omnimodis„ quas astronomi Soli tribuerunt, 3=
+(Ptolemaeusz 2‘ 51⁴‘, Albategnius: 3¹, Copernicus: 2¹ 55¹¹, Lansbergius: 2¹ 13¹¹, Tycho 21 ²..
+54¹‘, Longomontanus: 2¹ 40⁰), iisque refutatis, affirmat, parallaxin Solis csse 0‘ 15“-p1us··3‡9
+minus. De Kepleri parallaxi haec affert: Keplerus e speculationibus harmonicis aliisque wa
+argumentis probat, Solis parallaxin non excedere unum minutum. Ad harmonicas contempla-‘⁴ τ]
+
+ι
+

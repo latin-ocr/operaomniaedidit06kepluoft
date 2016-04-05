@@ -1,0 +1,68 @@
+Excerpta ex Tabulis Rudolphinis. 543
+
+Ergo si detur tempus posterius nostra Incarnationis aera, sume centenarium
+proxime antiquiorem dato anno currente ejusque epochas motuum ex eadem linea cx-
+scribe3 deinde subjice completos annos supra centenarium illum excurrentes motusque
+cum iis excerptos epochis membratim subscribe3 tertio cum diebus currentiss mensis
+completis idem facito (nisi ubi Februarius inter completos menses bissextilis fuit: tunc
+utendum die currente pro completo); denique idem cum horis, minutis et secundis,
+etsi praeterquam ad Lunae motuum collectionem per secunda non est opus excerpere.
+Lineis his sic exscriptis fiat collectio logistica omnium, ut restet denique in summa,
+quantum motus quilibet super integras revolutiones a principio V confecerit.
+
+Si vero detur tempus annorum ante Incarn. currentium, subtrahe illos ab annis
+epochae proxime majoris et antiquioris; remanebunt anni completi, quorum motus ex-
+scripti ex tabula subjiciendi sunt numeris cum epocha illa antiquiore exscriptis;
+cetera ut prius, „ ’
+
+Hic vero excipe loca fixarum, quarum epochae in catalogo sunt unicae, ad
+annum sc. 1600 p. Chr. Igitur sitempus proponitur posterius anno 1600, ratio col-
+lectionis non differt ab hactenus tradita3 sin prius‘, exquirendum erit intervallum id
+, inter et annum 1600. Summa ex centenariis et— singulis infra 100 collecta aufertur
+ab epocha, quam fixa proposita habet in catalogo. Aliter etiam sic: collige locum
+primae V, ut unius ex planetis, eique loco adde arcum distantiae fixae propositae a·
+prima V, quam illa habet in catalogo.
+
+Excipe secundo nodum Lunae. Nam q'uia is est retrogradus, pro epocha ejus
+scribe compl. ad circulum eoque. utere loco epochae: facta vero additione pro summa
+rursum scribe ejus compl. ad circulum, seu, quod eodem recidit, motus nodi Lunae
+· excerptos cum millenariis ab epocha elapsis cumque centenariis et singulis'infra cen-
+tum, hos inquam motus conjice in unam summam, quam aufer a numeris ipsis epochae
+exscriptis. (‹Exemplum» huc pertinens vide annot. 1. 9,»531.)
+
+19) p. 195. Qua ratione Keplerus, ad quaestionem Herwarti respondens, Lucani Pharsalia
+commentatus sit, Vol. IV. p. 73 ss, proposuimus. Quem dicit Sulpitium, Joannes Sul—
+picius Verulanus Romae inclaruit scriptorum latinorum accurata cognitione editisque ope-
+ribus Vegetii et vitruvii. Sententiam de solstitiis,⁴ quam affert Keplerus‚ deprehendes in
+Sulpicii Commentariis in Lucanum. Α
+
+20) p. 195. In Ptolemaei Geographia edita a Magino describitur Idumaea his
+verbis: «Idumaea regio incipit a Cassio monte vel secundum alios a Sirbonis lacu et ver-
+ms ortum ducitur usque ad Judaeam. Haec autem in sacris literis Edem dicitur et refe-
+rento Nigro olim Bosra, deinde Nabathea dicta fuit.» μ- Sic Josephus (Antiq. X11,): Hi
+(mii Ismaeli) terram omnem ab Euphrate ad mare rubrum pertingentem habitabant, regio-
+nem Nabatenam (Ναβατηνην) appellantes. Unde Keplerus pro voce Arabia Felix Naba-⁴
+, thecam acceperit, nescimus.
+
+21) p. 219. In triangulo sphaerico rectangulo dantur altera cathetorutn = 70⁰ et
+angulus acutus illi adjacens = 60⁰, quaeritur altera cathetus, Tg. x = sin. ’70ο . tg. 60⁰.
+Calculum absolvit Kepierus curtata multiplicatione (in sequenti exemplo divisione cur-
+tata), quali hodie utimur in multiplicatione fractionum decimanum, quod etiam in sequen-
+tibus calculis notetur.
+
+’ 22) p. 220. Mariam. quem hic Joannem dicit Keplerus‚ in Optica (vol. 11. p. 220)
+Antonium nominavit. In annotatione ad hunc locum (11. p. 415), testem Weidlerum ali-
+osque secuti, verum praenomen Dominicum pronunciavimus. Annotationem illam ¹sup-
+plentes haec ex Rhetici ‹Narratione› addimus, quae vero maxima ex parte Copernicum atti-
+nent: «Cum D. Doctor mens (Copernicus) Bononiae non tam ‹liscipulus-. quam adjutor et
+tentis observationum doctissimi viri Dominici Mariae, Romae autem c. a. D. 1500,· natus “
+anuos plus minus 27, professor anathematum in magna scholasticorum frequentia et corona
+magnorum virorum et artificum in hoc doctrinae genere, deinde hic Varmiae su'is vacans
+studiis summa cura observationes annotasset, ex observationibus stellarum fixarum elegit
+enm, quam a. 1525 de Spica Virginis habuit.» Moutucla (Hist. des Math.) nominat illum:
+Domitiique Maria Novata de Bologue.
+
+23) p. 222. Utitur hic Keplcrus „regula prosthaphaeretica“‚ quam vol. 11. p. 444 ex-
+plicavimus. Forma hodie usitata adhibita sic absolvitur calculus: ln triangulo VSP ex datis
+latoribus VP, VS et angulo SVP computatur ΒΡ formula: ·
+

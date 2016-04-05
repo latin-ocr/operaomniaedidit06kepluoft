@@ -1,0 +1,72 @@
+150 ⁴ Epitomes Astronomiae
+
+tunc -eorum inclinationes capimus n'on super ae‘rem, quippe cujus superficiesx
+nec videtur et longe supra nos est, seu super -Terram, in qua stamus; igitur
+indaganda est *postea 'refracti inclinatio super cavam aeris superficiem.
+
+· Doce modum computandi altitudinem aeris ea· data ejusdem ‚radii in-
+clinatione tam super Terram, quam super· cavam ae‘ris superficiem, et vi-
+cissim ex altitudine inclinationem. Formatur triangulum ex semidiametro
+Terrae nota, semidiametro sphaerac⁰ aeris, et radio· iu quo triangulo noti sunt
+anguli ad extrema radii, seu inclinationes radii. Quare sicut se habet sinus
+inclinationis super ae'ris cavam superficiem ad semidiametrum Terrae, sic se
+habet sinus inclinationis super, Terram ad semidiametrum sphaerae, compo-
+sitae ex Terra et aere, igitur excessus super semidiametrum Terrae est altitudo
+. aeris quaesita
+
+Exemplum. Sit inclinatio super Terram angulus DAO 90⁰
+- , , , sinus 100000
+AO semidiam. milliaria* 860
+
+ 
+
+ 
+
+- Sit ADO inclinatio ejusdem super cavam superficiem aeris 88⁰ 1¹, sinus ἕὲἕὲἓζοο .8
+2
+604800
+599640 6
+
+ 
+
+51600. 0,5
+Prodit DM excessus aeris super superficiem Terrae, paulo maj0r dimidio milliari.
+
+Quodsi fuerit data altitudo ae'ris et quaesita inclinatio super ae‘ris cavum,
+vicissim sactus ex semidiametro Terrae et sinu inclinationis super Terram
+dividetur per semidiametrum sphaerae a'e‘riS, quotiens erit sinus inclinationis
+super cavum aeris ’
+
+Quomodo ecc refractione, quae fit in una certa radii inclinatione super
+ae'ris cavum, computari possunt inclinationum ceterarum retractiones, · et ,
+vicissim resi-actionum ceterarum inclinationes? Utendum est regula quinque
+¹seu proportionum3 multiplicata utraque inclinatione in suum secantem.
+
+Exemplum. Sit inclinatio radii in raro super densi superficiem 890 20‘, cujus,-
+
+s‘ecans est 8594561. Hujus inclinationis refractio sit 40‘. Nam nunquam major est ’
+retractio complemento inclinationis super densum, semper fere minor. Quaeritur ,iam .
+
+refractio ad inclinationem aliam 600 radii AI, cujus secans est 200000. .
+Ergo ipsius ΑΕ inclinatio 89⁰ 20‘ dat 40s quid 60⁰ inclinatio ipsius Al?
+
+Sonans 8594561 200000
+1 773510490 Factus 12000000
+5729708. normano W
+, Factus 767780782 480110οῶ0-
+
+ 
+
+. 767780782
+Quotiens ostendit 48 particulas 77⁸⁸ unius minuti, quae sunt 37 secunda, paulo ⁴
+plus. Tanta scilicet refractio sequitur in inclinationem 600 in Ι. ¹⁰)
+Quodsi ex secunda refractione quaeritur-inclinatio secunda, multiplicabi- ⁷,
+tur secunda refractio in sactum ex prima inclinatione ejusque secante, factus ²
+dividetur in primam refractionem, prodibit factus ex quaesita inclinatione ¹3·
+ejusque secante. . ·
+Doce jam computare inclinationem refractorum super cavam superficiem -
+ae‘ris incoqnitae altitudinis. Ad hoc opus] est ad minimum tribus refractio-¹¹
+nibus, quae observantur in tribus inclinationibus radii super' Terram. Verbi .
+causa, Tycho Brahe refractiones fixarum in altitudine 20⁰, hoc est inclinatione
+super Terram 70⁰, negat amplius esse sensibileS, itaque huJus inclinationis
+

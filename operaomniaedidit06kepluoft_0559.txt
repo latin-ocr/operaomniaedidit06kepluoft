@@ -1,0 +1,103 @@
+Excerpta ex Tabulis Rudolphinis. ¹ 545
+
+’ = 80⁰ 20¹, quare angulus SVP = 9⁰ 40¹, alt. po'li complementum (VP) = 38⁰ 48¹ et
+’ declinatio stellae (SE) = 70 27¹, 111110 Ps = 900 -—- 70 27’ = 82⁰ 33¹. Quare
+
+sin. 9⁰ 40¹. sin. 38⁰ 48¹
+
+sin. anguli VSP ·- Sim 82⁰ 33¹
+
+ 
+
+= sin. 6⁰ 6¹.
+
+Hanc formulam in Keplerianam commutamus observantes, sin. a. sin. b aequare ,1ζῖ
+[005. (a— 11)- cos. (a4b)]; quare 1βὲ [005. (80 20- 51.12) — cos. (80. 20 ÷51. 12]
+:sin. 820 33’, vel ¹¹2 (cos. 290 8¹ - 005. 48⁰ 28¹): sin. 82⁰ 33¹ = sin. VSP.
+
+0 ,10522
+
+Sin. VSP = ·-= 10816.
+
+ 
+
+0, 99156
+
+28) p. 225. Stella (S) oriente, arcus VS erit ..τ- 90ος jam datis in Δ VSP 7
+
+vr = 42⁰, si> = 40⁰, prodit sin svp —5 ΞΕ {323 {2} 2}ss {¹2³2 Ξ ξ ξξξὲῗέξ
+
+Α svp = 73⁰ 52 ...... W
+
+, 29) p. 229. Compara cum his, quae de mutatione obliquitatis eclipticae Keplerus
+
+ 
+
+egit cum Remo et Criigero (1.5. p 36, 55s..) Verba: «itemque alia ratione 23⁰
+ss 30¹l2¹1> explicantur in «Praeceptis» Tabularum Rudolphinarum, p, 27, ubi Keplerus di-
+
+cit: Quod attinet mensuram obliquitatis, norunt astronomi, eam a Reinholdo 111 tabu-
+lis directionum usurpari 23⁰ 28¹¹ ex Copernic0‚ Tychoncm vero, detecto vitio a refrac-
+
+·* tionibus oblato, eam correxisse, ut aetate sua fuerit 23⁰ 31¹ 30¹ ·. Neminem fore puto,
+me tacente, ’ qui mihi exprobrare voluerit, quod hanc Tyehonicam declinationem in p
+
+, opere Tab'ularum Rudolphi inter fundamenta receperim, cum constet, Tychonem ipsum
+, . hujus tabularum nominis auctorem esse. Veruntamen admonendos duxi studiosos ar-
+’ - tie, vitandae perplexitatis causa, Tychonem in constituenda obliquitate maxima eclip-
+
+- ticae rationem habuisseparallaxeos Solis, eam vero parallaxin a veteribus mutuatum,
+
+ut quantitas ejus in horizonte esset 3¹. Atqui et dudum in Comment. de motibus
+
+’ Martis et nunc 111 1115 Tab. Rud. parallaxis Solis a me fuit attenuata ad partem ,
+⁴ tertiam, ut non sit mihi maj0r 1 scrupulo. Tantula vero parallaxi Solis si Tycho
+
+usus esset, obliquitatem echpficae, manentibus ceteris principiis, constituisset 1¹ mino-
+rem, sc. 23⁰ 30¹ 30¹¹ , quanta fere est in Tab. Direct. Regiomontani.
+
+30) p. 230. In Δ ABG ad O· rectangulo dantur AB=47⁰, L BAC— — 23⁰ 31¹ 30¹¹
+Hinc: sin. BG =-sin. 47⁰. sin. 23⁰ 31⁴ 30“; log. 5111.470 = 9,8641275
+BG ,Ξ 150 58¹ 22¹¹ ⁴ log. Sin ‚23⁰ 31¹ 30¹¹ = 9,6011352
+
+9, 4652627
+
+Ut multiplicatione supersedeat Keplerus in hoc quoquo simplici exemplo utitur cal-
+culo prosthaphaereticO, qui transformat superiorem formam in hanc:
+
+ 
+
+ἵ “ nin: BC = ¹]2 [cos. (AB - BAO) — cos. (AB -}- BAC)]. Idem ad sequens exemplum
+
+· notandum.
+
+31) p. 233. Tabulae Regiomontani prodierunt Norimbergae 1475 inscriptae: Tabula
+magna primi mobilis, cum usu multiplici rationibusque certis. Reinholdi tabulae primi,
+nobilis separatae nullae prodierunt: quas dicit Keplerus, insunt Tabulis Prutenicis. Ma·-
+ssini «Tabulae primi mobilis, quas directionum vulgo dicunt» typis excusae sunt Venetiis
+1⁶04. Eaedem tabulae insunt libro, quem inscripsit Primum mobile etc. Bononiae 1609.
+
+32) p. 236. In Δ ABG (Fig. 38) dantur AB = 300, ζ- BAO = 23⁰ 31¹ 30¹,
+
+‘L AOB τε 90⁰, quare
+
+cot. ABG— - cos 30⁰. tg. 23⁰ 31¹ 30¹¹ 3 log. cos. 30⁰ = 9,9375306
+log. tg. 23⁰ 31¹ 30¹¹ =-9,6388199-
+Α ΑΒο = 69⁰ 201 35” ............. e,5763505
+
+ 
+
+33) p. 237. F ig. 40. sit CH arcus horizontis, QH aequat0r1s‚„OQ circuli decli-
+·mtion183 angulus GQH erit rectus, et dantur ΡΙ (alt. poli), angulus QHO = (compl. alt.
+voli) = 41⁰ 30¹, declinatio* OQ = 20⁰ 13¹ 22¹¹, quaeritur QH.
+
+sin. QH = tg. 20⁰ 13⁴ 22¹¹ . cot. 41⁰ 30¹ = tg. 20⁰ 13¹ 22¹¹. tg. 48⁰ 30¹
+
+log. tg. 2Οο 13’ 22¹¹ = 9‚5662958 ⁶
+log. tg. 48⁰ 30¹ = 10,0531916
+9,6194874 = log. sin. 24⁰ 36¹ 22¹¹
+
+xeplerr Opera. V1. 35
+
+ 
+

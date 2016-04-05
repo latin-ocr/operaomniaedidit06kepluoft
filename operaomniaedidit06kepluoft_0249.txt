@@ -1,0 +1,64 @@
+Liber Tertius, Pars Secunda. 235
+
+et rursus singularum utrinque aequalium partium ascensiones sunt aequales,
+quare et junctarum, id est totorum semicirculorum.
+3. Compara inteqros eclipticae quadrantes cum suis ascensionibus. Cum
+eclipticae quadrante integro a puncto cardinali coascendit quadrans aequatoris.
+Horizon enim FE, traductus per puncta solstitialia D, E, transit etiam per F,
+
+polum eclipticae: secat igitur eam angulo recto non minus quam aequatorem. Cum
+ergo sint aequales ADE, AED, erunt et AD, ΑΕ aequales. ¹
+
+, Si quadrans eclipticae non incipit a 'puncto cardinali, non est aequalis
+suae-ascensioni, sed vel major ‘vel minor.
+
+Horizon GC, non traductus per punctum solstitiale D, aberrat etiam a polo F
+, eclipticae AD, secat igitur eam oblique in B, aequatorem in C recte, idem facit et
+³ meridianus. Partes igitur aequatoris inter horizontem et meridianum sunt quadrantes3
+ἕ at partes eclipticae, quarum polus simul intercipitur, sunt quadrante minoreS, reliquae
+Ι majores.
+
+4. Compara minorum partium diversarum ascensiones inter se. Partes
+Ι quadrantum non sunt aequales suis ascensionibus ascenduntque oblique, quae
+¹ incipiunt a punctis aequinoctialibus, habent sc. ascensiones se miuores, recte
+vero ascendunt, quae incipiunt a solstitialibus habentque ascensiones se ma-
+joreS. Cum duorum eclipticae arcuum unus, ab aequinoctiali puncto inceptuS,
+aequalis est alterius ascensioni in solstitiale terminatae vel vicissim: differentia
+inter arcus eorumque ascensiones itidem est aequalis Partes discretae, quo
+sunt propiores aequinoctialibus, hoc ascendunt obliquiuS, quo solstitialibus, hoc
+rectius.
+Angulus enim inter eclipticam et horizontem rectus est apud solstitia, obliquissimus
+
+’ (acutus sc.) apud aequinoctia, cum angulus aequatoris et horizontis sit semper rectus
+ἶ et major i1103 major igitur huic subtenditur arcus eclipticae, quam illi arcus aequatoris.
+
+Quo puncto discernuntur quadrantis unius a solstitiali puncto incepti
+J et aequinoctiali puncto terminati partes recte ascendentes a partibus oblique
+ascendentibus? Puncto illo eclipticae, in qno differentia inter arcum veclipticae
+et suam ascensionem rectam est maxima seu quod quadrantem dividit in
+¹ partes duas, quamlibet aequalem ascensioni partis reliquae, sic ut arcus eclip-
+ticae cum ascensione sua compositus efficiat quadrantem: id autem fit neces-
+* sario circa medietates quadrantum.
+
+Quomodo punctum hoc inquiritur yeometrice? Id sic definit Regiomon-
+' tanus ex Gebri Arabe, quod ejus a polo aequatoris distantiae sinus sit medio
+¹ loco proportionalis inter sinus arcuum, quibus extremitates quadrantis ab eodem
+polo distant.
+
+Principium quadrantis distat a polo 90⁰, ejus sinus est 10000ος finis quadrantis
+distat 66⁰ 28‘ 30⁰, sinus 9168& hi in se multiplicati habent radicem 95754, cujus arcus
+73⁰ 14⁴ 36¹¹, tantum igitur distat a polo punctum quaerendum, ergo distat ab aequa-
+tore 16⁰ 45¹ 24¹¹. Punctum autem, quod sic distat, ex doctrina superiori invenitur
+recedere a sectione eclipticae 46⁰ 141 40¹¹. Tantus igitur arcus ascendit oblique a
+sectione inceptus, residuus arcus 430 45’ 20” ascendit recte. Quadruplicatis vero om-
+nibus, oblique ascendunt partes 184⁰ 58¹ 40‘1, recte 175⁰ 1⁴ 20‘¹. At quidam signis
+t mniessss‘ffittzttsst ‘22333²5:222:inflixistissitsi? ‘fn’ 3333? '‘0231312‘5
+ζ Quoto, Leone et Scorpione, Sagittario, CapricornO, Aquario, dissimulant vero, extrema
+ᾖ signorum Tauri, Leonis, Scorpii, Aquarii, oblique ascendere.
+
+     
+ 
+
+ἰ Restat in trianqulo nostro anyulus inter eclipticam et horizontem, meri-
+f dianam, vel circulum declinationis, eui ascensio recta subtenditur.- ele illo
+

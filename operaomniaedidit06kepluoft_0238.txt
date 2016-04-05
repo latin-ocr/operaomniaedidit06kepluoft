@@ -1,0 +1,92 @@
+224 , Epitomes Astronomiae
+
+Num etiam anyulus ‘ad stellam seu inter verticalem et circulum decli-
+nationis computari solet? Omnino, usus ejus in retractionibuS, parallaxibus,
+eclipsibus solaribus et alibi passim occurrit. ’ (In schemate VSP.)
+
+Describe varietates ejus yeneraliter. Oriente stella minimus est hic an-
+gulus nec unquamaequat altitudinem ¹aequ.·=1t01·iS, nisi tantum, si oriens stella
+in aequatore fuerit. Ex eo crescit hic angulus fitque rectus cis et ultra me-
+ridianum3 in stella igitur, cujus declinatio est major altitudine poli cognomi-
+nis, augetur usque dum in meridiano fiat aequalis duobus rectis. At si minor
+declinatio vel etiam contraria fuerit, minuitur iterum, usque dum in meri-
+diano penitus evanescat
+
+Doce hunc anyulum ad stellam computare. Opus est nobis· 111 eodem trian-
+gulo primario altitudinis poli complementO, PV, sc. arcu meridiani inter ver-
+ticem et‘ polum, declinationis stellae complemento vel excessu, seu latere inter
+stellam et polum, PS, et altitudinis stellae complemento, seu latere inter ver-
+ticem‘et stellam, VS, vel ejus loco azimutho stellae, HG, GR, seu angulo ad
+verticem SVP, aut etiam angulo ad polum VPS, ut ita varii casus fiant.
+
+frocessus per tria latera. Ex complemento altitudinis stellae et distantia stellae
+a po 0.
+
+Quod majus 82⁰ 30¹, compl. 70 30’.
+minus 66. 15. Idem 66. 15.
+
+Summa major quadrante 1480'15‘. Summa 73⁰*15‘3 sinus 96005.
+
+ 
+
+ 
+
+ 
+
+Ejus ergo excessus 58. 45 ...... sinum 85491 adde.
+(Si summa minor esset, complem. aggregatum 181496.
+sinum subtraheres.) Dimidium 90748.
+
+Sit alt. poli 510 32’, sinus 78297
+Sinus primus 69005 (Addo, si declinatio austra·
+147302 1is; subtraheres, si sept.)
+
+ 
+
+Superius dimidium 90748 dividat. Quotiens 192072 est ‘
+
+sin. vers, arcus 1570 2’. Hic, quia declinatio australis, complementum liujus ad semicircu-
+lum 220 58’ est quaesitus angulus3 in septentrionali ipse arcus quotientis ut sinus versi
+esset angulus quaesitus. ²⁶)
+
+Processus per azimuth loco altitudinis cum duobus reliquis lateribus.
+Inter verticem et punctum ortus vel occasus aequinoctialis
+80⁰ 20¹3 hujus complem. 9⁰ 40¹.
+Altitudo poli 51. 12. 51. 12.
+
+ 
+
+ 
+
+Summa 131. 32. *soss‘523 sinus s⁷s49
+Excessus 41. 32 ........... ..ἡ 66306
+
+(si minor quadrante esset, complementi Residuum 21043
+sinum addidisses.) Dimidium 10522
+
+Distantiae stellae a polo vicino 820 33⁴ sinus 99156.10522:99156= 10616 est ·
+
+sinus anguli 60 6¹ quaesiti. ²⁷)
+
+Notatur, in hoc processu idem esse, ac si sumsissefs angulum azimuthi intra vel extra
+
+triangulum, uter minor quadrante: 9. 40 .
+et distantiam poli a vertice 38. 48 Complem.
+
+Summa 48. 28ῑ 41. 32,
+differentia 29. 8 60. 52.
+
+Et cum sinibus horum complementorum egisses ut supra, quia vides, eosdem meus
+prodire. Ubi si summa excederet quadrantem, excessus sinum adderes. '
+
+ 
+
+Quid coynatum est declinationibus stellarum? Latitudines locorum 111 ’
+
+ξθὲτα, de quibus paulo antea, quia subordinatis et correspondentibus circulis
+e niuntur.
+
+Quomodo solent astronomi loqui de locis horizontis, in quibus stella .
+
+quaelibet videtur oriri vel occidere? Utuntur voce amplitudinis ortivae.
+

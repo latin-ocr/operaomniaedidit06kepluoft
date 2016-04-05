@@ -1,0 +1,59 @@
+688 Tabularum Rudolphinarum
+
+a proposita tibi3 excessum multiplica in intercolumnii graduS, quod prodit,
+adde ad coaequatam illam exscriptam: ita conficitur anomalia coaequata, cui
+apponatur titulus add. vel subt. Si vero proponatur anomalia media serni-
+circulo maj0r, quod in' Luna spectandum est, quaudo locus ejus verificatur
+extra copulas: subtrahatur ea a circulo integro, cum residuo excerpatur co-
+aequata ut prius et haec vicissim subtracta a 360⁰, relinquet coaequatam
+semicirculo majorem, de qua quaerebatur3 etsi in praecepto generali, com-
+putandi motus planetarum sex, non erit opus coaequata semicirculo maj0re.
+
+In hoc praecepto etsi videtur onerari calculator subtractione anomaliae
+mediae ex tabula ab anomalia media proposita, ut qua subtractione non est
+opus in tabulis usitatis3 at vicissim levatur additione aequationis‚ quam im-
+perant usitatae3 nec ex novationis studio mutata est forma tabularum, sed
+quia forma hypotheseos physica id postulavit.
+
+Admonitio de Luna. In tabula anomaliae aequationumque Lunae
+pars aequationis physica seu inferior et scrupulosus cellarum sinistrarum nume-
+rus cum hac sua quantitate locum habet tantum in interluniis et pleniluniiS‚
+in ceteris phasibus successive per menses anni augetur, quoadusque in mense
+pleno quantitatem acquirat exacte duplam ejuS, quae in tabula reperitur.
+Quare usus intercolumnii ratioque coaequatam excerpendi extra copulas aut
+cessat aut nou sufficit. Itaque *sola Luna ad sinistram aequationis partis
+physicae, soris extra cellas appositae, habet differentias seu incrementa hujus
+aequationis partis physicae in descensu per quadrantem primum superiorem,
+decrementa per inferiorem.
+
+Praec. 83. Invenire anomaliam eccentri alicujus planetae
+per anomaliam mediam. Si anomalia media tibi proposita praecise repe-
+ritur in summa duorum numerorum unius cellae, tunc eorum superior est etiam
+praecise anomalia eccentri, quaesita per mediam propositam. Si ‘vero tua
+anomalia media non praecise reperiatur in cellarum una, ωηο a proposita tibi
+media subtrahe proxime minorem quam exhibet cella, quae restabunt scrupula
+prima, ea adjice inventis in illa cella gradibus integris anomaliae eccentri3
+ad secunda descendere aut etiam de uno scrupulo satagare non est hoc
+loco pretium operae.
+
+Praec. 84. At si de anomalia media non constet initio, sed statim
+
+ipsa anomalia coaequata fuerit data, rursum per hanc invenitur anomalia
+eccentri ex tabula aequationum, pene ut prius· Datam enim coaequatam
+quaere in columella secunda3 si ea praecise invenitur, tunc ex respondenti
+cella columellae sinistrae superior numerus erit ipsa anomalia eccentri, si vero
+non praecise invenitur coaequata in aliqua linearum columellae secundae, tunc
+id quod ea proxime minus invenitur in tabula auferendum est a coaequata
+tibi data3 quae restiterint scr. prima, sunt apponenda ad gradus integrOS,
+scriptos superius in cella sinistra respondente, ut conficiatur justa p. p. ec-
+* centri anomalia.
+ἴ Haec tunc valent, si anomaliae ad propositum tempus constitutae semi· ι
+circulo fuerint minoreS. At si majores fuerint earumque complementa ad
+integrum circulum fuerint data, cum his agendum quIdem est ut priua, quod
+vero tunc excerpitur, id 'complementum itidem est anomaliae eccentri rursum-.
+que est a 360 auferendum, ut habeatur ipsa anomalia eccentri. Hujus enim
+usus erit singularis in Luna extra copulas.
+
+Haec anomalia eccentri in 6 quidem planetis post tabulas aequationum
+jam confectas ad calculum loci veri non amplius requiritur, in septimo vero,
+

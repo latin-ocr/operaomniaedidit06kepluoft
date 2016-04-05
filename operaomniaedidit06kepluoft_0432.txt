@@ -1,0 +1,70 @@
+418 ⁷ Epitomes Astronomiae
+
+arcusl 01ὶέἓίΪὲ subtendit. Ut sine arcu PK noto, ignorata AC, nequit inveniri
+angu us .
+
+I. De nominatione.
+
+Quomodo circulus denominat et discernit arcus ellipseos, et quibus me-
+diis et quare? Cum elliptica circumferentia se ipsa geometrice nequeat in
+partes aequales dividi, partesve constitutae a numero denominari: circulus
+igitur ellipsis loco dividitur in partes aequaleS, ab apsidibus initio facto, et
+a divisionum punctis ducuntur perpendiculares in lineam apsidum, secantes
+ellipsin. Arcus 'igitur circuli aphelium inter et unamquamque perpendicula· ,
+rem nomen dat arcui elliptico, inter eosdem terminos intercepto, accommodans
+illi suum numerum graduum et minutorum.
+
+Sit PK 50ο 0¹, KL perpendicularis in PR, secans ellipsin in C: ergo et arcus .
+· ellipseos PC dicitur esse 50ο 0¹. ,
+
+Atqui falsum est nomen, cum non sit tantus arcus ellipseos, neque re- ,
+
+spectu circuli, neque respectu suae totius orbitae ellipticae. Nihil hoc turbat, s
+nihil est enim, in praesentia quidem, nisi nomen, et nomen quidem non men-
+surae apparentiS, sed determinationis et resectionis geometricae3 nec opus est
+sciri genuinam longitudinem ipsius arcus elliptici, veluti admensam ad decem·
+pedam, dummodo postea sciamus, hic ipse arcus ellipseos, sic determinatus,
+quantum angulum saciat apud centrum Solis et quamdiu planeta commoretur
+
+in eo. Quid? quod prima hujus libri V. parte demonstr0, arcum hune ellip-.
+
+seos, si non longitudine, at saltem potestate tantum esse. A,
+
+Quomodo perpendiculares istae sectrices ellipseos appellantur? In circulo -
+dicuntur sinus arcuum circuli, inceptorum ab aphelio; in ellipsi generis voce ⁴
+dicuntur ordinatim applicatae, puta ad axem. Ut hic KL est sinus arcus KP, -’
+
+GL est ordinatim applicata.
+In specie vero illa, quae per centrum figurae ducitur, ut 1⁴:131, diameter ⁴
+
+brevior -seu figurae latus rectum dicitur. Possumus uti graeca voce diacen- .
+
+tros. Quae denique per centrum Solis trajicitur, ut MAN, nomine caret, licet .
+sit inter praecipuas. Dicatur novo vocabulo dihelios.
+Α Quodnam est officium illarum perpendicularium, diacentri et emelii? ·
+Dividunt orbitam in parteS, superiorem et inferiorem, illa quidem 111 aequales,-
+sed temporis et apparentiae inaequalis, haec in partes quidem inaequales et
+tempore et longitudine, sed quae tamen, velut ex Sole, apparent aequales. .
+
+Ut ΕΡῙ, quae constituitur ab EBI, est quidem 180 graduum, sed apparet angulo ·
+
+EAI minore quam 180⁰. At MPN, segmentum majus, absectum linea MAN, et ΜΒΝ, ’-
+
+segmentum minus, utrumque apparet aequale quantitate 180 graduum.
+II. De libratione.
+
+Doce metiri et computare librationes et determinare intervalla. Sit PK ,ss
+
+.. arcus eccentrici minor quadrante, verbi causa 46⁰ 18¹ 51¹¹ , ejus ergo complementum
+’ KD erit 43⁰ 41¹ 9¹¹ ejusque sinus BL 69070, et sit eccentricitas AB seu dimidia f,
+
+libratio PH 9265, qualium BP est 100000. Multiplicatis igitur 69070 in 9265 et
+absectis 5 ultimiS‚ prodit libratio OH 6399, addenda ad BP vel ΑΗ in superiori semi·
+circulo ΕΡῙ, eritque AO, vel ei aequalis AC, distantia scilicet planetae a Sole 106399,
+competens arcui PK vel PC, qualium quidem semidiameter est 100000. .
+Si arcus eccentrici fuerit 313⁰ 41¹ 9¹¹, excessus super tres quadrantes seu 270⁰ “
+
+erit etiam 43⁰ 41¹ 9⁴¹, dans sinum eundem multiplicandum; quo cum exstruitur libratio τ
+6399, itidem addenda, quippe in superiori semicirculo, sed ascendenti. ἶ
+Quodsi semidiameter BP acceperit aliam dimensionem, verbi causa 152342, mul- ’
+

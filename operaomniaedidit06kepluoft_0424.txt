@@ -1,0 +1,73 @@
+‚410 . Epitomes Astronomiae'
+
+cam est ut DB ad medium arithmeticum inter DB, ΒΕ, quod est paulo lon·
+gius quam medium proportionale.
+
+Quia etiam plani elliptiei usus erit, quaero, in qua proportione sit
+planum ellipsis ad planum circuli ,> adeoque planum seymenti cuiusque cle
+semicirculo ad planum seymenti de semiellipsi , 'ab eadem ordinatim appli-
+cata faeti :2 Demonstrat Apollonius in Conicis, ubique obtinere proportionem
+diametri longioris ad breviorem. Ut si sint ordinatim applicatae DB, GF:
+ut est DB ad BE, sic est area semicirculi PDR ad aream semiellipseos PER,
+et sicut GF ad ΕΗ, hoc est DB ad BE, sic esse et segmentum semicirculi
+
+GPF ad segmentum semiellipsis HPF, sic etiam maJus semicirculi segmentum ,
+
+GRF ad maJus semiellipsis segmentum HRF.
+
+Secetur J'am- semicirculus per rectam GA, semiellipsis vero per rectam HA:
+erunt triangula HAF, GAF ejusdem altitudinis FA‚ quare ιιι basis GF ad ΕΗ basin,
+sic area GAF ad aream FAH. Atqui ut GF ad F'H‚ sic etiam area GPF ad aream
+
+FPH‚ quare ut GF ad FH vel ut DB ad BE, sic etiam composita area PGA ad com· “
+
+positam PHA.
+
+Velim denique seire etiam proportionem linearum ex centro fiqurae in
+circumferentiam ellipticam ad semidiametrum circuli. Brevissima quidem,
+ιιι ΒΕ, minor est semidiametro BD latitudine tota lunulae DE At reliquae
+
+omnes, ut BH, minus a BG semidiametro absunt, quam est quovis loeo lati-
+tudo lunulae, ut GH.
+
+Trianguli enim GHB duo latera GH, BH juncta oportet superare tertium GB.
+Major est igitur proportio defectus in Ε ad deiectum in H, quam DE ad (3113 haee
+vero est sinuum DB ad GF. Major igitur est proportio deiectus in Ε ad deiectum in
+H, quam sinuum DB ad GF.
+
+Vicissim quadratorum GF et HF proportio est dupla ipsarum GF ad ΗΕ. Ad-
+
+ditis vero BF quadratis ad quadrata GF et HF, summae quadratorum constituunt pro· ,
+
+portionem minorem: quare et eorum latera GB, BH minorem constituent proportio-
+nem, quam GF, FH. Quo maj0r igitur BF, hoc magis minuitur proportio GB ad BH,
+ut non aequet GF ad ΕΗ. Ει vicissim, quo magis crescit PF, hoc magis etiam crescit
+proportio GB, BH, appropinquans proportioni GF, FH. Sed PF crescit a P tarde,
+prope DB velociter. Ergo si GH ubique maneret ejusdem quantitatis, tarde variaret
+defectum ΗΒ circa P, velociter circa D. At non manet GH, sed crescit circa P velo
+citer, circa E tarde, scilicet cum ipsis sinibus GF, DB. Rursum igitur desectus ΗΒ
+crescit circa P velociter, eirca E tarde. Minor igitur est proportio defectus ΕΒ ad
+defectum ΗΒ, quam sagittae PB ad PF sagittam. Atqui etiam arcus DP ad PG pro--
+portio major quidem est, quam sinus DB ad sinum GF, minor ver0, quam sagittae BP
+ad sagittam FP Ergo proportio defectus linearum BH appropinquat proportioni gra.- ,
+
+duum PG. Vergit tamen versus D quidem ad proportionem sinuum DB ad GF, at ’
+
+versus P ad proportionem sagittarum BP ad FP. (Gfr p. 77.)
+
+IV. De mensura temporis, seu morae planetae in quolibet
+arcu orbitae.
+
+Qua ratione planum elliptiei seymenti fit aptum ad mensurandam
+planetae moram in illius seymenti areu? Non aliter, quam si divisione cir-³
+culi in partes aequales constituantur arcus ellipseos inaequales, et parvi circa
+apsidas, majusculi circa longitudines medias, in hunc modum
+
+Centro B intervallo BP scribatur circulus PDRT, cujus diameter PBR, et in eo.
+
+ιιι in linea apsidum, A Sol, fons motus versus R, AB eccentricitaS, eique aequalis BV
+
+versus P, ut P, R sint apsides.
+
+Jam punctis A, V focis existentibuS, scribatur ellipsis tangens circulum inP, R, ζ
+

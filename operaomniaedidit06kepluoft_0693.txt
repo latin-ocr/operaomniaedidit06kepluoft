@@ -1,0 +1,34 @@
+' Praecepta. , 679 >
+
+excerptum velut eclipticae arcum, conversum prius iteium in tempora, constituit
+asc. obliquam, iste vero occiduuS, ablatuS, constituit dese. obliquam
+
+Praec. 44. Alia via: Quaere ipsius puncti eclipticae orientis declina-r
+tionem ex tabula eique junge angulum orientis; compositi logarithmo adde
+log. declinationis, asumma rejice log. alt. aequatoris, restabit log. diff. ascen-
+sionaliS, quae de puncti septentrionalis asc. recta auferenda est, ad meridio-
+nalem addenda, ut constituatur asc. obl. quaesita.
+
+Pr aec. 45. Sed et ipsum punctum eclipticae oriens per angulum ejus
+cum horizonte datum vel sumtum et per asc. obliquam datam inquiri potest.
+
+Pro asc. obliqua data sume asc, rectam« medii coeli et quaere punctum
+eclipticae, quod cum ea coelum mediat, ejusque declinationem3 quae si sept.
+addatur ad alt. aequatoris7 sin meridiana, auferatur. ·A residui vel compositi
+logarithmo aufer log. anguli orientis: restabit log. arcus eclipticae, ortivi, si
+punctum coelum medians erat in descendenti semicirculo, occidui, si in ascen-
+dente. Ille igitur additus ad punctum coelum medians pertingit ad punctum
+oriem, iste ablatus ad occidens. Si ablatio fieri non potest, non respondet
+datus aug. orientis datae asc. obliquae. (Praecepta 46-48. v s fol 546 s)
+
+Speeimen Tabulae anguli orientis vel altitudinis Nonagesimi.
+
+Zona 'ron-ida. Π. Clima. Zona temperata.
+Poli 1 1⁰ Ι 2⁰ . . 23088. 1'240 . . 290 Ι Altitudo.
+
+30.
+
+Poli botei - Altitud0.
+
+ 
+

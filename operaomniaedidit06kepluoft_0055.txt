@@ -1,0 +1,61 @@
+De Epitorne Astronomiae. 41
+
+eccentricitatum. Habes igitur, quod petisti, rationem erroris apertam. Si Se-
+verinus majori epicyclo dedisset 6525, minori 2175, tunc propius expressisset
+bisectionem‚ quam, a me in Sole adhibitam, ipse in Luna affectabat. Nam
+planeta, centro majoris epicycli proximuS, abfuisset 4350, remotissimus 8700:
+qua ratione conformatur Lunae eccentricitas causis physicis. Crede mihi, te
+facturum operae pretium, si rem ab ipsis fundamentis ex libro IV. fol. 527,
+580 repetas Illae quidem causae physicae, quando libro V. fol. 665 usque
+674 inducuntur in geometriam per demonstrationes legitimaS, habent aliquid
+difficultatis, quam ipse ante omnes sum expertUS‚ dum, ut demonstrationes
+perfectae sint, minimum decies refinxi omnia3 at qui non vult fatigari, ei
+sufficient lectae quaestiones et primae responsionum lineae et schema fol. 662
+ethaeo explicatio semel pro semper, quod planeta propter causas physicas
+invehatur quidem per P, H, E, R, sic ut positus in H angulum anomaliae
+coaequatae faciat PAH, nequaquam vero PAG, sed tamen et anomalia media
+numeretur in area PGA (quae sit vice ipsius PHA, propter faciliorem com-
+putationem) et distantia planetae a Sole AH sit aequalis ipsi GC. Hac unica
+instructione suffultus aliquis facile videt processum brevem, simplicem et pla-
+num. Dato enim arcu PG, v. c. 60⁰, facile videt, et aream PGB valere
+itidem 60⁰, et sinus GF, FB excerpit, cumque similia sint triangulassGBR
+ABG, unica igitur multiplicatione FB in BA, praesectis a facto 5 ultimis,
+constituit BC et GC, sive HA, distantiam planetae a Sole3 altera multipli-
+catione GF in valorem areae BDA constituit valorem areae BGA, qui est
+pars aequationiS, scilicet excessus hocloco anomaliae mediae supra arcum PG
+60⁰, ut sic in composita arca PGA habeatur tempus seu anomalia media,
+respondens arcui PH ejusque vicario PG. His accedit operatio tertia, divisio
+sc. ipsius FA per GC, i. e. HA, ut emergat sinus ipsius ΑΗΒ, cujus compl. est
+HAF, ipsa anomalia coaequata, respondens mediae prius inventae. Imaginatio est
+nova et insolens, operatio facillima. In solo hoc, quod est fol. 695, est aliqua
+incommoditas, sed ea non nocet computanti tabulas aequationum, nec computatas
+sequitur aliqua difficultas in usu, Et quid multis? Omnino necessarius est hic
+calculus, sive facilis sit, sive difficilis, praesertim in Marte, idque non potissi-
+mum ob differentiolam ΡΑΗ coaequatae verae et PAG Ptolemaicae, cum
+GAH sit paucissimorum minutorum, puta summum 6 vel 8, sed multo magis
+propter prosthaphaereses orbis annui, quae non ferunt distantias Ptolemaicas
+AG, AD, sed requirunt AH, ΑΕ, ex ellipsi. Crede mihi, non est in hac hy-
+pothesium insolentia studium ullum novationis, sed amor veritatis
+
+Criigerus: Ulterius te quaeso. Parallaxium Martialium disquisitione et earundem
+
+‚- exilitate deprehensa permotus, etiam Solis parallaxin vix 1‘ statuis et Solem immani a Terra
+
+ 
+
+intervallo abesse. Quae si consistunt, non consistit motus Solis medius Tychonicus, quem
+tamen retinuisti num. 1. praef. in Ephem. anni 1617. Motus ille solis medius quibus fun-
+detur principiis nosti, nimirum observatis a Tyehone aequinoctiis. Haec observata sunt per
+altitudines Solis meridianas, retractionibus et parallaxibus liberatas. Parallexis Solis in alti·
+tudine 34⁰ (quanta circiter cst aequatoris Uraniburgica) Tychonica est 2¹ 29⁴¹, tua. vix 49⁴⁴,
+differentia 1⁴ 40¹¹, qua certe, si tua stet hypothesis, vera Solis altitudo itemque declinatio
+borea minor aut australis major fuisset 'l'ychonica3 consequenter vera aequinoctiorum tem-
+pora differrent a Tychonicis hora 13 inde in eccentricitatis et apogaei pervestigatione neque
+aestatis neque hiemis spatium, neque quod aequinoctio et medietati δ’ interjacet etc„ recte
+a Tyehone constitutum esset. Ut consistet igitur motus Tychonicus medius?
+
+Keplerus: Trepidas etiam super motu Solis medio, id est super epocha
+ejus ad nostra tempora, si parallaxin Solis minuam.- sed frustra. Verum qui-
+dem est, differentia parallaxium Tychonis et meae, Sole in aequatore existente
+inque meridie, est 1‘ 40ss eoque mihi aestas fit paulo brevior, quia, quando
+

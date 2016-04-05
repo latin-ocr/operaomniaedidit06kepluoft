@@ -1,0 +1,74 @@
+Liber Tertius. Pars Secunda. 241
+
+diat cum illa. Eodem modo quadrans a puncto oriente retro extensus in
+ecliptica signat nonagesimum eclipticae N. Compaiatis igitur invicem eclip-
+ticae nonagesimo N et puncto M coelum mediante, innotescit arcus inter-
+ceptus NM. «
+
+Secundo in hoc triangulo investigatur latus in meridiano VM inter ver-
+ticem V et eclipticam M. Dato enim eclipticae puncto M, coelum mediante,
+datur ejus declinatio AM, quae, si septentrionalis fuerit, ablata, si meridio-
+nalis, addita ad altitudinem poli VA, constituit distantiam illius eclipticae
+puncti a vertice VM, angulus vero apud nonagesimum eclipticae VNM est
+rectus: tribus igitur datis, et quartum haberi poterit, latus sc. in verticuli
+seu distantia nonagesimi a vertice N V; complementum est altitudo nonagesimi
+super horizontem, mensura anguli quaesiti.
+
+Typus hujus processus,
+
+ 
+
+Oriatur ........... 7⁰ 5¹ Virg.
+iu altitudine poli ........ 48. 24.
+Ergo ascensio obliqua ...... 148. 31.
+Aufer 90
+Ascensio recta medii coeli ..... 58. 31.
+Cum eo coelum mediat ...... Ο. 41. Gemin.
+
+quus declinatio ........ 20. 22. sept.
+ablata. ab altitudine poli relinquit . . 28. 2.
+Hoc igitur est latus MV,·qu'us compl. . 61 58. altitudo M,
+
+ 
+
+ 
+
+Sic a ............ 7⁰ 5¹ Virg.
+aufer 90
+
+erit nonagesimus ab ortu ..... 7. 5. Gemin.
+
+Hinc aufer coelum medians . . . . Ο. 41. Gemin.
+
+erit latus MN ......... 6. 24. ejusque
+
+complementum ......... 83. 36.
+
+Hinc computatur latus VN sic: altitudo puncti coelum‘mediantis 61⁰ 58¹, sinus
+ν 88267ς complementi lateris MN 83⁰ 36‘ sinus 99377. Divide‚ quotiens 88820 est sinus
+
+v ⁶2⁰ 39¹. Tantus est angulus inter horizontem et eclipticam in 7⁰ 5⁴ Virginis, ejusque com-
+.p1ementum 27⁰ 21¹ distantia nonagesimi a vertice.
+
+Quae observanda varietas circa hunc anyulum? Angulus istc nunquam
+fit major altitudine puncti solstitialis aestivi, nunquam minor altitudine puncti
+ι solstitialis hiberni. Illam magnitudinem habet oriente puncto aequinoctiali'
+. autumnali (in hemisphaerio nostro), hanc oriente puncto vernali. Nonagesimus
+
+est in orientali quadrante, cum ascendunt signa septentrionalia, in occidentali,
+cum meridionalia.
+
+ 
+
+Etiamne verticalis cum ecliptica sectione constitutus anyulus solet in-
+l¹ quiri? Sane necessarius est ejus usus, in doctrina praecipue eclipsium Solis.
+,ἰ Quomodo inquiritur? Vel ex altitudine Solis, in ecliptica semper ver-
+³ santis, vel ex distantia puncti sectionis a nonagesimo, adjuncta utrinque
+l· distantia nonagesimi a vertice. Nam si punctum sectionis oriatur, ipsa haec
+l NV metitur angulum, ex eo, quo vicinior nonagesimo suerit sectio, hoc ma'jor
+l angulus. Itaque tangente NV 5 cyphi-is prolongatO, diviso per sinum NS,
+ι distantiae sectionis a nonagesimo, prodit tangens hujus anguli. Aut si alti-
+ζ tudo habeatur, per ejus sinum diviso sinu NV, prodit sinus anguli NSV.
+
+Rapum Opera. VI. 16
+

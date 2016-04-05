@@ -1,0 +1,82 @@
+Liber Tertius· Pars Quinta. 277
+
+si declinatio est meridiana, ut TS, tunc latus componitur ex quadrante PT et
+declinatione TS. Quaeritur igitur in eo angulus ad polum IPD vel 1PS, qui est
+differentia ascensionum rectarum CL vel CT, quae addita vel ablata ab ascen-
+sione prius nota, efficit ascensionem propositae stellae. Ex ascensione deinde
+recta et ex declinatione quaeritur longitudo propositae stellae.
+
+Processus inquirendi differentiam ascensionum rectarum ex declinationibus et distantia.
+
+Et primum, si utraque declinatio est ejusdem playae.
+Complementum declinationis minoris 600 Decl. minor 30⁰
+
+ 
+
+ 
+
+ 
+
+Gompl. decl. majoris 50 ..... 50
+Summa plus quadrante 110. Summa 80⁰
+Ergo excessus 200. Sinus 98481
+Adde sinum 200 . . . . 34202
+(Si summa esset minor quadrante, ¹ Summa 132683
+ejus compl. sinum subtraheres.) Dimidium 66342 est divisor.
+
+Sit distantia stellarum 410. Complementi 49⁰ sinum 75471 subtrahe a superiori 98481
+(51 distantia excederet quadrantem, excessus sinum 111 1100 casu adderes), Residuum 23010.
+23010 : 66342 = 34684. Quotiens est sinus versus, 1
+ergo sinus ...... 65316 dat complementum
+differentiae asc. rectarum 400 47⁴3 diff. asc.1 rectarum = 490 13¹.
+
+Sin altera declinationum septentrionalis, altera australis.
+Compl. decl. minoris 48⁰; declinatio minor 420
+
+ 
+
+ 
+
+ 
+
+,, majoris· 32⁰ ....... 32.
+Summa 800 ...... 740. 5111115 96126
+¹Ergo compl. 100 sinum subtrahe . . . . 17365
+(At excessus sinum adderes ut prius) Residuum 78761
+
+ι Dimidium 39381 est 11111501.
+1 .' Sit distantia stellarum 130⁰, excessus 50⁰, sinus 76604. Η10 subtrahatur a superiori
+,4 ”126,diff.1952·2. (Si dis tantia esset 111111111- quadrante, eJus compl. sinum hic adderes,
+&entra quam prius.) 19522 : 39381 = 495723 quotiens est sinus versus, sinus = 50428
+ω111111.300 17‘, hic ergo invenitur arcus 590 43¹ secundum analogiam casus 111-10115. Sed
+ιῃὶε 1110 diversae latitudines, sumendum est hujus arcus complementum ad semicirculum
+2 120⁰ 1⁷¹ pto differentia ascensionum rectarum.
+² = Vel sit distantia 110⁰, excessus 200, sinus 34202 subtrahatur a superiori 96126, dif-
+merentia 61924 : 39381 = 157243. (Hic in divisione prodeunt figurae 5011.) Quotiens ut
+-5111115 versus ostendit 1240 55’, 0,]’115 1100 1000 00111111. ad 5011110. 550 5‘ est differentia ascen-
+, stonum rectarum, 3⁰)
+
+Quid est coeli mediatio? Est arcus eclipticae inter principium Arietis et
+1610111010 declinationis per stellam ductum. ”
+
+Quomodo 7'am etc coynita stellae ascensione recta et declinatione inqui-
+vaur ejus lonyitudo et latitudo? Huic rei servit angulus inter eclipticam ‘et
+meridianum. Data enim ascensione recta stellae, quaeritur vel calculo vel
+ex tabula punctum eclipticas, habens eandem ascensionem rectam, ita ut simul
+cnm stella in horizontem rectum inque meridianum veniat et sic coelum mediet.
+Illius puncti eclipticae quaeritur declinatio rursum vel ex calculo vel ex tabula,
+1111100110] augum, quem ecliptica facit cum meridiano apud illud punctum, qui dici-
+11111· angulus latitudinis Deinde comparatur haec puncti declinatio cum declina—
+'tione stellae. Nam si diversae denominationis luerint, adduntur invicem, sin
+1050511001, minor a majori subtrahitur3 ita patescit arcus circuli declinationis
+
+inter stellam et eclipticam, qui basis latitudinis dici potest: subtenditur enim
+§iugulo recto inter eclipticam et circulum latitudinis stellae, Ex hac igitur
+iboni et angulo latitudinis computatur ipsa latitudo et arcus inter stellam et
+111111οα0111 eclipticae coascendens recte.
+
+’1 Latitudo quidem sic computatur. sinum basis latitudinis multiplica in
+’1511111111 anguli latitudinis abjectis 5 ultimis, prodit sinus latitudinis, Quodsi stella
+
+    
+

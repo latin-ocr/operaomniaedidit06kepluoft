@@ -1,0 +1,87 @@
+47 0 Epitomes Astronomiae
+
+physicae, nisi quod area producta convertitur in scrupula, qualium in mense
+
+pleno ipsa facit 60‘.
+
+Ut si centri B eecentricitas BZ menstrua sit 3529, hujus dimidium 1764¹s2 duc·
+tum in semidiametrum ΒΟ creat aream BZO 176450000.1n mense vero plene, cum
+B est in E et menstrua eecentricitas AE 4362, fit area isthaec 218100000. Si ergo
+218100000 valet scrupula 60‘, area praesens 176450000 valebit 48‘ 33⁴¹ scrupula men-
+strua pro hoc mense technico. Χ
+
+Notandum hic, si accuratissime insistamus figurae ipsius orbitae, conside-
+
+rantes, illam ad exemplum ceterorum planetarum esse ellipticam, tunc semidia- μ
+
+metros ΒΟ, BN paulo esse breviores semidiametris BD, BF, idque tanto magiS,
+quanto rectior est DBO, eirca longitudines medias. Nec desunt fundamenta
+computandi has abbreviatas semidiametros ex libro V. sive geometrice ex
+
+schcmate, sive compendiose et prope verum ex regula ibi tradita. At cum-
+
+tanta subtilitate non sit opus, praestat eam omittere, quam captum novatae
+aequationum formae adhuc difficiliorem reddere, Maxima quidem omnium
+
+curtatio seu latitudo lunulae in totalem eecentricitatem ducta inque denomi-'
+
+nationem astronomicam conversa, non efficit 7 secunda, quae dueta in 2⁰ 30‘, ’
+
+aequationem maximam menstruam, efficit 17“ nibil ultra. Hoc fit tune, quando
+B in E incidit. At quo longius Β ab Ε discedit, hoc minor semper.est hic
+errorculus, duplici nomine, et quia curtatio minor et quia eecentricitas men-
+strua minor.
+
+Quid est aryumentum lonyitudinis menstruum? Est arcus eecentrici.
+Lunae, inceptus a parallela lineae apogaei menstrui (boc est vel loci Solis
+vel ejus oppositi) in easdem partes educta et numeratus in consequentia us·-
+
+que ad lineam loci Lunae primo aequati, seu aequatione solitaria solutae¹
+
+affecti.
+
+Quomodo invenitur aryumentum menstruum? Distantia apogaei men-
+strui (hoc est vel loci Solis vel ejus oppositi) ab apogaeo Lunae anomaliae
+,solutae subtrahenda est ab anomalia eecentri, adjecto ei circulo integro si
+opus est, sic remanet argumentum menstruum. ,ς
+
+In schemate 89. sit ΑΗ linea loci Solis, AD linea apogaei solutae, HAD minor
+recte, eoque ΑΗ linea apogaei menstrui, eique parallela BP in easdem partes BP,
+
+ι
+-..ρει-...α ..7' -,-¹—- —0 a.. Q* -ψ
+
+et HAD distantia Solis ut apogaei menstrui ab apogaeo Lunae. Sit etiam AL linea ἦ
+motus Lunae primo aequati, et DL vel DBL anomalia eecentri, Aufer HAD, hoc est i
+PBD ab LBD, restabit LBP, argumentum menstruum. Sit AM linea motus Lunae, ··
+
+DBM anomalia eecentri, erit PBM argumentum menstruum. μ
+
+Qua re repraesentantur et mensurantur aequationes Lunae menstruae,- ἱ
+
+competentes locis Lunae propositis? Areis triangulorum super basi, socen-⁴ ·
+tricitate puncti menstrui, stantium, vertice in puncto orbitae Lunae proposito91
+
+Rediguntur autem areae istae hac vice in gradus ct minuta, qualium arci ¹¹
+
+totius orbitae valet gr. 360
+
+Ut quia C est punctum menstruum, CA ejus eecentricitas a Terrae centro A* Ι
+
+‘si ergo fuerit in aliquo momento talis dispositio, Luna versante in L, tunc area πῖ*
+anguli CLA metitur aequationem menstruam. Quodsi alio tempore reversa fueriti
+
+eadem dispositio, idem scilicet mensis technicus, Luna tunc in M versante, rursum 1
+
+area CAM prodit mensuram aequationis menstruae.
+Quomodo computatur area trianquli, cujus basis est eecentricitas ΟΔ
+
+l
+
+puncti 0 menstrui? Quodlibet horum triangulorum habet socium, cujus ver· · f
+
+tex idem, basis vero BZ eecentricitas menstrua centri eecentrici B, differentia ¹¹
+inter utrumque est particula exsors. Prius igitur sunt computanda triangula ·
+
+'haec socia. et particula exsors, tunc addita haec illis constituit areas triangu- ἕ 2
+

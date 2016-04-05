@@ -1,0 +1,64 @@
+Liber Tertius. Pars Secunda. -229
+
+Dic, quo medio effectum, ut ecliptica declinaret ab aequatem, et cui
+fini? Causa hujus declinationis genuina et formalis est axis illius, circa quem
+velut immobilem Tellus rotatur, inclinatio super eclipticae planum, in quo
+centrum Terrae versatur, annuo motu circa Solem circumiens, Nam si super
+hoc planum, motu Terrae annuo formatum, staret erectus axis motus Terrae
+diurni, coinciderent aequator et ecliptica. (Vide abhinc schema secundum.) Causa
+finalis hujus inclinationis cst procul dubio usus hominum et animantum per
+omnem circumcirca superficiem Telluris dispersorum} ut varietas phaenomenon
+coelestium ad omnia omnino Terrae loca pertingeret, quod infra pluribus ex-
+
+. plicabitur parte quarta. Haec igitur in astronomia Copernicana jucundissimis
+
+ 
+
+rationibus demonstrantur ingeniosissime, sic ut in eadem Tellure statuatur et
+modus rei et finis3 in astronomia vulgata hoc solum docemur, quod sit3 cur
+sit et quomode, id involutum est ibi multa caligine.
+
+Quomodo inquiri solet maxima eclipticae declinatio? Non aliter nisi
+observando, Nam 1) attendunt astronomi continuis diebus, quando Sol om-
+nium maximam et rursum in opposita circuli annique parte omnium minimam,
+tempore utrinque meridiano, repraesentet altitudinem, quarum utramque quad-
+rantis instrumento metiuntur. Deinde minimam a maxima subtrahunt, resi-
+duum bifariam sectum habetur pro declinatione maxima.
+
+2) Paulo alius est modus, si prius observet astronomus altitudinem poli,
+ut supra docebamur, per stellas circumpolarcS, deinde maximam Solis altitu-
+dinem meridianam, aestivis diebus observatam, ad altitudinem aequatoris com·-
+parct3 differentia enim est iterum maxima eclipticae declinatio,
+
+3) Aut ut supra, cognita altitudine poli et linea meridiana, ex quocun-
+que azimutho et altitudine Solis simul observato habetur per calculum ejus
+declinati0, in die quidem solstitii maxima.
+
+Quanta est haec maoeima eclipticae declinatio ab aequatore‘? Non plane
+consentiunt in minimis omnium seculorum astronomi. Indi vetustissimi faciunt
+eam 24 praecise graduum, quae est quindecima totius circuli pars. Eratosthenes
+toto circulo diviso in partes 83, earum undecim dicit aequari duplo declina-
+tionis maximae. Itaque illi declinatio maxima est 23ο 51¹J3‘ proxime, quan-
+. tam etiam Hipparchus et Ptolemaeus, Eratosthenem secuti, retinuerunt. Alba-
+, · tegnius prodidit 23. 35, Arzachel 23. 34, Almeon 23. 33, Prophatius Ju-
+’ dacus 23. 32, Tycho Brahe 23. 3172, itemque alia ratione 23. 30¹l2, et
+cum Peurbachio‚ Copernico aliisque hujus temporis astronomis in arctoo
+orbe 23. 28 vel etiam 23. 27. Ita omnis dissensus inter 24 minuta versa-
+tur, quae sunt pars nongentesima circuli non major. Utimur tamen hodie in
+astronomia Braheana communiter 23. 31¹s2. ²⁹)
+
+Quae est huius varietatis causa? Una vera causa coelestis est in ec,
+quod putatur axis quidem Telluris retinere suam' inclinationem, ecliptica vero
+pauculis minutis ab iis fixis, quibus olim erat ins. gnita, hodie recessisse. Sed
+
+’ haec causa pertinet ad librum VII. Altera causa est terrestris et particularis χ
+
+Germaniae seu arctoo orbi, quod Sol in humillima sua altitudine meridianae
+propter aeris densitatem radios} in eo refringit refractosque ad nos mittit,
+'quo pacto aliam censetur altitudinem habere, quam vere habet. Id non fit
+adeo sensibiliter in australioribus Terrae locis, quibus Sol in meridie non est
+adeo humilis. ’
+
+Doce erqo calculo investiyare cujuslibet puncti eclipticae declinationem.
+Concipiendum est triangulum inter sectiones mutuas aequatoris, eclipticae ct
+

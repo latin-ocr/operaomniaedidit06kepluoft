@@ -1,0 +1,85 @@
+478 · Epitomes Astronomiae
+
+De physicis quidem et quid -in re ipsa insit, dictum cst libro IV. fol„ 392. .
+
+In praesens non de apparatu reali agitur, sed imaginatio adjuvatur.
+
+In schemate praemisso fingatur planum aliquod, per A, C puncta duc-
+tum, obliquum esse ad planum eclipticae, super linea per nodorum loca et
+per A centrum* Terrae ducta, *angulo constanti 5⁰. In lioc plano sit linea
+
+HCAG copularum, designata per sectionem plani, per centra Solis et Terrae >
+
+transeuntis, ad planum ecliptica'e recti. Super hac linea HCAG ipse eccen- ’
+
+tricus Lunae DLFM inclinetur ad planum prius dictum, non quidem semper, f
+sed legibus sequentibus. Sint Ι, K loca quadraturarum sub fixis exeantque ex ·
+
+his punctis sphaerae fixarum duo arcus, recti ad planum primo dictum, uter-
+
+que centro A descripti, quilibet non longior 18 minutis in utramque plagam. ⁹
+
+Quando ergo limites anomaliae solutae sunt in linea HCAG, tunc planum ι
+
+eccentri DLFM uniatur plano priori, sic ut nulla illorum sit inclinatio mutua,
+sed solummodo communis utrique ,inclinatio ad planum eclipticas. At cum
+limes solutae, verbi causa boreus, incipit ab H oppositione discedere versus
+K quadram, ut si veniat in D, sicut se habet sinus anguli HAD ad sinum
+anguli recti HAK, sic etiam se habeat portio librationis in boream ipsius
+limitis menstrui K ad librationem seu inclinationem planorum totalem, quae
+est 18 minutorum, quae totalis inclinatio fit co mense, quo limes solutas
+boreus venit¹ in K, locum quadrae seu limitem menstruum. Hoc pacto fit,
+ut limes solutae boreus assurgat a plano priori in boream tantisper, dum in
+K quadram incidat, inde paulatim iterum annuit ad planum prius, tandemque
+in G veniens in ipsum planum recidit. Ubi primum hic limes solutae boreus
+suerit transgressus punctum G versus 1, jam semicirculus HKG fit respectu
+latitudinis menstruae australis, GIH borealis, et limes solutae boreus rursum
+in boream attollitur, quippe totum planum eccentrici GIH in arcu per I ducto
+tollitur in boream totumque HKG in arcu per K mergitur in austrum.8³)
+
+Quae est methodus computandi librationem seu inclinationem limitis menstrui? g
+
+ 
+
+ 
+
+ 
+
+ 
+
+Distet Sol a nodo . . 30⁰ vel 60⁰
+Sinus complementi . . 86603. vel 50000.
+Aufer decimam . . . 86603. vel 50000.
+Restat 7⁷94‘27. 450000.
+Hujus duplum 1558854. 900000.
+(absectis 5 ultimis) 15¹ 35¹‘ vel 9¹ 0⁴⁴ est inclinatio limitis .
+
+menstrui.
+
+Quid appellas scrupula latitudinis? Sunt sinus complementorum ad ·
+unum vel tres quadrantes vel excessuum super unum vel tres quadrantes die· ,
+
+stantiae Solis* a nodo Lunae evehente, redacti in scrupula astronomica, qua·- ··
+
+lium vsinus totus valet 60‘, seu sunt tripla sesquitertia anguli inclinationis limi· ²
+
+tum menstruorum, in quolibet mense technico constantis.
+
+Quid est aryumentum menstruum latitudinis? Est nihil· aliud, quam. j
+
+distantia veri et absoluti loci Lunae a vero loco Solis·
+
+Quid est latitudo Lunae menstrua? Est arcus circuli magni sub eclipq J
+tica descripti, cujus planum transiens per centra Telluris et Lunae sit ad .
+rectos erectum super planum, constanti angulo 5⁹ inclinatum ad planum eclip- =
+
+ficas, interceptus inter hoc planum continuatum et inter locum centri corporis.
+
+Quomodo computatur? Multiplicatione scrupulorum latitudinis menstruo-4 ¹
+rum in inclinationem limitis, argumento latitudinis menstruo excepto en
+
+mense pleno, q
+Quid consequitur hane suppositionem yeminatae latitudinis in motum
+
+nodorum? ‘Verus nodus *seu intersectio ipsius orbitae cum ecliptica sortitur.
+

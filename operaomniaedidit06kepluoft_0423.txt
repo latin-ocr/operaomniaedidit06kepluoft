@@ -1,0 +1,78 @@
+Liber Quintus. Pars Prima. 409
+
+teri-allum aequale ipsi BP ex A extendatur in DB, sitque terminus ejus E. Planetae
+igitur orbita secabit DB in E. Rursum assumatur arcus circuli PG eiusque sinus seu
+ordinatim applicata GFZ et sinus versus PF. Fac igitur ut BP ad PF, sic ΒΑ, dimi-
+diam librationem, ad partem ipsi PG competentem, qua ablata ab AP, residuum ex A
+in GF extendatur incidatque terminus in H. Dico, ιιι DB'est ad ΒΕ, sic etiam esse
+GF ad ,FH, Scribuntur enim quadrata, super GF quidem GIOF, super HF vero ΗΚ,
+ιιι sit gnomon HIK; deinde G cum A et cum B connectatur, et ex A perpendicula· ’
+ris in GB continuatam exeat, quae sit AC.
+
+Dico initio, quadratum ab AC aequale esse gnomoni HIK.
+
+Nam quia factum est, ιιι BP ad PF, sic BA ad differentiam linearum ΑΡ, AH,
+qnare etiam ιιι PB ad BF, sic BA ad excessum, quo AH adbuc superat BP. At
+etiam ut PB seu GB ad BF, sic AB ad BC, quia GFB et·ACB rectangula aequales
+babent angulos GBF et ABG ad verticem. Ergo BC aequat portionem, qua AH su-
+perat BP3 at et CG superat BP, hoc est BG, eadem portione BC, quare aequales sunt
+GC et HA. Sed quadratum rectae GC una cum quadrato perpendicularisAO juncta
+aequant quadratum rectae GA. Ex altera vero parte quadratum ab AF cum quadrato
+ab FG junctim aequant quadratum ejusdem GA. Ergo aequalia sunt duo quadrata
+a GF et ab FA juncta junctis quadratis a GC et a CA. Aequalia igitur auferantur,
+hinc quadratum ab GC, inde quadratum ab aequali linea ΑΗ, id est duo quadrata et
+ab AF et ab FH, scilicet HK: restat hic quadratum ab AC, illic gnomon HIK. ⁶⁰)
+
+Hinc jam facile pertexitur reliquum demonstrationis propositae.
+
+Nam ut unns sinus GF ad suam perpendicularem AC, sic omnes alii ad suas
+ex A. Ut igitur quadratum sinus GO ad quadratum ab AC, id est ad gnomonem
+HIK, ita omnium sinuum quadrata ad suos gnomones: quare etiam ablatis gnomo-
+nibus, ut unius sinus GF quadratum GO ad quadratum HK ipsius FH, a distantia
+HA planetae a Sole determinatae, ita uniuscujusque sinus quadratum ad minoris a
+sna distantia determinatae quadratum. Quorum vero quadrata sunt inter se propor-
+tionalia, illa ipsa nt latera sunt proportionalia inter se. Ut igitur GF ad FH, portio-
+nem ab ΑΗ terminatam, sic quilibet sinuS, ut DB ad BE, portionem a sua ΑΕ deter-
+
+· minatam: quae ratio est genuina ellipseos.
+
+Altera proprietas ellipsis per se patet.
+Ad praescriptum enim legum librationis (quia scilicet in quadrante orbitae PE
+
+’ consumi debet dimidia libratio ipsi BA aequalis) residuae BP aequalem ex A in DB
+ν extendimus, scilicet AE. Nam quia A focus unns, si ipsi BA statuatur aequalis in
+
+BP ex B extensa, designabitur focus alter, cujus ab E distantia erit aequalis ipsiAE,
+
+ζ et junctae aequabunt diametrum: quod fit in ellipsi.
+
+Quae est proportio DE, latitudinis lunulae ab ellipsi de circulo re-
+
+sectae, ad eccene-{citatem BA? Eccentricitas BA est medio loco proportionalis
+³ inter DE et ΕΤ. Eodem modo etiam omnis perpendicularis, ιιι AC, est rne-
+dinm proportionale inter GH et HZ residuum subtensae. ’
+
+Nam rectangulum sub GH et ΗΖ aequale est gnomoni HIK. Sed hic gnomon
+
+Ἰ est aequalis quadrato AC, ergo et rectangulum GHZ est eidem AC quadrato aequale.
+, Sunt ergo continue proportionales GH, AC, HZ.
+
+De lonqitudine haim orbitae elliptieae ejusque partium quid tenebo?
+
+’ Sectis figuris circuli et ellipsis per infinitas GF, DB ordinatim applicatae,
+
+primae portiones in P desinentes (ut GP ad PH) erunt ut GF ad FH, ulti-
+
+, mae in D, Ε desinentes (ut GD ad HE) erunt inter se aequales, ita proportio
+
+ΟΒ ad BE, incepta a P, paulatim obliteratur, inque D, Ε in meram aequa-
+
+ι litatis proportionem vanescit. Integri vero arcus a P incepti proportionem
+ἲ inter se habent compositam ex omnium minimarum particularum ‘proportioni-
+
+bns omnibns, eoque nunquam penitus exuunt totam proportionem DB ad ΒΕ.
+
+Ῐ Nam quadrantes ΒΡ ad PE et sic etiam tota circularis ¹linea ad totam ellipti-
+
+ι
+

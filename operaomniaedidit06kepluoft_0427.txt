@@ -1,0 +1,69 @@
+Liber Quintus. Pars Prima. 413
+
+aequalibus, non omnimodis arcubus, sed eorum promotionibus circa Solem, iu
+eadem a Sole distantia, debentur aequales·
+
+Sit ἐρίων hoe paeto reete distributa area ellipseos inter biyas opposi-
+torum arcuum: demonstra nune, sinyula trianyula seorsim sinyularum mo-
+rarum esse mensuras iustissimas. Demonstratio facilis estex praemissis.
+
+Nam quia secundum axioma nostrum mora planetae in arcu PC est ad
+moram in arcu aequali BG, sicut distantia illius a fonte motus ΑΡ ad distan-
+tiam bujus AR, est vero etiam area trianguli PCA ad aream trianguli ΒΘΑ
+(quod basin RG habet aequalem basi prioris PC) ut altitudo illius PA ad
+altitudinem hujus RA: quare mora planetae in arcu Po est ad moram in,
+aequali arcu RG, sicut area trianguli PCA ad aream trianguli RGA.
+
+Eodem modo demonstrabitur etiam mora planeta in CF, potestate aequali
+ipsi GP, esse ad moram ejusdem in GH, sicut est area ACF ad aream AGH,
+nbi summa utriusque areae aequalis cst summae priorum et sic consequenter.
+Tota igitur area ellipseos, secta ex A in triangula, eadem proportione distri-
+buitur inter arcus, qua etiam totum periodieum tempus inter eos est distri-
+
+* butum. Triangula igitur singula justissimae sunt in proportione mensurae
+singulorum suorum arcuum.
+
+Demonstratio hujus plenariae aequipollentiae traditur in Commentariis
+Martis cap. LIX. t'ol. 291. (ΙΙΙ. 404), cujus folii linea 13. a fine unica vocula erit
+obscuritatem magnam induxit3 quam si mutaveris in computaretur, omnia erunt
+planiora. Quamquam fateor, obscurius ‘ibi traditam plusque operae natum
+
+ex eo, quod distantiae ibi non ut triangula consideratae sunt, sed ‘ut numeri
+et iineae.
+
+V. De aequipollentia plani circularis et plani elliptici in
+mensurandis moris arcuum.
+
+·. Durum et insolens, quin etiam intricatum esse videtur neyotium , ut
+ἒ calculator in computatione temporis rediyatur ad planitiem flyurae ellipticae.
+Imo usurpatione plani circularis loco elliptici fit omnium opinione facilius,
+, adeo ut vetus calculus huic novo in facilitate nequaquam 'comparandus sit.
+i (V. ⁸. 1).39.)
+·, Demonstro planorum aequipollentiam, causa mensurandi temporis.
+Repetatur igitur figura 77. pag. 408, qua generationem plani elliptici demon-
+ζ stravimus.
+
+Et quia hactenus hoc est demonstratum, quod sicut se habet semissis temporis
+
+’ periodici, quo planeta peragrat semissem orbitae PER, ad tempus, quod planeta con-
+³. sumit in PH vel in PE, sic etiam se habeat ad unguem area PER ad aream PHA
+
+vel PEA, supra vero hoc etiam est demonstratum, quod area PDR sit ad PER ut
+Pes ad PHA et ut PDA ad PEA, omnium enim erat proportio eadem, quae DB ad
+
+; ΒΕ. eoque etiam permutatim: sicut se habet area PER ad PHA vel PEA, sic etiam
+sc habeat area PDR ad PGA vel PDA, sicut igitur se habet semissis temporis perio·
+' dici arcus PER ad tempora arcus PH vel PE, sic se habet arca PDR ad PGA vel
+
+PDA. Quare in his segmentis plani semicircularis inest exactissima mensura morarum,
+t quas planeta nectit in unoquolibet arcu ellipsis.
+
+Ostende nunc etiam commoditatem haim mensurationis. Assumto
+
+, segmento PGA, ducatur ex G recta in centrum B. Datur igitur proportio
+1 sectoris GBP ad totum circuli planum ex quantitate arcus PG data, ut non
+sit opus computatione. Totum enim tempus periodieum totumque planum
+
+¹ circuli dividitur in 360 partes more astronomieo. Restat igitur altera pars
+l sementi GBA. Atqui hujus computatio facilis est. Ut enim DB sinus totus
+

@@ -1,0 +1,85 @@
+. ''q-³2
+
+Excerpta ex Tabulis Rudoiphinis. 601
+
+Incidit de Luna, an ιιι revolutiones 360 Telluris ad 12 revol. Β, sic 365¹l4
+ad 12¹l3? (Nil sequitur.) .
+
+, ” 93) p. 524. In triangulo sphaerico ιροέᾆιιε AQ = '1⁰ 47¹ 40⁰, Ao = 24⁰ 17¹ 40⁷¹
+,. sm.
+
+sin. AO
+
+10g. sin. AQ = 8,4957364
+
+10g sin Ac = 9, 6142917
+
+8, 8814447, G = 4⁰ 22‘. Jam prolongatis arcu-
+bus QG, Ac in eclipticam, datur angulus (40 22’) et, latus 240 17⁴ 401‘ ,quare
+
+sin x = sin. 40 22 cos, 240 17’ 40¹‘
+
+log sin. 4⁰ 22¹ = 8,8814447
+log. cOS. 240 17’ 40¹¹ = 9,9597296
+
+8,8411743; x = 3⁰ 58¹ 40¹¹
+¹ ξμς Si Kepleri logarithmis uti volueris, deprehendes 10g‚ 4⁰ 22‘ = —257557
+
+a. 10g. 24⁰ ᾎιτ 40” 9273
+l* —266830 = log. 3⁰ 581 40¹¹.
+ἐ Tabulae Rudolphinae cap. XXXIV. exhibent »praeceptum« 186: Invento arqu-
+mento obliquitatis, supputare veram eclipticae obliquitatem. Etsi tabulae exhibent
+J‘am computatas obliquitates ipsas, quia tamen formae quinque sunt (cfr. ann. 37),
+'⁶5³ generaliter secundum omnes supputare doceb0, quod proponitur, non excerpere
+33 Supervacuum enim existimo, tabulas integras prosthaphaereseon obliquitatis condere
+‘2 ssffl‘ssffiissiiisiffisfffififfia ⁸³3 “2⁰³¹'5a’¹¹12⁶¹⁰t³¹m5fiiffpgisstffludtffiffiffiffi Ἑῗὲἲ
+³. ιιι ιι olum ocsm s
+tus, praeceptum hoc obseraeans, &fsque facile computare quaesitum possit sine tabula,
+· ιο ex tabula jam constructa per partem proportionalem depromere
+g, Igitur exscribe obliquitatem mediam cujusque formae, quam hac elegisti vice,
+ἶ propriam, una cum semidiametro circelli. Invenies autem ista in tabula obliquitatis
+y ,jv ‘eclipticam consignata sub calce formae uniuscujusque. Tunc argumenti obliquitatis
+4 antilogarithmum dog. cos) adde logarithmo circelli competentis, qui componitur, ut
+logarithmus in canone quaesitus, exhibet prosthaphaeresin obliquitatis, quam obliqui·
+- tati mediae in primo et ultimo quadrante argumenti adde, in secundo et tertio subtrahe ,
+’ Haec obliquitas utroque casu constituta si quidem in prima forma versaris,
+:propter ejus circelli parvitatem citra exceptionem perfecta et absoluta est; at in 4
+{ermis reliquis tunc solum est perfecta, si polus eclipticae libratur ιιι circelli diametro. s
+si vero circumire polus iste ponitur in circelli circumferentia, tunc ob ejus in 4
+
+posterioribus formis magnitudinem opus erit aliqua correctiuncula, quae 'sic perficitur:
+
+deprehendes angulum O formula: sin. C =
+
+ 
+
+ 
+
+ 
+
+ 
+
+formae, summam et serva ad usus sequentis praecepti, et ,iam quaerev in tabella cor-
+rectionis obliquitatis sub titulo aggregati, et positam in linea correctiunculam adde ad
+obliquitatem prius utroque casu inventam3 ita erit absoluta et secundum quamque for-
+mam perfecta obliquitas.
+
+Praecept um 187: Supputwe prosthaphaeresin aequinoctiorum. Si vel nulla
+αι re vera mutatio obliquitatis eclipticae, vel talis, ut polus eclipticae temporariae
+libretur in colnro solstitiorum, hoc, inquam, posito, nulla neque prosthaphaeresis
+aequinoctiorum motus est inquirenda. Sin autem ponimus, polum dictum cir‘cumire
+in circumferentia circelli secundum unam ex 5 formis, tunc nascitur etiam haec
+prosthaphaeresis motus aequinoctiorum, quae in prima forma exhibetur'jam computata
+ad interstitia 74 annorum, quibus argumentum obliquitatis denis gradibus crescit3 sed
+mpulosius sic potest exquiri communiter in omnibus formis: sit initio ιιι promtu
+1) argumentum obliquitatis, 2) obliquitas incorrecta, 3) aggregatum excerpendae cor-
+rectiunculae. Ab hoc igitur aggregato aufer illius obliq. incorrectae logarifflmum,
+ἶ, residuo vicissim adde antilogarithmum obliquitatis mediae; quod in summa prodit,
+'J quaesitum in canone ut logarithmus‚ monstrabit prosthaphaeresin, quae titulum ad-
+! dendae gerit in primo semicirculo argumenti obliquitatis, subtrahendae in secundo.
+Exemplum: 1) ad a. Ch. 883 sit invenienda obliquitas (secundum formam 4). Ar-
+
+ 
+
+ergumenti obliquitatis logarithmum adde ad log. circelli, qui proprius est quusque ¹
+

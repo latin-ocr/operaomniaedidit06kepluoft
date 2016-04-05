@@ -1,0 +1,58 @@
+'100 Tabularum Rudolphinarum
+
+De cetero calculus eclipsium altitudinis quidem parallaxi hic non indiget, ut
+in ceteris tabulis. <
+
+Praec. 133: Parallaxes longitudinis et latitudinis discernere locumque
+visibilem per eas determinare, tam centri quam marginum.
+
+-Primum sitin promtu parallaxis horizontalis3 deinde loci Solis ascensio recta
+petatur 'ex sua tabula una cum declinatione, puncto eclipticae culminante et
+angulo ejus cum meridiano respondentibus, Tunc horae et minuta post meri-
+diem cujus‘que loci, quae proponuntur, conversa in gradus aequatoris addantur
+ascensioni rectae Solis, ut constituta sit asc. recta medii coeli. Quodsi tempus
+aequale sit, id convertendum erit in apparenS, quod compendiosissime fit ad-
+jectione vel subtractione ab asc. recta medii coeli partium aequationis tem-
+poris, quas exhibet tabula. Quodsi sunt ad manus Tabulae Directionis Regio-
+montani, continuatae a ReinholdO, vel Tabulae Primi Mobilis Magini, delecta
+ex iis altitudine poli, quae est loco proposito, adjiciantur ad asc. rectam medii
+coeli tempora 90⁰3 quae sic conflatur ascensio obliqua horoscopi, excerpat gradum
+orientem. Hic porro immissus in tabulam suam et quaesitus iu marginibus, sub
+filo datae alt. poli, in fronte et calce quaesitae, ostendet angulum orientis.
+
+Qui vero caret his libris, is recurrat ad caput XIV. horum (v. s.fol. 677 ss.);
+ibi modos aliquot inveniet indagandi per hic data anguli orientis. Unus eorum
+sic habet, ut declinationem culminantis, si septentrionalis est, auferas ab alt.
+poli, si meridionalis, addas, ut habeas distantiam culminantis a vertice. -Tunc
+enim logarithmis (hujus et anguli excerpti) conjunctis, summa ut antilog. exhibebit
+angulum orientiS‚ per quem deinde etiam punctum ipsum oriens seu nonagesimus
+ab eo gradu indagandus est. Anguli orientis jam logarithmo ablato ab antilog.
+distantiae culminantis a vertice, restat antilog. arcus inter nonagesimum et meri-
+dianum3 qui arcus a meridiano vergit in partes contrarias puncto aequinoctiali
+vicino. Alter modus utitur positione anguli orientis ut noti et altitudine puncti
+culminantis, quae est ejus a vertice distantiae complementum ad 'quadi-antem.
+
+Est et tertius modus capite XIV. Cognito nonagesimo vel per se vel ex
+gradu oriente, numeratis in nostro hemisphaerio 90ο seu 3 signis retr0, compara
+cum eo locum Lunae verum in ecliptica. Nam si Luna suerit illo orientalior,
+parallaxi propendebit in ortum, si occidentalior in occasum. Subtracto igitur
+altero ab alter0, distantiae ᾧ ab illo logarithmus subscribatur legarithmo anguli
+orientis, pro longitudinis parallaxi, pro latitudinis vero scribatur antilogarithmus
+anguli orientis. UtrIque demum subordinetur parallaxeos totalis in horizonte
+logarithmus et sic pro longitudine 3 logarithmos in unam redige summam3
+pro latitudine 2, Hae duae summae, quaesitae inter logarithmos, ostendunt
+parallaxeS, illa longitudinis , ista latitudinis, quarum illa addita κωφῷ, si
+orientalis est, a nonagesimo ademta, si occidentalis est, ista addita lat. verae
+austrinae, ademta boreali, constituunt visibilem Q locum secundum long. et lat.
+Nisi forte lat. Q bor. minor fuerit ipsa parallaxi latitudinis, tunc enim illa
+auferenda est ab ista restabitque latitudo visa australis loco verae borealis.
+
+Haec· itaque pro loco visibili centri Q. Quodsi opus erit loco visibili
+marginum, ejus semidiameter apparens addita longitudini centri et latitudini
+. constituit locum marginis, ‘illic orientalis, hic plagae ejuS, quam habet latitud0.
+Subtracta vero a centri longitudine et latitudine maj0ri, constituit locum mar-
+ginis, illic occidentalis, hic plagae contrariae, quam est vvisa centri et illius
+marginis latitud03 sin autem latitudo visi centri fuerit minor semidiametro Θ,
+subtrahitur illa'ab hac pro latitudine marginis„ qui in plagam tenditur centri
+quidem latitudini contrariam, propriae vero eandem.
+

@@ -1,0 +1,65 @@
+Liber Sextus. Pars Quinta. ’ 511
+
+diversos Solis situs in quarta ortiva vel occidua, circulo meridiano distincta,
+praestat ex schematibus aut sphaerae seu globi contuitu, quam regulis dis-
+cere. Et exstat schema idoneum apud Tychonem Brahe Progymnasmatum
+
+- sol. 136.
+
+Doce computa-re anyulum RSE eclipticae cum verticali per certum
+ejus punctum, utpote per centrum Solis S traducto. Modi hujus computandi
+sunt quatuor. 1. Si habetur altitudo Solis et altitudo nonagesimi seu an-
+gulus otientiS, ex iis computabitur angulus secundum doctrinam fol. 241.
+libri III. vel additione antilogarithmorum utriusque, ut fiat logarithmus quaea-
+siti. 2. Si habetur azimuth Solis et altitudo nonagesimi scu angulus orientis
+et distantia ejus a nonagesimo: aufer hujus logarithmum ex logarithmo illius,
+residuum adde ad antilogarithmum altitudinis nonagesimi, fiet logarithmus an-
+
+⁰ guli quaesiti. 3. Si habetur RVA angulus verticalis RV cum AV aequi-
+
+noctiali (de cujus computatione varia vide libro III. fol. 224.), adhibe illi an-
+* gulum circuli declinationis cum ecliptica, cum quo procede vel addendo vel
+subtrahendo , prout te docuerit inspectio sphaerae vel globi. Hic modus etsi
+plura habet requisita et operosior est, suum tamen usum habet, ubi plura
+
+a momenta simul sunt computanda. 4. Si habetur angulus orientis seu altitudo
+
+nonagesimi et distantia Solis ab ec, quae duo plerumque prius dantur, tunc
+ab illius complementi mesologarithmo aufer hujus logarithmum‚ relinquitur
+, mesologarithmus quaesiti anguli. Verum hic plurima cautio est circa signa
+abundantiae vel defectae, usitata cossistis. a
+’ Doce et computare anyulum OSE eclipticac cum circulo per centra.
+Logarithmum logisticum distantiae centrorum CS, LS, DS, quae invenitur
+quovis momento, auser a logarithmo logistico latitudinis visibilis illius mo-
+menti, ut CH, LS, DF, remanet logarithmus anguli CSH, LSL (seu recti)
+et DSF.
+
+Quot sunt' ymera solarium cclipsium? Tria: vel enim totus Sol tegitur,
+vel circulus integer residuus lucet, vel pars residua· m cornua exit, quae pro-
+prie partialis dicitur eclipsis.
+
+Si Luna tanto minor est Sole, quantum libro JV. fol. 328. dictum
+est, quomodo totum Solem teyere potest? Quanto est minor ejus diameter
+diametro Solis, tanto propinquior est Terris quam ipse Sol, ut ibidem habe-, -
+
+, tur3 propinqua vero majori diametro videntur, quam si *eadem essent remota.
+
+Quando potest esse circulus residuus? Quando Luna apogaea est, Sol
+infra suum apogaeum, maxime cum in perigaeo. Nam tunc Solis diameter
+est 31‘ 6“‚ Lunae 30‘ O“. -
+
+Nunquamne hoc fit, nisi Luna in apoyaco constituta? Imo anno 1567.
+7. Aprilis visa est Romae talis eclipsis cum circulo Solis residUO, quando et
+Sol et Luna longitudines obtinebant medias et sic diameter Lunae major ap-
+parebat diametro Solis. (cfr. v01. 11. p. 316.)
+
+Quae iyitur huius phaenomem’ causa suit? Non equidem astronomica,
+valeret enim in consimili luminarium dispositione perpetuo. At anno 1605.
+die 22. Sept. 2. Oct. Luna altior seu apogaeo vicinior totum Solem in eadem
+remotione ab apogaeo suo positum texit Neapoli in ltalia. (cfr. Vol. 11. p. 696.)
+⁷ Ergo causam oportet quaerere physicam, in sublimi tamen aethere3 qua-
+rum duae occurrunt, supra etiam in eclipsibus lunae conspicuae. Prima est,
+ti substantia aetherea, in ipsa sede corporis solaris circa corpus Solis fusa,
+interdum crassiuscula sit flammeturque contactu cor-ponis solaris, tunc tecto
+Sole prominet splendor flammeus, non sinens altam nimiamque fieri umbram,
+

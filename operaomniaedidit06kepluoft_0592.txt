@@ -1,0 +1,92 @@
+578 ⁴ In Epitomen Notae Editoris.
+
+singulos gradus semicirculi commutationis adque 24 proportiones laterum trianguli
+(h. e. intervallorum Solis et Terrae, Solisque et planetae) et interJeci areis differen-
+tias tam interlineares quam intercolumnares, ut si quis vellet, more in astronomicis
+tabulis non infrequenti, partem proportionalem venari posset operatione cruciformi,
+vere cruce calculatorum. At in editione operis re diligentius expensa sufficere visa
+est tabulae pars tertia et ea quidem sine differentiis. Incipit igitur ejus ‘margo'sini-
+ster a commutationis denariis progrediturque usque ad 100⁰. Abhinc vero, cum
+prosthaphaereses orbis in' Saturno incipiant decrescere usque ad 140⁰, ubi Veneris
+incipiunt decrescere, singulos gradus exhibere visum est. Ab 140ο usque ad finem
+semicirculi sufficere visi sunt saltus per quaternos, cum sine lima per logarithmos
+nulla plane prolixitas tabulae hujus prosthaphaeresibus Martis et Veneris satisfacere
+possit. In fronte vero occurrunt ordine proportiones a 30000 ad 240000.
+
+‘Usus ‚tabulae est iste. Si tam summa quaesitorum angulorum (commutatio),
+quam proportio reperiuntur exacte in margine et fronte, area quoque exhibebit quae-
+situm exacte: sin'aliter, per summam angulorum quaesitorum (h. e. per commutatio·
+
+x nem) proxime minorem data ‘in margine inventam et per proportionis logarithmi
+
+' myriades puras in fronte ingredere, et exhibebit area communis quaesitorum angu-
+· lorum minorem (seu prosthaphaeresin orbis) respondentem elementis, quibus est
+excerptus. Idem fac cum angulo commutationis proxime majori, quam est datus,
+et cum proportionis myriade sequenti: per quae prosthaphaeresin elicies etiam maj0-
+rem. Memineris itaque, veritatem esse plerumque in medio excerptorum. Sume igitur
+aliquid intermedium et excole illud per proportionem ipsam datam. Id enim fit longe
+
+facilius, quam per ullam venationem partis proportionalis. ,
+Inter mss. Pnlkoviensia deprehendimus fasciculum, quod maxima ex parte adver-
+saria [rab. Rud. continet (Vol. XX.). Ex his hoc excerpimus:
+
+Praeceptum: Dato commutationis angulo et distantiarum proportione, invenire
+prosthaphaeresin orbis et elongationem planetae a Sole.
+
+Etsi perscriptum est in Epit. Astr. p. 751 (448), prosthaphaeresi seu parallaxi
+orbis non opus esse in calculo Rudolphino, ut qui contentus sit elongatione planetae
+a Sole, id tamen intelligebam tantum de illo modo investigandi elongationem ptanetae,
+quem tunc sequebar. Ex illo vero tempore deprehendi commodiorem calculi formam,
+
+in qua prius (in superioribus quidem)‘innotescit haec orbis prosthaphaeresis. Attende Α
+
+igitur definitionem vocis: cum de superioribus planetis agimus, vox ista, prosthaphae--
+resis orbis, intelligitur de orbe magno, qui secundum Τ. Brahei conceptiones Solem
+mg· 101. ipsum et in eo commune centrum totius systematis,
+
+planetarii circumfert. Et tunc est angulus ad pla-
+
+bem eccentricum PLAN, et. S Sol) SLT vel SM&
+
+STN. At cum de inferioribus agimus, vox orbis-⁵
+
+veteribus epicyclus dicebatur‚.et tunc prosth. orbiq‘
+
+phaereseos vox sit relativa, ut in superioribus quiq
+dem intelligatur referri ad locum planetae eccefflv
+tricum per lineas SL, SN definitum, in inferioribus 3
+
+ 
+
+ξ R
+
+Itaque in semicirculo commutationis priore ΟΒ
+prosthaphaeresis haec superiorum, ut SNT, subtrahitur &10⁰0 planetae eccentrico 8103
+
+inferiorum, ut SRP, additur ad locum Solis RSO; contra in semicirculo commutationis ὲ
+
+netam in adjecto schemate (ubi T Terra intra om ’
+
+non aliter ac in Prutenicis est angulus ad Terra ’ s
+seu angulus visionis ; in adjecto schemate (ubi ’ '5
+Terram signat, extra, orbem inferiorum unius) aas ⁴
+gulus hic‘est SRP vel SRA, ipsa sc. elongatio pla} ἶ
+netae a Sole. Consequens igitur est, cum prosthaff ἲ
+
+ι
+ι
+
+l
+s
+
+differens ab' elongatione planetae a Sole STL vd 1
+
+ξ
+
+multo commodius quam in Prutenicis accipi potest „ i
+de ipso planetae orbe eccentrico circa Solem, qu} Ξ
+
+ι
+
+vero ad locum verum Solis, per RSO definitum ἱ,
+

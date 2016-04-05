@@ -1,0 +1,65 @@
+Liber Sextus. Pars Quarta. v 471
+
+ 
+
+⁷ lorum aequatoriorum in ¹semicirculo menstruo illo, qui habet apogaeum solutae3
+ablata vero exsors particula a triangulis sociis, relinquit quantitatem areae
+triangulorum aequatoriorum in altero semicirculo menstruo stantium, qui sci-
+. licet perigaeum intercipit. Ubi semicirculi determinandi sunt per 'parallelam
+⁵, lineae copularum, per centrum eccentrici ductam.
+Ut si sit inquirenda quantitas areae CLA in semicirculo PLQ, qui F perigaeum
+” intercipit, prius igitur computandum est socium triangulum BLZ, quod majus est quam
+CLA particula exsorte‚ sic ut hac particula ablata ab area BLZ relinquatur area
+- CLA. Vicissim si sit inquirenda quantitas areae CMA in semicirculo QMP, qui habet
+D apogaeum, prius quaeritur BMZ eique additur particulalexsors 3 ita conficitur quan-
+titas areae CMA.
+Χ Docc‘ erqo computare aream trianyuli cujusque, stantis super eccentri-
+· citato menstrua centri eccentrici. Geometrica methodus est eadem, qua libro V.
+’ docti sumus computare partem aequationis physicam. Nam sinus argumenti
+, menstrui ducitur in valorem areae trianguli, quovis* mense proposito maximi,
+‘redactum in secunda graduum, et abjectis cyphris, relinquitur valor areae*
+trianguli, de quo quaeritur.
+Quomodo vero computandum sit maximum quovis mense technico trian-
+gulum, J’am praemisimus. ἢ
+Ut si 'scire velimus aream trianguli BLZ, quod sociatur triangulo cLA, tunc
+maximi hoc mense trianguli BNZ area· duc-itur, in TL, sinum argumenti PL, et ,facto
+,μοι totum BN diviso, prodit area BLZ. Logistice sumitur valor areae BLZ ex mense
+pleno, perinde ac si basis BZ aequaret ΕΑ· hic valor multiplicatur in scrupula men-
+ῃιιια, proditque valor verus areae BLZ, ita res eodem redit.
+,ἰ , Hic tamen compendium est observandum Nam quia maxima aequatio
+-, menstrua non superat 2⁰ 30¹, tractari ergo potest ut recta linea. Et quia in
+'unoquolibet mense area BLZ inde a P usque in N crescit in proportione
+χ sinuum LT etc, eorum vero eadem est sequela, quae scrupulo1um menstruo-
+sum (cum et illa sint ex sinibUS‚ ordine tamen contrario exstructa), potest
+igitur fieri multiplicatio scrupulorum menstruorum in scrupula ordinis con-
+uarii, ad argumentum menstruum accommodata. additis scilicet duobus loga-
+11111111ἰ8, aggregatum igitur statim monstrabit valorem areae hic quaesitae ex
+separata tabella huc accommodata.
+l
+ἱ
+t
+Τ
+l
+ι
+
+. Sint scrupula menstrua 48¹ 33¹¹ Logar. 21193.
+sit argumentum graduum 45. 42¹ 24¹¹ Logar. 34700.
+Summa 55893 ex peculiaritabella mon-
+pti-at 1⁰ 25¹ 45¹¹ aream trianguli socii seu aequationis partem competentem et parti-
+pulv. exsorte fermentandam ⁸¹)
+
+Qua re mensuratur particula exsors? Exso‘rtem particulam metitur et
+repraesentat areola trianguli, cujus basis est eccentricitas puncti menstrui,
+vertex vero centrum eccentrici. Hujus areolae duplum alias dicitur rectangu-
+hm quadrantis. Et reducitur areola in scrupula graduS, qualium area totius
+ementi-ici est 360⁰. ·.
+
+In schemate praemisso si C punctum menstruum et CA ejus eccentricitas, tunc in
+omnibus momentis, quibus invenitur haec dispositio punctorum C, B, A, et haec anguli
+cAB quantitas, semper areola CBA (dimidium scilicet de rectangulo quadrantis CBZA)
+est particula exsors, quocunque in puncto orbitae Luna fuerit inventa. Haec igitur
+heora si adjiciatur ad aream BMZ, constituit aream CMA. Eadem areola CBA si
+tusmtur ab area BLZ, relinquit aream CLA. Id sic patet: nam CA et BZ sunt
+nauales, quare triangula super CA ct BZ sunt ut eorum altitudines super cujusque
+bui. et ut VL ad TL, sic CLA ad BLZ. thue TL, altitudo trianguli BLZ, ad CB
+

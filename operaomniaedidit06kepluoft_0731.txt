@@ -1,0 +1,65 @@
+ 
+
+ 
+
+Praecepta. - 7 1 7
+
+Prae c. 195. Stellae siccae, cujus est data lonyitudo et latitudo ad
+a. 1600, inquirere declinationem et asc. rectam ad quodcunque tempus. Con-
+stituatur stellae longitudo ad tempus propositum secundam unam ex formis 5 obli-
+quitatiS, quae etiam adhibita fuit in loco Θ absolvendo (praec. 190), deinde cum
+hac longitudine et cum latitudine anni 1600,kperinde ac si esset illa perpetuo
+invariabilis, quaere decl. et asc. rectam3 ita conficietur decl. et asc. recta,
+competens tempori proposito. Etsi enim mutantur sortasse latitudines fixarum
+ab ecliptica, id tamen fit non motu reali fixarum, sed eclipticae ipsius dis-
+cessione a fixis e't aequa-tore, ubi fixae et aequator, respectu quidem hujus
+mutationis, inter sese non connivent.
+
+Prae c. 196. De locis planetarum emendandis, quae Ptolemaeus ob-
+servavit, ut cum calculo harum Tabularum conferri dextre possint et vi-
+cissim. Cum Ptolemaeus id punctum fixarum habeat proprincipio Υ, quod
+Θ inscendit postridie ejus diei, quo nos ex his Tabulis ad illius tempora
+computamus verum aequinoctium, omnia ergo planetarum loca diminuit gradu
+c. uno et 3¹ · tantum igitur vel detrahe computationi harum Tabularum, vel
+adde locis, ab illo per fixas observatis, ut hodiernas obs. cum Ptolemaicis
+in eandem demonstrationem componere rite possis. Non est autem ut metuat
+calculator, vitium hoc unius gradus redundaturum in eclipses aut alios plane-
+tarum motus; est enim peccatum tautummodo numerationis, a posteriori puncto
+zodiaci inceptae, motuum tenor manet, per hoc quidem peccatum, plane idem,
+et dictum est alibi, potuisse exerceri astronomiam secundorum mobilium, etsi
+plane ignorassemus puuctum aequinoctii. (V s f01.525.)
+
+Praec. 197. et ultimum astronomicorum exstat supra fol. 540. Praecepta 198 »ο 209
+,astrologiae dicata sunt eaque, J'am in publicum emissis Tabulis Rudolphinis‚ anno 1629
+
+Sagapi quasi supplementum Rudolphinarum a Keplero typis mandata. Inscriptum est hoc
+supp ementum:
+
+Sportula, genethliacis missa, de Tabularum Rudolphi usu
+in computationibus astrologicis, cum modo dirigendi novo et
+naturali.
+
+Quia plerique opus hoc Tabularum expetunt propter astrologiam quae—
+runtque, num etiam genethliaca themata integra per nostra praecepta possint
+erigi directionesque expediri, visum est, doctrinam hanc praeceptis tabularum
+appendicis loco summittere, ut in qua et praeceptorum nonnullorum usus osten-
+ditur et novis praeceptionibus plures tabularum quarundam utilitates explicantur.
+
+Praeceptum 198. De erectione thematis coelestis. Data .
+sideris lonyitudine et latitudine, ascensionem eius rectam et declinationem
+computare. Arcum eclipticae propositum resolve in gradus numerationis
+continuae ab aequinoctio vern03 sic resolutum quaere sol. 24. 25 (supra fol.
+242 s.) inter titulos asc. rect„ anguli et declinationis. Arcui decl.·adde vel
+auser ab eo datam latitudinem. Sic formatus erit arcus angulo subtensns.
+Aggrcgatis igitur logarithmis anguli et arcus subtcnsi conflatur log. decli-
+nationis verae quaesitae. Deinde decl. sic inventae antilog. aufer ab anti-
+logarithmo arcus subtensi, restabit antilog. portionis, quae auferri debet ab
+
+arcu ex margine exscripto seu ad eum addi3 sic constituta erit asc. recta
+quaesita. (cfr. cap. XIII. sol. 546. et praec. 190.)
+
+Prae c. 199. Data altitudine sideris, cujus est nota lonyitudo et latitudO,
+indayare distantiam equs a meridiano, et hujus, comparatione cum loco Solis,
+horam. Usus praecepti creber est in omnibus exercitiis mathematicis. Prae-
+cipue Arabes genethliaci parturientibus adstantes hac observandi temporis
+
