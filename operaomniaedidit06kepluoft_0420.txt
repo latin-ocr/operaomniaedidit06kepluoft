@@ -1,0 +1,64 @@
+Ι 406 ’ 'Epitomes Astronomiae
+
+non maneret parallela horizonti. in statera vero ponderum linea manet bori-
+zonti parallela‚ sed jugum dividit longitudinem brachiorum non in medio, sed
+propius graviori penderi, sic ut brachia permutatam habeant proportionem
+ponderum .
+
+Β Ut si manubrium librae DA sit aequale brachiis ΒΑ, AC, statera sic formabitur,
+pondera ista, ex Β, Ο dependentia, suspensura ad aequilibrium horizontis. Ex D per-
+pendicularis in ΒΟ ducta, quae sit ΒΚ, erit manubrium, et brachia. ΒΚ, KC3 et ut
+DF prius ad FE, sic hic ΒΚ ad ΚΟ. Tunc ut ΒΚ minus brachium ad ΚΟ majus, sic
+⁴ pondus H minus ex Ο suspendendum ad pondus Ι majus ex B suspendendum. .
+
+Monendus.est lector, difficilem esse experimentationem mechanicam, quia=
+mechanice caveri non potest pondus et crassitudo ipsorum brachiorum· debe-
+bant autem geometrice constituere meram 'lineam sine pondere et latitudine.
+
+Cui impedimento quomodo ex parte occurrendum, videatur in Archimede.
+(De Aequiponderantibus libri II)
+
+Teneo mensuram fortitudinis seu incrementi librationis in quolibet situ
+fibrarum corporis planetae, petendam a complemento anquli fibrae cum ra-
+·dio Soli33 quia vero difficulter patescere videtur hic anyulus, eo quod non
+tantum corpus continue transfertur de loco in locum, sed etiam ejus fibrae
+inclinantur, mensura haec incerta eoque inepta videtur ad usum. Imo
+
+, propter hanc ipsam inclinationem fibrarum angulus iste in arcum orbitae potest
+
+converti, ut ex hoc arcu prodeat idem sinus, eadem scilicet mensura, qua ra-
+· tione ad usum illa fit accommodatissima.
+
+” Doce et demonstra hanc conversionem anyuli dicti in orbitam. Memi-
+neris initio, cum planeta est in apsidibus, hoc est in principio orbitae, angu-
+lum inter radium Solis et fibram esse rectum. Rursum libro IV. fol. 379,
+ostensum est, fibram NQ illius figurae in ipsum Solem A dirigi, seu cum
+radio Solis NA uniri, consumto hoc angulo, cum est peractus quadrans or-
+bitae PN ab apside P, ut ita arcus orbitae ab apside metiatur complementum
+hujus anguli. Restat igitur hoc demonstrandum, etiam angulos intermedios
+fibrae cum Sole, ut ΗΙΑ, inter rectum et nullum, a mediis arcubus orbitae,
+ut ΡΙ, inter ιιιιΙΙιιιιι et quadrantem, sic compleri, ιιι juncti faciant 90⁰.
+
+Demonstraturque sic: fol. 380. est dictum, sicut est IS ad NB, sic esse sinum
+anguli HIS ad sinum anguli QNB sere Id captus causa sic usurpatum fuit de IS et
+NB, quamvis vi speculationis physicae verum sit potius de sinibus angulorum IAP.
+NAP Jam vero etiam sinus AIB est ad sinum ANB anguli, sicut sinus anguli IAP
+ad sinum anguli NAP (Ut enim BI ad BA, sic sinus ΒΑῙ ad sinum BIA, et ut eadem
+BI vel BN ad BA, sic sinus BAN ad sinum BNA; ut igitur sinus ΒΑῙ vel IAP ad}
+sinum BAN vel NAP, sic sinus AIB ad sinum ANB.) Ergo comparatis inter se mem·
+bris praemissis, invenietur HIS aequalis angulo AIB, et QN B angulo ANB, detractis-'s ,
+que aequalibus, erit SIB aequalis angulo ΗΙΑ (sicut analogice BNB angulo ANA), ,
+Sed ipsius SIB mensura est IN, quia ipsius SBI mensura est ΡΙ, ergo etiam ipsius ι
+
+ΗΙΑ mensura erit IN, complementum arcus ΡΙ. Dato igitur arcu orbitae ΡΙ, statim¹ ‹·
+datur et SI sinus illius arcus, mensura scilicet incrementi h'brationis.
+
+ΙΙ. De summa librationis peractae. ,ἰ 4
+
+ι Teneo mensuram incrementi vel viyoris librationis ad quodvis momen* 5
+tum': velim vero scire mensuram partis de libratione peractae a principio 3
+usque ad illud momentum. Ea habetur ex eJusdem arcus de orbita confecti .'
+sinu (verso. Nam sicut se habettota longior diameter ellipsis· ad librationem J
+totam, seu quod eodem redit, semidiameter orbitae ad eccentricitatem‚ sic ’
+· etiam se babet sinus versus ejusque arene, de orbita ab apside incipientis, 3
+
