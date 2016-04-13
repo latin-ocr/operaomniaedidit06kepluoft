@@ -1,0 +1,78 @@
+476 Epitomes Astronomiae
+
+recta) sit 30⁹‚comp1ement1RY 60ο sinus RX metietur adjumentum motus Lunae, in
+L positae. Metientur hoc, inquam, sinus isti non se ipsis, sed 'quadratis suis, ut quo-
+,rum proportio est dupla proportionis ipsorum sinuum Atqui si quadrantem EY seces
+in partes plurimas aequales per RX, parallelas ipsi EA, quae partes sint J‘am ER,
+RY, sicut se habet EA ad RX, sinum proximae divisionis, sic quam proxime se habet
+sinuum distantia AX ad proximorum distantiam, ut XY; hoc tanto semper est verius,
+quanto concisior est divisio quadrantis. Usurpatum hoc est libro V. et demonstratum.
+Quare in area quadrantis segmenta sunt constituta (ut EAXR) laterum omnia pro-
+portionalium. Ut enim EA longitudo ad AX latitudinem, ita etiam ΒΧ longitudo ad
+XY latitudinem, vi divisionis infinitae. Segmenta igitur sunt similia potestate, quia
+⁴in divisione infinita dissimulamus superiores curvaturas ER, RY, segmenta vero, quippe
+minima, pro perfectis parallelogrammis usurpamus. Si segmenta inter binos sinus
+sunt inter se similia, proportio igitur illorum est dupla proportionis sinuum ipsorum,
+
+ad quos terminantur. Sed et lumen Solis, promovens motum Lunae, utitur ad hoo ⁴
+proportione dupla sinuum horum. ’ Luminis igitur ista promotio dispensatur in propor- ’
+
+tione segmentorum istorum. et per consequens, sicut crescit successive quadrantis
+truncus AERX, donec quadrans fiat integer in Y, sic etiam crescit, in eadem sc. men-
+sura, promotio ista luminis, incipiensque ab E fit in Y 2⁰ 9¹ secundum Tychonis quan-
+titatem. vel 2⁰ 41‘ secundum quantitatem a priori erutam.
+
+Atqui si haec luminis promotio esset aequabilis, tunc cresceret cum ipso arcu
+ER ejusque sectore EAR3 sed¹ quia crescit cum trunco AERX, excessus igitur ipsius
+AERX super EAR, hoc est triangulum RAX metitur excessum promotionis a lumine,
+'metitur igitur variationem. Sed area rectanguli CX est dupla areae trianguli RJAX
+et duplorum est eadem proportio, quae simplorum inter sese, ergo et areae rectangu-
+lorum quadrantis metiuntur variationem.
+
+Demonstra etiam aequipollentiam oum circello Tychonis. Tycho sinum arcus,
+qui duplum habet ipsius HAL, statuit mensuram variationis. Atqui rectangula¹ qua-
+drantis, ut CRXA, crescunt etiam in proportione sinuum arcus, qui duplum habet ipsius
+ER seu HAL anguli. Duplicatur enim arcus minor ER ejusque sinus dimidiatur, et
+appositis quinque cypbris prodit rectangulum CX. Demonstratur hic processus ex
+artificiis trigonometriae compendiosae, terminis tribus, sinu toto, sinu arcus et sinu
+
+complementi, applicatis ad rectangulum sphaericum. Dimidiorum vero proportio est)
+
+eadem quae totorum: est igitur aequipollentia perfectissima.
+
+Da exemplum methodi computandi variationem. Sit elongatio Lunae prope vera‘
+
+30⁰. Ergo arcus dupli 60⁰ sinus 86603 redigitur ad scrupula, qualium 100000 sunt
+401]2 vel 51¹, qui valor multiplicatus in 86603 (potest per logarithmos) ostendit varia·
+tionem 30⁰ vel 35¹ 5¹‘ vel 441 10⁰
+40¹ 30“ logarith. 39304. 26.
+Numeri 86603 logarith. 14383. 57.
+
+’ Summa est logarithmus 53687. 83. Ι sc. 35¹ 5“ quaesitorum. .
+Velin altera demonstrativa quantitate 51‘ 0⁰ logarith. 16251. 90. ’“
+Numeri 86603 logarith. 14383. 57.
+
+Summa ost logarithmus 30635. 47. lsc. 44‘ 10“ quaesitorum.
+
+ 
+
+ 
+
+Quomodo usurpatur variatio, seu quid est locus Lunae verus et abso-'- ,
+
+lutus? Variatio in quadrantibus a linea copularum inceptis additur, in rell-
+
+quis aufertur a loco Lunae prope vero: ita conficitur tandem tertia operi .
+
+locus Lunae verus et exactus seu absolutus, scil. per aequationem solutae,
+aequationem menstruam et variationem.
+
+Dic, quae hinc emi-stat varietas horariorum‘? Horatius motus Lunae ab „¹
+aequinoctio per Tychonicam variationem efficitur in copulis quidem apogaeus q.
+29¹ 41“, perigaeus 38¹3 32‘¹; in quadris vero apogaeus 29‘ 35⁰, perigaeus 35¹ =·
+111‘. Sed per variationem auctam erunt isti: in copulis apogaeus 29¹ 50⁰, “
+
+perigaeus 38‘ 45⁶3 in quadris apogaeus 29¹ 26¹1, perigaeus 34‘ 39‘¹ et ab.-
+
+lato motu Solis ,horario medio 2‘ 27⁴¹, venit motus Lunae a Sole perigaeus 1
+
